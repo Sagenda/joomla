@@ -1,0 +1,62 @@
+{
+    "MESSAGE": {
+        "YOU_HAVE_SUCCESSFULLY_BOOKED": "Ihre Buchung war erfolgreich!",
+        "DISABLE_MULTIPLE_SELECTION": "Mehrfachauswahl deaktivieren",
+        "ENABLE_MULTIPLE_SELECTION": "Mehrfachauswahl aktivieren",
+        "NO_EVENT": "Keine Veranstaltung f\u00fcr den angegebenen Zeitraum gefunden!",
+        "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Bitte geben Sie eine g\u00fcltige E-Mail-Adresse ein!",
+        "PLEASE_SELECT": "Bitte ausw\u00e4hlen...",
+        "VALUE_IS_REQUIRED": "Wert ist erforderlich!",
+        "YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Sie haben sich erfolgreich angemeldet!",
+        "YOU_WILL_GET_NOTIFICATION": "Sie werden in K\u00fcrze eine Benachrichtigung per E-Mail und optional per SMS erhalten."
+    },
+    "ERROR": {
+        "DIFFERENT_CURRENCIES": "Sie k\u00f6nnen nicht mehrere Veranstaltungen mit unterschiedlichen W\u00e4hrungen buchen.",
+        "NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Es gibt nicht gen\u00fcgend Pl\u00e4tze f\u00fcr die Anzahl der Mitglieder, die Sie buchen m\u00f6chten.",
+        "NO_BOOKABLE_ITEM": "Please create at least 1 bookable item in your Sagenda's account!",
+        "NO_TOKEN": "Bitte kopieren Sie Ihren Authentifizierungscode (Token) aus dem Sagenda-Konto!"
+    },
+    "MULTIPLE": {
+        "NO_SELECTED_EVENTS": "Kein Ereignis ausgew\u00e4hlt. Bitte klicken Sie auf jede Veranstaltung einzeln oder nutzen Sie die Sortimentsauswahl durch Auswahl mehrerer Tage.",
+        "SELECTED_EVENTS": "Ausgew\u00e4hlte Veranstaltung\/en:",
+        "CLEAR_SELECTION": "Auswahl aufheben"
+    },
+    "SUBSCRIPTION": {
+        "REMOVE_MEMBER": "Mitglied entfernen",
+        "ADD_MEMBER": "Mitglied hinzuf\u00fcgen",
+        "AMOUNT": "Betrag:",
+        "BACK": "Zur\u00fcck",
+        "BOOK": "Buchen",
+        "DESCRIPTION": "Beschreibung:",
+        "DR": "Dr.",
+        "EMAIL": "E-Mail-Adresse:",
+        "FIRST_NAME": "Vorname:",
+        "FROM": "Von:",
+        "LAST_NAME": "Nachname:",
+        "LET_S_BOOK_IT": "Buchen wir es!",
+        "MISS": "Frau",
+        "MR": "Herr",
+        "MRS": "Frau",
+        "NOTE": "Hinweis:",
+        "PHONE": "Telefon:",
+        "TITLE": "Titel:",
+        "TO": "An:",
+        "PAYMENT_MESSAGE": "Sie werden auf die Paypal-Website weitergeleitet, um Ihre Zahlung und Buchung abzuschlie\u00dfen."
+    },
+    "CALENDAR": {
+        "DAY": "Tag",
+        "MONTH": "Monat",
+        "NEXT": "Weiter",
+        "PREVIOUS": "Vorherige",
+        "TODAY": "Heute",
+        "WEEK": "Woche"
+    },
+    "EVENT": {
+        "ALL_DAY": "Den ganzen Tag",
+        "DATE": "Datum"
+    },
+    "STANDARD": {
+        "LINK": "Link",
+        "OK": "Ok"
+    }
+}

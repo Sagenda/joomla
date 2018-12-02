@@ -16,7 +16,7 @@ defined('_JEXEC') or die; ?>
   <app-root>Sagenda is loading...</app-root>
 
   <script>
-    window.sagendaIntegration = 'WordPress';
+    window.sagendaIntegration = 'Joomla';
     window.baseUrl = 'https://sagenda.net/api/v3/';
     window.sagendaBearerToken = '<?php echo $sagendaBearerToken ;?>';
     window.sagendaWeekStartsOn = '<?php echo $sagendaWeekStartsOn ;?>';
