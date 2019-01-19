@@ -27,6 +27,6 @@ defined('_JEXEC') or die; ?>
   </script>
 
   <script type="text/javascript" src="<?php echo $module_path; ?>/angular/runtime.js"></script>
-  <script type="text/javascript" src="<?php echo $module_path; ?>/angular/main.js"></script>
   <script type="text/javascript" src="<?php echo $module_path; ?>/angular/polyfills.js"></script>
+  <script type="text/javascript" src="<?php echo $module_path; ?>/angular/main.js"></script>
 </div>
