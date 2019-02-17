@@ -12,6 +12,7 @@
     },
     "ERROR": {
         "DIFFERENT_CURRENCIES": "J\u016bs nevarat rezerv\u0113t vair\u0101kus notikumus, kuriem ir da\u017e\u0101das maks\u0101jumu val\u016btas.",
+        "NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Nav pietiekami daudz vietu to dal\u012bbnieku skaitam, kurus v\u0113laties rezerv\u0113t.",
         "NO_BOOKABLE_ITEM": "L\u016bdzu izveidojiet vismaz vienu rezerv\u0113jumu objektu J\u016bsu Sagenda's kont\u0101!",
         "NO_TOKEN": "L\u016bdzu, kop\u0113jiet savu autentifik\u0101cijas kodu (mar\u0137ierier\u012bci) no J\u016bsu Sagenda konta!"
     },
@@ -21,8 +22,9 @@
         "CLEAR_SELECTION": "Not\u012br\u012bt atlasi"
     },
     "SUBSCRIPTION": {
-        "REMOVE_MEMBER": "No\u0146emt dal\u012bbnieku",
-        "ADD_MEMBER": "Pievienot dal\u012bbnieku",
+        "REMOVE_MEMBER": "No\u0146emt Dal\u012bbnieku",
+        "ADD_MEMBER": "Pievienot Dal\u012bbnieku",
+        "NUMBER_OF_PEOPLE": "To personu skaits, kas j\u0101re\u0123istr\u0113 zem \u0161\u012b dal\u012bbnieka",
         "AMOUNT": "Apjoms:",
         "BACK": "Atpaka\u013c",
         "BOOK": "Rezerv\u0113t",

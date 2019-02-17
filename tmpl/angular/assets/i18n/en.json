@@ -5,7 +5,9 @@
 		"NEXT": "Next",
 		"PREVIOUS": "Previous",
 		"TODAY": "Today",
-		"WEEK": "Week"
+		"WEEK": "Week",
+		"LOCATION": "Location:",
+		"DESCRIPTION": "Description:"
 	},
 	"ERROR": {
 		"NO_BOOKABLE_ITEM": "Please create at least 1 bookable item in your Sagenda's account!",
@@ -55,7 +57,9 @@
 		"TITLE": "Title:",
 		"TO": "To:",
 		"PAYMENT_MESSAGE": "You will be redirected to the paypal website to complete your payment and booking",
-		"REMOVE_MEMBER": "Remove Member",
-		"ADD_MEMBER": "Add Member"
+		"REMOVE_MEMBER": "Remove Participant",
+		"ADD_MEMBER": "Add Participant",
+		"NUMBER_OF_PEOPLE": "Number of people to book",
+		"BOOK_MULTIPLE_PEOPLE": "Book multiple people"
 	}
 }

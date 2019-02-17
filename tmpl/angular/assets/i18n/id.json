@@ -1,39 +1,30 @@
 {
-    "CALENDAR": {
-        "DAY": "Hari",
-        "MONTH": "Bulan ",
-        "NEXT": "Lanjut",
-        "PREVIOUS": "Sebelumnya",
-        "TODAY": "Hari ini",
-        "WEEK": "Minggu"
-    },
-    "ERROR": {
-        "NO_BOOKABLE_ITEM": "Silahkan buat minimal 1 item reservasi di akun Sagenda mu!",
-        "NO_TOKEN": "Masukkan kode autentikasi (token) dari akun Sagenda mu!"
-    },
-    "EVENT": {
-        "ALL_DAY": "Seharian",
-        "DATE": "Tanggal"
-    },
-    "MULTIPLE": {
-        "SELECTED_EVENTS": "Event yang dipilih",
-        "CLEAR_SELECTION": "Hapus pilihan"
-    },
     "MESSAGE": {
+        "YOU_HAVE_SUCCESSFULLY_BOOKED": "Reservasi anda telah berhasil!",
         "DISABLE_MULTIPLE_SELECTION": "Non aktifkan pemilihan multipel",
         "ENABLE_MULTIPLE_SELECTION": "Aktifkan pemilihan multipel",
         "NO_EVENT": "Tidak ada event pada jangka waktu yang dipilih!",
         "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Masukkan alamat email dengan benar!",
         "PLEASE_SELECT": "Silahkan pilih...",
         "VALUE_IS_REQUIRED": "Dibutuhkan nilai!",
-        "YOU_HAVE_SUCCESSFULLY_BOOKED": "Kamu telah berhasil didaftarkan!",
+        "YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Kamu telah berhasil didaftarkan!",
         "YOU_WILL_GET_NOTIFICATION": "Kamu akan menerima pemberitahuan melalui email dan mungkin juga SMS"
     },
-    "STANDARD": {
-        "LINK": "Tautan",
-        "OK": "Ya"
+    "ERROR": {
+        "DIFFERENT_CURRENCIES": "Anda tidak dapat melakukan reservasi beberapa acara yang mempunyai mata uang pembayaran yang berbeda secara sekaligus",
+        "NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Tidak ada cukup tempat yang tersedia untuk jumlah anggota yang anda ingin lakukan reservasi",
+        "NO_BOOKABLE_ITEM": "Silahkan buat minimal 1 item reservasi di akun Sagenda mu!",
+        "NO_TOKEN": "Masukkan kode autentikasi (token) dari akun Sagenda mu!"
+    },
+    "MULTIPLE": {
+        "NO_SELECTED_EVENTS": "Belum ada acara yang dipilih. Silahkan klik setiap acara satu per satu atau gunakan pemilih rentang dengan memilih beberapa hari",
+        "SELECTED_EVENTS": "Event yang dipilih",
+        "CLEAR_SELECTION": "Hapus pilihan"
     },
     "SUBSCRIPTION": {
+        "REMOVE_MEMBER": "Keluarkan anggota",
+        "ADD_MEMBER": "Tambahkan anggota",
+        "NUMBER_OF_PEOPLE": "Number of people to book under this participant",
         "AMOUNT": "Harga:",
         "BACK": "Kembali",
         "BOOK": "Reservasi",
@@ -52,5 +43,21 @@
         "TITLE": "Titel:",
         "TO": "Kepada:",
         "PAYMENT_MESSAGE": "Anda akan dialihkan ke web paypal untuk menyelesaikan pembayaran dan reservasimu"
+    },
+    "CALENDAR": {
+        "DAY": "Hari",
+        "MONTH": "Bulan ",
+        "NEXT": "Lanjut",
+        "PREVIOUS": "Sebelumnya",
+        "TODAY": "Hari ini",
+        "WEEK": "Minggu"
+    },
+    "EVENT": {
+        "ALL_DAY": "Seharian",
+        "DATE": "Tanggal"
+    },
+    "STANDARD": {
+        "LINK": "Tautan",
+        "OK": "Ya"
     }
 }

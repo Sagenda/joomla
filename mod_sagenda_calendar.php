@@ -30,7 +30,7 @@ $locale = str_replace("-", "_",$lang->getTag());
 
 $document = JFactory::getDocument();
 $document->addStyleSheet($module_path.'/angular/styles.css');
-$document->addStyleSheet('https://unpkg.com/@angular/material@7.0.2/prebuilt-themes/indigo-pink.css');
+$document->addStyleSheet('https://unpkg.com/@angular/material@7.2.2/prebuilt-themes/indigo-pink.css');
 $document->addStyleSheet($module_path.'/bootstrap-wrapper.css');
 
 require JModuleHelper::getLayoutPath('mod_sagenda_calendar');
