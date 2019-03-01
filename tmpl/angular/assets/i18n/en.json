@@ -60,6 +60,18 @@
 		"REMOVE_MEMBER": "Remove Participant",
 		"ADD_MEMBER": "Add Participant",
 		"NUMBER_OF_PEOPLE": "Number of people to book",
-		"BOOK_MULTIPLE_PEOPLE": "Book multiple people"
+		"BOOK_MULTIPLE_PEOPLE": "Book multiple people",
+		"EVENT_SUB_TOTAL": "Event Sub Total:",
+		"TAXES_AND_FEES": "Taxes and Fees",
+		"FIXED_FEES": "Fixed",
+		"PERCENTAGE_FEES": "Percentage",
+		"FEES_FIELD_NAME": "Name",
+		"FEES_FIELD_AMOUNT": "Amount",
+		"FEES_FIELD_SUB_TOTAL": "Sub Total",
+		"FEES_FIELD_GRAND_TOTAL": "Grand Total",
+		"FEES_FIELD_PERCENTAGE": "Percentage",
+		"FEES_FIELD_CALC_PERCENTAGE_ON": "Calulate Percentage On",
+		"BOOKINGS_AND_FIXED_FEES": "Bookings + Fixed fees",
+		"BOOKINGS_ONLY": "Bookings only"
 	}
 }
