@@ -1,30 +1,47 @@
 {
+    "CALENDAR": {
+        "DAY": "Diena",
+        "MONTH": "M\u0113nesis",
+        "NEXT": "N\u0101kamais",
+        "PREVIOUS": "Iepriek\u0161\u0113jais",
+        "TODAY": "\u0160odien",
+        "WEEK": "Ned\u0113\u013ca",
+        "LOCATION": "Location:",
+        "DESCRIPTION": "Description:"
+    },
+    "ERROR": {
+        "NO_BOOKABLE_ITEM": "L\u016bdzu izveidojiet vismaz vienu rezerv\u0113jumu objektu J\u016bsu Sagenda's kont\u0101!",
+        "NO_TOKEN": "L\u016bdzu, kop\u0113jiet savu autentifik\u0101cijas kodu (mar\u0137ierier\u012bci) no J\u016bsu Sagenda konta!",
+        "DIFFERENT_CURRENCIES": "J\u016bs nevarat rezerv\u0113t vair\u0101kus notikumus, kuriem ir da\u017e\u0101das maks\u0101jumu val\u016btas.",
+        "NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Nav pietiekami daudz vietu to dal\u012bbnieku skaitam, kurus v\u0113laties rezerv\u0113t.",
+        "MINIMUM_QUOTA": "You need to book a minimum of {{value}} slots",
+        "MAXIMUM_QUOTA": "You can't book more than {{value}} slots"
+    },
+    "EVENT": {
+        "ALL_DAY": "Visu dienu",
+        "DATE": "Datums"
+    },
+    "MULTIPLE": {
+        "SELECTED_EVENTS": "Atlas\u012btais (ie) notikums (-i):",
+        "CLEAR_SELECTION": "Not\u012br\u012bt atlasi",
+        "NO_SELECTED_EVENTS": "Nav atlas\u012bts neviens notikums. L\u016bdzu, noklik\u0161\u0137iniet uz katra notikuma individu\u0101li vai izmantojiet diapazona atlasi, izv\u0113loties vair\u0101kas dienas."
+    },
     "MESSAGE": {
-        "YOU_HAVE_SUCCESSFULLY_BOOKED": "J\u016bs esat veiksm\u012bgi veicis rezerv\u0101ciju!",
         "DISABLE_MULTIPLE_SELECTION": "Atsp\u0113jot vair\u0101ku vienumu atlasi",
         "ENABLE_MULTIPLE_SELECTION": "Iesp\u0113jot vair\u0101ku vienumu atlasi",
         "NO_EVENT": "Nor\u0101d\u012btajam periodam nav atrasts neviens notikums!",
         "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "L\u016bdzu, ievadiet der\u012bgo e-pasta adresi!",
         "PLEASE_SELECT": "L\u016bdzu izvelties...",
         "VALUE_IS_REQUIRED": "Nepiecie\u0161ams ievad\u012bt!",
+        "YOU_HAVE_SUCCESSFULLY_BOOKED": "J\u016bs esat veiksm\u012bgi veicis rezerv\u0101ciju!",
         "YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "J\u016bs esat veiksm\u012bgi abon\u0113ju\u0161i vienumu!",
         "YOU_WILL_GET_NOTIFICATION": "Dr\u012bz J\u016bs sa\u0146emsiet pazi\u0146ojumu e-pasta un SMS (p\u0113c izv\u0113les)."
     },
-    "ERROR": {
-        "DIFFERENT_CURRENCIES": "J\u016bs nevarat rezerv\u0113t vair\u0101kus notikumus, kuriem ir da\u017e\u0101das maks\u0101jumu val\u016btas.",
-        "NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Nav pietiekami daudz vietu to dal\u012bbnieku skaitam, kurus v\u0113laties rezerv\u0113t.",
-        "NO_BOOKABLE_ITEM": "L\u016bdzu izveidojiet vismaz vienu rezerv\u0113jumu objektu J\u016bsu Sagenda's kont\u0101!",
-        "NO_TOKEN": "L\u016bdzu, kop\u0113jiet savu autentifik\u0101cijas kodu (mar\u0137ierier\u012bci) no J\u016bsu Sagenda konta!"
-    },
-    "MULTIPLE": {
-        "NO_SELECTED_EVENTS": "Nav atlas\u012bts neviens notikums. L\u016bdzu, noklik\u0161\u0137iniet uz katra notikuma individu\u0101li vai izmantojiet diapazona atlasi, izv\u0113loties vair\u0101kas dienas.",
-        "SELECTED_EVENTS": "Atlas\u012btais (ie) notikums (-i):",
-        "CLEAR_SELECTION": "Not\u012br\u012bt atlasi"
+    "STANDARD": {
+        "LINK": "Saite",
+        "OK": "Labi"
     },
     "SUBSCRIPTION": {
-        "REMOVE_MEMBER": "No\u0146emt Dal\u012bbnieku",
-        "ADD_MEMBER": "Pievienot Dal\u012bbnieku",
-        "NUMBER_OF_PEOPLE": "To personu skaits, kas j\u0101re\u0123istr\u0113 zem \u0161\u012b dal\u012bbnieka",
         "AMOUNT": "Apjoms:",
         "BACK": "Atpaka\u013c",
         "BOOK": "Rezerv\u0113t",
@@ -42,22 +59,21 @@
         "PHONE": "T\u0101lrunis:",
         "TITLE": "Uzruna:",
         "TO": "Kam:",
-        "PAYMENT_MESSAGE": "J\u016bs tiksiet novirz\u012bts(-a) uz apmaksas t\u012bmek\u013ca vietni, lai pabeigtu maks\u0101jumu un rezerv\u0113jumu"
-    },
-    "CALENDAR": {
-        "DAY": "Diena",
-        "MONTH": "M\u0113nesis",
-        "NEXT": "N\u0101kamais",
-        "PREVIOUS": "Iepriek\u0161\u0113jais",
-        "TODAY": "\u0160odien",
-        "WEEK": "Ned\u0113\u013ca"
-    },
-    "EVENT": {
-        "ALL_DAY": "Visu dienu",
-        "DATE": "Datums"
-    },
-    "STANDARD": {
-        "LINK": "Saite",
-        "OK": "Labi"
+        "PAYMENT_MESSAGE": "J\u016bs tiksiet novirz\u012bts(-a) uz apmaksas t\u012bmek\u013ca vietni, lai pabeigtu maks\u0101jumu un rezerv\u0113jumu",
+        "REMOVE_MEMBER": "No\u0146emt Dal\u012bbnieku",
+        "ADD_MEMBER": "Pievienot Dal\u012bbnieku",
+        "NUMBER_OF_PEOPLE": "Rezerv\u0113jamo personu skaits",
+        "BOOK_MULTIPLE_PEOPLE": "Book multiple people",
+        "EVENT_SUB_TOTAL": "Event Sub Total:",
+        "TAXES_AND_FEES": "Taxes and Fees",
+        "FIXED_FEES": "Fixed",
+        "PERCENTAGE_FEES": "Percentage",
+        "FEES_FIELD_NAME": "Name",
+        "FEES_FIELD_AMOUNT": "Amount",
+        "FEES_FIELD_GRAND_TOTAL": "Grand Total",
+        "FEES_FIELD_PERCENTAGE": "Percentage",
+        "FEES_FIELD_CALC_PERCENTAGE_ON": "Calulate Percentage On",
+        "BOOKINGS_AND_FIXED_FEES": "Bookings + Fixed fees",
+        "BOOKINGS_ONLY": "Bookings only"
     }
 }

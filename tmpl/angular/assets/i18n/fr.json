@@ -13,7 +13,9 @@
         "NO_BOOKABLE_ITEM": "Merci de cr\u00e9er au moins un \u00e9l\u00e9ment r\u00e9servable dans votre compte Sagenda!",
         "NO_TOKEN": "Merci de copier votre code d'authentificaiton (jeton) sagenda depuis votre compte!",
         "DIFFERENT_CURRENCIES": "Vous ne pouvez pas r\u00e9server plusieurs \u00e9v\u00e9nements ayant diff\u00e9rentes monnaies de paiement.",
-        "NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Il n'y a pas assez de places disponibles pour le nombre de membres que vous souhaitez r\u00e9server."
+        "NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Il n'y a pas assez de places disponibles pour le nombre de membres que vous souhaitez r\u00e9server.",
+        "MINIMUM_QUOTA": "Vous devez r\u00e9server un minimum de {{value}} cr\u00e9neaux",
+        "MAXIMUM_QUOTA": "Vous ne pouvez pas r\u00e9server plus de {{value}} cr\u00e9neaux"
     },
     "EVENT": {
         "ALL_DAY": "Toute la journ\u00e9e",
@@ -61,6 +63,19 @@
         "REMOVE_MEMBER": "Supprimer le participant",
         "ADD_MEMBER": "Ajouter un participant",
         "NUMBER_OF_PEOPLE": "Nombre de personnes \u00e0 r\u00e9server sous ce participant",
-        "BOOK_MULTIPLE_PEOPLE": "R\u00e9server plusieurs personnes"
+        "BOOK_MULTIPLE_PEOPLE": "R\u00e9server plusieurs personnes",
+        "BY_GIVING_ALL_NAMES": "En saisissant tous les noms",
+        "BY_ENTERING_NB_OF_PEOPLE": "En saisissant le nombre de personnes",
+        "EVENT_SUB_TOTAL": "Sous Total \u00e9v\u00e9nement:",
+        "TAXES_AND_FEES": "Taxes et frais",
+        "FIXED_FEES": "Fixe",
+        "PERCENTAGE_FEES": "Pourcentage",
+        "FEES_FIELD_NAME": "Nom",
+        "FEES_FIELD_AMOUNT": "Montant",
+        "FEES_FIELD_GRAND_TOTAL": "Total final",
+        "FEES_FIELD_PERCENTAGE": "Pourcentage",
+        "FEES_FIELD_CALC_PERCENTAGE_ON": "Calculer le pourcentage sur",
+        "BOOKINGS_AND_FIXED_FEES": "R\u00e9servations + frais fixes",
+        "BOOKINGS_ONLY": "R\u00e9servation seulement"
     }
 }

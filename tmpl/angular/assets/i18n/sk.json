@@ -1,35 +1,79 @@
 {
-	"CALENDAR": {
-		"DAY": "Deň",
-		"MONTH": "Mesiac",
-		"NEXT": "Nasledujúce",
-		"PREVIOUS": "Predchadzajúce",
-		"TODAY": "Dnes",
-		"WEEK": "Týždeň"
-	},
-	"MESSAGE": {
-		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Prosím zadajte platnú emailovú adresu!",
-		"VALUE_IS_REQUIRED": "Hodnota je požadovaná!",
-		"YOU_HAVE_SUCCESSFULLY_BOOKED": "Úspešne ste zaregistrovali!",
-		"YOU_WILL_GET_NOTIFICATION": "Čoskoro dostanete upozornenie prostredníctvom e-mailu a voliteľne prostredníctvom SMS."
-	},
-	"SUBSCRIPTION": {
-		"AMOUNT": "Suma:",
-		"BACK": "Späť",
-		"BOOK": "Objednať",
-		"DESCRIPTION": "Popis:",
-		"DR": "Dr.",
-		"EMAIL": "E-mailová adresa:",
-		"FIRST_NAME": "Meno:",
-		"FROM": "Od:",
-		"LAST_NAME": "Priezvisko:",
-		"LET_S_BOOK_IT": "Zarezervovať to!",
-		"MISS": "Slečna",
-		"MR": "Pán",
-		"MRS": "Pani",
-		"NOTE": "Poznámka:",
-		"PHONE": "Telefón:",
-		"TITLE": "Nadpis:",
-		"TO": "Komu:"
-	}
+    "CALENDAR": {
+        "DAY": "De\u0148",
+        "MONTH": "Mesiac",
+        "NEXT": "Nasleduj\u00face",
+        "PREVIOUS": "Predchadzaj\u00face",
+        "TODAY": "Dnes",
+        "WEEK": "T\u00fd\u017ede\u0148",
+        "LOCATION": "Location:",
+        "DESCRIPTION": "Description:"
+    },
+    "ERROR": {
+        "NO_BOOKABLE_ITEM": "Please create at least 1 bookable item in your Sagenda's account!",
+        "NO_TOKEN": "Please copy your authentication code (token) from your Sagenda's account!",
+        "DIFFERENT_CURRENCIES": "You can not book multiple events that have different payment currencies.",
+        "NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "There are not enough openings for the number of members you would like to book.",
+        "MINIMUM_QUOTA": "You need to book a minimum of {{value}} slots",
+        "MAXIMUM_QUOTA": "You can't book more than {{value}} slots"
+    },
+    "EVENT": {
+        "ALL_DAY": "Cel\u00fd de\u0148",
+        "DATE": "D\u00e1tum"
+    },
+    "MULTIPLE": {
+        "SELECTED_EVENTS": "Vybran\u00e9 podujatie:",
+        "CLEAR_SELECTION": "Vymaza\u0165 v\u00fdber",
+        "NO_SELECTED_EVENTS": "No event selected. Please click on each event individually or use range selection by selecting several days."
+    },
+    "MESSAGE": {
+        "DISABLE_MULTIPLE_SELECTION": "Disable multiple selection",
+        "ENABLE_MULTIPLE_SELECTION": "Enable multiple selection",
+        "NO_EVENT": "No event found for the given period!",
+        "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Pros\u00edm zadajte platn\u00fa emailov\u00fa adresu!",
+        "PLEASE_SELECT": "Pros\u00edm vyberte:",
+        "VALUE_IS_REQUIRED": "Hodnota je po\u017eadovan\u00e1!",
+        "YOU_HAVE_SUCCESSFULLY_BOOKED": "Rezerv\u00e1cia bola \u00faspe\u0161n\u00e1!",
+        "YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "\u00daspe\u0161ne ste zaregistrovali!",
+        "YOU_WILL_GET_NOTIFICATION": "\u010coskoro dostanete upozornenie prostredn\u00edctvom e-mailu a volite\u013ene prostredn\u00edctvom SMS."
+    },
+    "STANDARD": {
+        "LINK": "Odkaz",
+        "OK": "OK"
+    },
+    "SUBSCRIPTION": {
+        "AMOUNT": "Suma:",
+        "BACK": "Sp\u00e4\u0165",
+        "BOOK": "Objedna\u0165",
+        "DESCRIPTION": "Popis:",
+        "DR": "Dr.",
+        "EMAIL": "E-mailov\u00e1 adresa:",
+        "FIRST_NAME": "Meno:",
+        "FROM": "Od:",
+        "LAST_NAME": "Priezvisko:",
+        "LET_S_BOOK_IT": "Zarezervova\u0165 to!",
+        "MISS": "Sle\u010dna",
+        "MR": "P\u00e1n",
+        "MRS": "Pani",
+        "NOTE": "Pozn\u00e1mka:",
+        "PHONE": "Telef\u00f3n:",
+        "TITLE": "Nadpis:",
+        "TO": "Komu:",
+        "PAYMENT_MESSAGE": "You will be redirected to the paypal website to complete your payment and booking",
+        "REMOVE_MEMBER": "Odobra\u0165 \u00fa\u010dastn\u00edka",
+        "ADD_MEMBER": "Prida\u0165 \u00fa\u010dastn\u00edka",
+        "NUMBER_OF_PEOPLE": "Number of people to book",
+        "BOOK_MULTIPLE_PEOPLE": "Book multiple people",
+        "EVENT_SUB_TOTAL": "Event Sub Total:",
+        "TAXES_AND_FEES": "Taxes and Fees",
+        "FIXED_FEES": "Fixed",
+        "PERCENTAGE_FEES": "Percentage",
+        "FEES_FIELD_NAME": "Name",
+        "FEES_FIELD_AMOUNT": "Amount",
+        "FEES_FIELD_GRAND_TOTAL": "Grand Total",
+        "FEES_FIELD_PERCENTAGE": "Percentage",
+        "FEES_FIELD_CALC_PERCENTAGE_ON": "Calulate Percentage On",
+        "BOOKINGS_AND_FIXED_FEES": "Bookings + Fixed fees",
+        "BOOKINGS_ONLY": "Bookings only"
+    }
 }

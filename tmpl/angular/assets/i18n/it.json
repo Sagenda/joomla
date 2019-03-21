@@ -1,25 +1,41 @@
 {
-    "MESSAGE": {
-        "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Si prega di inserire un indirizzo email valido!",
-        "PLEASE_SELECT": "Seleziona ...",
-        "VALUE_IS_REQUIRED": "\u00c8 necessario il valore!",
-        "YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "La tua iscrizione \u00e8 avvenuta con successo!",
-        "YOU_WILL_GET_NOTIFICATION": "Riceverai al pi\u00f9 presto una notifica via mail e facoltativamente anche via SMS."
-    },
     "CALENDAR": {
         "DAY": "Giorno",
         "MONTH": "Mese",
         "NEXT": "Prossimo",
         "PREVIOUS": "Precedente",
         "TODAY": "Oggi",
-        "WEEK": "Settimana"
+        "WEEK": "Settimana",
+        "LOCATION": "Luogo:",
+        "DESCRIPTION": "Descrizione:"
     },
     "ERROR": {
-        "NO_BOOKABLE_ITEM": "Crea un elemento prenotabile nel tuo account sagenda!"
+        "NO_BOOKABLE_ITEM": "Crea un elemento prenotabile nel tuo account sagenda!",
+        "NO_TOKEN": "Copia il tuo codice di autenticazione (token) dal tuo account Sagenda!",
+        "DIFFERENT_CURRENCIES": "Ora puoi prenotare pi\u00f9 eventi che hanno differenti valute di pagamento.",
+        "NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Non ci sono abbastanza disponibilit\u00e0 per il numero di persone per le quali si desidera prenotare.",
+        "MINIMUM_QUOTA": "You need to book a minimum of {{value}} slots",
+        "MAXIMUM_QUOTA": "You can't book more than {{value}} slots"
     },
     "EVENT": {
         "ALL_DAY": "Tutto il giorno",
         "DATE": "Data"
+    },
+    "MULTIPLE": {
+        "SELECTED_EVENTS": "Eventi selezionati:",
+        "CLEAR_SELECTION": "Cancella la selezione",
+        "NO_SELECTED_EVENTS": "No event selected. Please click on each event individually or use range selection by selecting several days."
+    },
+    "MESSAGE": {
+        "DISABLE_MULTIPLE_SELECTION": "Disabilita la selezione multipla",
+        "ENABLE_MULTIPLE_SELECTION": "Abilita la selezione multipla",
+        "NO_EVENT": "Nessun evento trovato per il periodo!",
+        "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Si prega di inserire un indirizzo email valido!",
+        "PLEASE_SELECT": "Seleziona ...",
+        "VALUE_IS_REQUIRED": "\u00c8 necessario il valore!",
+        "YOU_HAVE_SUCCESSFULLY_BOOKED": "Hai prenotato con successo!",
+        "YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "La tua iscrizione \u00e8 avvenuta con successo!",
+        "YOU_WILL_GET_NOTIFICATION": "Riceverai al pi\u00f9 presto una notifica via mail e facoltativamente anche via SMS."
     },
     "STANDARD": {
         "LINK": "collegamento",
@@ -42,6 +58,22 @@
         "NOTE": "Nota:",
         "PHONE": "Telefono:",
         "TITLE": "Titolo:",
-        "TO": "A:"
+        "TO": "A:",
+        "PAYMENT_MESSAGE": "You will be redirected to the paypal website to complete your payment and booking",
+        "REMOVE_MEMBER": "Remove Participant",
+        "ADD_MEMBER": "Add Participant",
+        "NUMBER_OF_PEOPLE": "Number of people to book",
+        "BOOK_MULTIPLE_PEOPLE": "Book multiple people",
+        "EVENT_SUB_TOTAL": "Event Sub Total:",
+        "TAXES_AND_FEES": "Taxes and Fees",
+        "FIXED_FEES": "Fixed",
+        "PERCENTAGE_FEES": "Percentage",
+        "FEES_FIELD_NAME": "Name",
+        "FEES_FIELD_AMOUNT": "Amount",
+        "FEES_FIELD_GRAND_TOTAL": "Grand Total",
+        "FEES_FIELD_PERCENTAGE": "Percentage",
+        "FEES_FIELD_CALC_PERCENTAGE_ON": "Calulate Percentage On",
+        "BOOKINGS_AND_FIXED_FEES": "Bookings + Fixed fees",
+        "BOOKINGS_ONLY": "Bookings only"
     }
 }

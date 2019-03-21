@@ -2,7 +2,7 @@
 <extension type="module" version="3.8.13" client="site" method="upgrade">
     <name>Sagenda booking and scheduling calendar</name>
     <author>Iteration.info SARL</author>
-    <version>0.8.1</version>
+    <version>0.9.0</version>
     <description>A Booking Calendar for your Joomla Website</description>
     <files>
         <filename>mod_sagenda_calendar.xml</filename>

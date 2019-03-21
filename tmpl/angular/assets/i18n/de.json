@@ -13,7 +13,9 @@
         "NO_BOOKABLE_ITEM": "Bitte erstellen Sie mindestens ein buchbares Ereignis in Ihrem Sagenda-Konto!",
         "NO_TOKEN": "Bitte kopieren Sie Ihren Authentifizierungscode (Token) aus dem Sagenda-Konto!",
         "DIFFERENT_CURRENCIES": "Sie k\u00f6nnen nicht mehrere Veranstaltungen mit unterschiedlichen W\u00e4hrungen buchen.",
-        "NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Es gibt nicht gen\u00fcgend Pl\u00e4tze f\u00fcr die Anzahl der Teilnehmer, die Sie buchen m\u00f6chten."
+        "NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Es gibt nicht gen\u00fcgend Pl\u00e4tze f\u00fcr die Anzahl der Teilnehmer, die Sie buchen m\u00f6chten.",
+        "MINIMUM_QUOTA": "You need to book a minimum of {{value}} slots",
+        "MAXIMUM_QUOTA": "You can't book more than {{value}} slots"
     },
     "EVENT": {
         "ALL_DAY": "Den ganzen Tag",
@@ -61,6 +63,17 @@
         "REMOVE_MEMBER": "Teilnehmer entfernen",
         "ADD_MEMBER": "Teilnehmer hinzuf\u00fcgen",
         "NUMBER_OF_PEOPLE": "Anzahl der Personen, die unter diesem Teilnehmernamen gebucht werden sollen",
-        "BOOK_MULTIPLE_PEOPLE": "F\u00fcr mehrere Personen buchen"
+        "BOOK_MULTIPLE_PEOPLE": "F\u00fcr mehrere Personen buchen",
+        "EVENT_SUB_TOTAL": "Event Sub Total:",
+        "TAXES_AND_FEES": "Taxes and Fees",
+        "FIXED_FEES": "Fixed",
+        "PERCENTAGE_FEES": "Percentage",
+        "FEES_FIELD_NAME": "Name",
+        "FEES_FIELD_AMOUNT": "Amount",
+        "FEES_FIELD_GRAND_TOTAL": "Grand Total",
+        "FEES_FIELD_PERCENTAGE": "Percentage",
+        "FEES_FIELD_CALC_PERCENTAGE_ON": "Calulate Percentage On",
+        "BOOKINGS_AND_FIXED_FEES": "Bookings + Fixed fees",
+        "BOOKINGS_ONLY": "Bookings only"
     }
 }
