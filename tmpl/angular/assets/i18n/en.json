@@ -34,11 +34,21 @@
 		"PLEASE_SELECT": "Please select...",
 		"VALUE_IS_REQUIRED": "Value is required!",
 		"YOU_HAVE_SUCCESSFULLY_BOOKED": "You have successfully booked!",
-		"YOU_WILL_GET_NOTIFICATION": "You will soon get a notification by email and optionally by SMS."
+		"YOU_WILL_GET_NOTIFICATION": "You will soon get a notification by email and optionally by SMS.",
+		"WRONG_CREDENTIALS": "Wrong login or password. Please create an account if you don't have one.",
+		"PLEASE_LOGIN": "Please login",
+        "DONT_HAVE_A_SAGENDA_ACCOUNT": "Don't have an account?",
+        "PLEASE_CREATE_ONE_HERE": "Please create one here!"
 	},
 	"STANDARD": {
 		"LINK": "Link",
-		"OK": "OK"
+		"OK": "OK",
+		"LOGOUT": "Logout",
+		"AGENDA": "Agenda",
+        "LOGIN": "Login",
+        "MENU": "Menu",
+        "EMAIL_ADDRESS": "Email Address",
+        "PWD": "Password"
 	},
 	"SUBSCRIPTION": {
 		"AMOUNT": "Amount:",
@@ -71,6 +81,7 @@
 		"PERCENTAGE_FEES": "Percentage",
 		"FEES_FIELD_NAME": "Name",
 		"FEES_FIELD_AMOUNT": "Amount",
+		"FEES_FIELD_SUB_TOTAL": "Sub Total",
 		"FEES_FIELD_GRAND_TOTAL": "Grand Total",
 		"FEES_FIELD_PERCENTAGE": "Percentage",
 		"FEES_FIELD_CALC_PERCENTAGE_ON": "Calulate Percentage On",

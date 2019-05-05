@@ -1,49 +1,81 @@
 {
-	"CALENDAR": {
-		"DAY": "Dag",
-		"MONTH": "Månad",
-		"NEXT": "Nästa",
-		"PREVIOUS": "Tidigare",
-		"TODAY": "Idag",
-		"WEEK": "Vecka"
-	},
-	"ERROR": {
-		"NO_BOOKABLE_ITEM": "Var vänlig välj minst en bokningsbar kalender under din profil!",
-		"NO_TOKEN": "Please copy your authentication code (token) from your Sagenda's account!"
-	},
-	"EVENT": {
-		"ALL_DAY": "Hela dagen",
-		"DATE": "Datum"
-	},
-	"MESSAGE": {
-		"NO_EVENT": "No event found for the given period!",
-		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Vänligen skriv in en korrekt e-postadress",
-		"PLEASE_SELECT": "Var vänlig välj...",
-		"VALUE_IS_REQUIRED": "Obligatoriskt fält",
-		"YOU_HAVE_SUCCESSFULLY_BOOKED": "Din anmälan är registrerad!",
-		"YOU_WILL_GET_NOTIFICATION": "Du kommer snart få en bekräftelse på e-post eller SMS (tillval)."
-	},
-	"STANDARD": {
-		"LINK": "Länk",
-		"OK": "OK"
-	},
-	"SUBSCRIPTION": {
-		"AMOUNT": "Belopp:",
-		"BACK": "Tillbaka",
-		"BOOK": "Boka",
-		"DESCRIPTION": "Beskrivning:",
-		"DR": "Dr.",
-		"EMAIL": "E-postadress",
-		"FIRST_NAME": "Förnamn:",
-		"FROM": "Från:",
-		"LAST_NAME": "Efternamn:",
-		"LET_S_BOOK_IT": "Nu bokar vi!",
-		"MISS": "Fröken",
-		"MR": "Herr",
-		"MRS": "Fru",
-		"NOTE": "Anteckning:",
-		"PHONE": "Telefon:",
-		"TITLE": "Titel:",
-		"TO": "Till:"
-	}
+    "CALENDAR": {
+        "DAY": "Dag",
+        "MONTH": "M\u00e5nad",
+        "NEXT": "N\u00e4sta",
+        "PREVIOUS": "Tidigare",
+        "TODAY": "Idag",
+        "WEEK": "Vecka",
+        "LOCATION": "Plats:",
+        "DESCRIPTION": "Beskrivning:"
+    },
+    "ERROR": {
+        "NO_BOOKABLE_ITEM": "V\u00e4nliga v\u00e4lj minst en bokningsbar artikel under din profil!",
+        "NO_TOKEN": "Kopiera autentiseringskoden (token) fr\u00e5n din Sagenda konto!",
+        "DIFFERENT_CURRENCIES": "Du kan inte boka flera evenemanger som har olika betalningsvalutor.",
+        "NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Det finns inte tillr\u00e4ckligt plats f\u00f6r antalet medlemmar du vill boka.",
+        "MINIMUM_QUOTA": "Du m\u00e5ste boka minst {{value}} slots",
+        "MAXIMUM_QUOTA": "Du kan inte boka mer \u00e4n {{value}} slots"
+    },
+    "EVENT": {
+        "ALL_DAY": "Hela dagen",
+        "DATE": "Datum"
+    },
+    "MULTIPLE": {
+        "SELECTED_EVENTS": "Valda evenemang(er):",
+        "CLEAR_SELECTION": "Rensa val",
+        "NO_SELECTED_EVENTS": "Ingen evenemang vald. V\u00e4nligen klicka p\u00e5 varje evenemang individuellt eller anv\u00e4nd intervallval genom att v\u00e4lja flera dagar."
+    },
+    "MESSAGE": {
+        "DISABLE_MULTIPLE_SELECTION": "Inaktivera flera val",
+        "ENABLE_MULTIPLE_SELECTION": "Aktivera flera val",
+        "NO_EVENT": "Inga evenemang hittades f\u00f6r den angivna tidsperioden!",
+        "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "V\u00e4nligen skriv in en korrekt e-postadress",
+        "PLEASE_SELECT": "V\u00e4nliga v\u00e4lj...",
+        "VALUE_IS_REQUIRED": "Obligatoriskt f\u00e4lt!",
+        "YOU_HAVE_SUCCESSFULLY_BOOKED": "Du har nu bokat!",
+        "YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Din anm\u00e4lan \u00e4r registrerad!",
+        "YOU_WILL_GET_NOTIFICATION": "Du kommer snart f\u00e5 en bekr\u00e4ftelse p\u00e5 e-post eller SMS."
+    },
+    "STANDARD": {
+        "LINK": "L\u00e4nk",
+        "OK": "OK"
+    },
+    "SUBSCRIPTION": {
+        "AMOUNT": "Belopp:",
+        "BACK": "Tillbaka",
+        "BOOK": "Boka",
+        "DESCRIPTION": "Beskrivning:",
+        "DR": "Dr.",
+        "EMAIL": "E-postadress",
+        "FIRST_NAME": "F\u00f6rnamn:",
+        "FROM": "Fr\u00e5n:",
+        "LAST_NAME": "Efternamn:",
+        "LET_S_BOOK_IT": "Nu bokar vi!",
+        "MISS": "Fr\u00f6ken",
+        "MR": "Herr",
+        "MRS": "Fru",
+        "NOTE": "Anteckning:",
+        "PHONE": "Telefon:",
+        "TITLE": "Titel:",
+        "TO": "Till:",
+        "PAYMENT_MESSAGE": "Du kommer att omdirigeras till paypals webbplats f\u00f6r att slutf\u00f6ra din betalning och bokning",
+        "REMOVE_MEMBER": "Ta bort deltagaren",
+        "ADD_MEMBER": "L\u00e4gg till deltagaren",
+        "NUMBER_OF_PEOPLE": "Antal personer att boka",
+        "BOOK_MULTIPLE_PEOPLE": "Bok flera personer",
+        "BY_GIVING_ALL_NAMES": "Genom att ge alla namn",
+        "BY_ENTERING_NB_OF_PEOPLE": "Genom att ange antal personer",
+        "EVENT_SUB_TOTAL": "Event Sub Total:",
+        "TAXES_AND_FEES": "Skatter och avgifter",
+        "FIXED_FEES": "Fast",
+        "PERCENTAGE_FEES": "Procentsats",
+        "FEES_FIELD_NAME": "Namn",
+        "FEES_FIELD_AMOUNT": "Belopp",
+        "FEES_FIELD_GRAND_TOTAL": "Totalsumma",
+        "FEES_FIELD_PERCENTAGE": "Procentsats",
+        "FEES_FIELD_CALC_PERCENTAGE_ON": "Ber\u00e4kna procentandel p\u00e5",
+        "BOOKINGS_AND_FIXED_FEES": "Bokningar + Fasta avgifter",
+        "BOOKINGS_ONLY": "Endast bokningar"
+    }
 }

@@ -6,16 +6,16 @@
         "PREVIOUS": "Iepriek\u0161\u0113jais",
         "TODAY": "\u0160odien",
         "WEEK": "Ned\u0113\u013ca",
-        "LOCATION": "Location:",
-        "DESCRIPTION": "Description:"
+        "LOCATION": "Atra\u0161anas vieta:",
+        "DESCRIPTION": "Apraksts:"
     },
     "ERROR": {
-        "NO_BOOKABLE_ITEM": "L\u016bdzu izveidojiet vismaz vienu rezerv\u0113jumu objektu J\u016bsu Sagenda's kont\u0101!",
+        "NO_BOOKABLE_ITEM": "L\u016bdzu izveidojiet vismaz 1 rezerv\u0113jumu objektu J\u016bsu Sagenda's kont\u0101!",
         "NO_TOKEN": "L\u016bdzu, kop\u0113jiet savu autentifik\u0101cijas kodu (mar\u0137ierier\u012bci) no J\u016bsu Sagenda konta!",
         "DIFFERENT_CURRENCIES": "J\u016bs nevarat rezerv\u0113t vair\u0101kus notikumus, kuriem ir da\u017e\u0101das maks\u0101jumu val\u016btas.",
         "NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Nav pietiekami daudz vietu to dal\u012bbnieku skaitam, kurus v\u0113laties rezerv\u0113t.",
-        "MINIMUM_QUOTA": "You need to book a minimum of {{value}} slots",
-        "MAXIMUM_QUOTA": "You can't book more than {{value}} slots"
+        "MINIMUM_QUOTA": "J\u0101rezerv\u0113 vismaz {{value}} sloti",
+        "MAXIMUM_QUOTA": "Nevar rezerv\u0113t vair\u0101k par {{value}} slotiem"
     },
     "EVENT": {
         "ALL_DAY": "Visu dienu",
@@ -34,12 +34,19 @@
         "PLEASE_SELECT": "L\u016bdzu izvelties...",
         "VALUE_IS_REQUIRED": "Nepiecie\u0161ams ievad\u012bt!",
         "YOU_HAVE_SUCCESSFULLY_BOOKED": "J\u016bs esat veiksm\u012bgi veicis rezerv\u0101ciju!",
-        "YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "J\u016bs esat veiksm\u012bgi abon\u0113ju\u0161i vienumu!",
-        "YOU_WILL_GET_NOTIFICATION": "Dr\u012bz J\u016bs sa\u0146emsiet pazi\u0146ojumu e-pasta un SMS (p\u0113c izv\u0113les)."
+        "YOU_WILL_GET_NOTIFICATION": "Dr\u012bz J\u016bs sa\u0146emsiet pazi\u0146ojumu e-pasta un SMS (p\u0113c izv\u0113les).",
+        "PLEASE_LOGIN": "L\u016bdzu, piesakieties",
+        "DONT_HAVE_A_SAGENDA_ACCOUNT": "Vel nav Sagenda konta?",
+        "PLEASE_CREATE_ONE_HERE": "L\u016bdzu, izveidojiet to \u0161eit!"
     },
     "STANDARD": {
         "LINK": "Saite",
-        "OK": "Labi"
+        "OK": "Labi",
+        "AGENDA": "Dienas k\u0101rt\u012bba",
+        "LOGIN": "Lietot\u0101jv\u0101rds",
+        "MENU": "Izvelne",
+        "EMAIL_ADDRESS": "E-pasta adrese",
+        "PWD": "Parole"
     },
     "SUBSCRIPTION": {
         "AMOUNT": "Apjoms:",
@@ -63,17 +70,19 @@
         "REMOVE_MEMBER": "No\u0146emt Dal\u012bbnieku",
         "ADD_MEMBER": "Pievienot Dal\u012bbnieku",
         "NUMBER_OF_PEOPLE": "Rezerv\u0113jamo personu skaits",
-        "BOOK_MULTIPLE_PEOPLE": "Book multiple people",
-        "EVENT_SUB_TOTAL": "Event Sub Total:",
-        "TAXES_AND_FEES": "Taxes and Fees",
-        "FIXED_FEES": "Fixed",
-        "PERCENTAGE_FEES": "Percentage",
-        "FEES_FIELD_NAME": "Name",
-        "FEES_FIELD_AMOUNT": "Amount",
-        "FEES_FIELD_GRAND_TOTAL": "Grand Total",
-        "FEES_FIELD_PERCENTAGE": "Percentage",
-        "FEES_FIELD_CALC_PERCENTAGE_ON": "Calulate Percentage On",
-        "BOOKINGS_AND_FIXED_FEES": "Bookings + Fixed fees",
-        "BOOKINGS_ONLY": "Bookings only"
+        "BOOK_MULTIPLE_PEOPLE": "Rezerv\u0113t vair\u0101kus cilv\u0113kus",
+        "BY_GIVING_ALL_NAMES": "Sniedzot visus v\u0101rdus",
+        "BY_ENTERING_NB_OF_PEOPLE": "Ievadot cilv\u0113ku skaitu",
+        "EVENT_SUB_TOTAL": "Notikuma apak\u0161summa:",
+        "TAXES_AND_FEES": "Nodok\u013ci un nodevas",
+        "FIXED_FEES": "Labots",
+        "PERCENTAGE_FEES": "Procents",
+        "FEES_FIELD_NAME": "V\u0101rds",
+        "FEES_FIELD_AMOUNT": "Apjoms",
+        "FEES_FIELD_GRAND_TOTAL": "Kop\u0101",
+        "FEES_FIELD_PERCENTAGE": "Procents",
+        "FEES_FIELD_CALC_PERCENTAGE_ON": "Kalul\u0101cijas procentu\u0101l\u0101 v\u0113rt\u012bba",
+        "BOOKINGS_AND_FIXED_FEES": "Rezerv\u0113jumi + fiks\u0113t\u0101s maksas",
+        "BOOKINGS_ONLY": "Tikai rezerv\u0113jumi"
     }
 }

@@ -34,12 +34,21 @@
         "PLEASE_SELECT": "Merci de s\u00e9lectionner...",
         "VALUE_IS_REQUIRED": "Une valeur est obligatoire!",
         "YOU_HAVE_SUCCESSFULLY_BOOKED": "Vous vous \u00eates inscrit avec succ\u00e8s!",
-        "YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Vous vous \u00eates inscrit avec succ\u00e8s!",
-        "YOU_WILL_GET_NOTIFICATION": "Vous allez bient\u00f4t recevoir une notification par email et optionnellement par SMS."
+        "YOU_WILL_GET_NOTIFICATION": "Vous allez bient\u00f4t recevoir une notification par email et optionnellement par SMS.",
+        "PLEASE_LOGIN": "Merci de vous connecter",
+        "DONT_HAVE_A_SAGENDA_ACCOUNT": "Vous ne poss\u00e9dez pas de compte Sagenda?",
+        "PLEASE_CREATE_ONE_HERE": "Merci d'en cr\u00e9er un ici!",
+        "WRONG_CREDENTIALS": "Mauvais email ou mot de passe. Merci de créer un compte si vous n'en avez pas."
     },
     "STANDARD": {
         "LINK": "Lien",
-        "OK": "OK"
+        "OK": "OK",
+		"LOGOUT": "Déconnexion",
+        "AGENDA": "Agenda",
+        "LOGIN": "Connexion",
+        "MENU": "Menu",
+        "EMAIL_ADDRESS": "Adresse email",
+        "PWD": "Mot de passe"
     },
     "SUBSCRIPTION": {
         "AMOUNT": "Montant:",
