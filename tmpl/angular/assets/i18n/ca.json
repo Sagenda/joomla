@@ -1,47 +1,92 @@
 {
-    "CALENDAR": {
-        "PREVIOUS": "Previ",
-        "DAY": "Dia",
-        "NEXT": "Seg\u00fcent",
-        "MONTH": "Mes",
-        "WEEK": "Setmana",
-        "TODAY": "Avui"
-    },
-    "MESSAGE": {
-        "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Per favor, escriu una adre\u00e7a de correu electr\u00f2nic correcta.",
-        "VALUE_IS_REQUIRED": "Un valor \u00e9s obligatori.",
-        "YOU_HAVE_SUCCESSFULLY_BOOKED": "T'has subscrit exitosament.",
-        "YOU_WILL_GET_NOTIFICATION": "Aviat rebr\u00e0s una notificaci\u00f3 per correu electr\u00f2nic i opcionalment per SMS.",
-        "PLEASE_SELECT": "Per favor escull..."
-    },
-    "SUBSCRIPTION": {
-        "AMOUNT": "Quantitat:",
-        "BACK": "Enrere",
-        "BOOK": "Reserva",
-        "DESCRIPTION": "Descripci\u00f3:",
-        "DR": "Dr.",
-        "EMAIL": "Adre\u00e7a de correu-e:",
-        "FIRST_NAME": "Nom:",
-        "FROM": "De:",
-        "LAST_NAME": "Cognom:",
-        "LET_S_BOOK_IT": "Reserva-ho!",
-        "MISS": "Sra.",
-        "MR": "Sr.",
-        "MRS": "Sra.",
-        "NOTE": "Nota:",
-        "PHONE": "Tel\u00e8fon:",
-        "TO": "A:",
-        "TITLE": "T\u00edtol:"
-    },
-    "EVENT": {
-        "ALL_DAY": "Tot el dia",
-        "DATE": "Data"
-    },
-    "ERROR": {
-        "NO_BOOKABLE_ITEM": "Per favor, crea com a m\u00ednim un element reservable al teu compte de sagenda."
-    },
-    "STANDARD": {
-        "LINK": "Enlla\u00e7",
-        "OK": "D'acord"
-    }
+	"CALENDAR": {
+		"DAY": "Dia",
+		"DESCRIPTION": "Descripció:",
+		"LOCATION": "Ubicació:",
+		"MONTH": "Mes",
+		"NEXT": "Següent",
+		"PREVIOUS": "Previ",
+		"TODAY": "Avui",
+		"WEEK": "Setmana"
+	},
+	"ERROR": {
+		"DIFFERENT_CURRENCIES": "",
+		"MAXIMUM_QUOTA": "",
+		"MINIMUM_QUOTA": "",
+		"NO_BOOKABLE_ITEM": "Per favor, crea com a mínim un element reservable al teu compte de sagenda.",
+		"NO_TOKEN": "",
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": ""
+	},
+	"EVENT": {
+		"ALL_DAY": "Tot el dia",
+		"DATE": "Data"
+	},
+	"MESSAGE": {
+		"DISABLE_MULTIPLE_SELECTION": "",
+		"DONT_HAVE_A_SAGENDA_ACCOUNT": "",
+		"ENABLE_MULTIPLE_SELECTION": "",
+		"NO_EVENT": "",
+		"PLEASE_CREATE_ONE_HERE": "",
+		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Per favor, escriu una adreça de correu electrònic correcta.",
+		"PLEASE_LOGIN": "",
+		"PLEASE_SELECT": "Per favor escull...",
+		"VALUE_IS_REQUIRED": "Un valor és obligatori.",
+		"WRONG_CREDENTIALS": "",
+		"YOU_HAVE_SUCCESSFULLY_BOOKED": "T'has subscrit exitosament.",
+		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "",
+		"YOU_WILL_GET_NOTIFICATION": "Aviat rebràs una notificació per correu electrònic i opcionalment per SMS."
+	},
+	"MULTIPLE": {
+		"CLEAR_SELECTION": "",
+		"NO_SELECTED_EVENTS": "",
+		"SELECTED_EVENTS": ""
+	},
+	"STANDARD": {
+		"AGENDA": "",
+		"EMAIL_ADDRESS": "",
+		"LINK": "Enllaç",
+		"LOGIN": "",
+		"LOGOUT": "",
+		"MENU": "",
+		"OK": "D'acord",
+		"PWD": ""
+	},
+	"SUBSCRIPTION": {
+		"ADD_MEMBER": "Afegeix un participant",
+		"AMOUNT": "Quantitat:",
+		"BACK": "Enrere",
+		"BOOK": "Reserva",
+		"BOOKINGS_AND_FIXED_FEES": "Reserves Tarifes fixes",
+		"BOOKINGS_ONLY": "Només reserves",
+		"BOOK_MULTIPLE_PEOPLE": "Reserveu diverses persones",
+		"BY_ENTERING_NB_OF_PEOPLE": "Introduint el nombre de persones",
+		"BY_GIVING_ALL_NAMES": "Donant tots els noms",
+		"DESCRIPTION": "Descripció:",
+		"DR": "Dr.",
+		"EMAIL": "Adreça de correu-e:",
+		"EVENT_SUB_TOTAL": "Sub total d'esdeveniments:",
+		"FEES_FIELD_AMOUNT": "Quantitat",
+		"FEES_FIELD_CALC_PERCENTAGE_ON": "Califiqueu el percentatge en",
+		"FEES_FIELD_GRAND_TOTAL": "Grand Total",
+		"FEES_FIELD_NAME": "nom",
+		"FEES_FIELD_PERCENTAGE": "Percentatge",
+		"FEES_FIELD_SUB_TOTAL": "Sub total",
+		"FIRST_NAME": "Nom:",
+		"FIXED_FEES": "S'ha corregit",
+		"FROM": "De:",
+		"LAST_NAME": "Cognom:",
+		"LET_S_BOOK_IT": "Reserva-ho!",
+		"MISS": "Sra.",
+		"MR": "Sr.",
+		"MRS": "Sra.",
+		"NOTE": "Nota:",
+		"NUMBER_OF_PEOPLE": "Nombre de persones a reservar",
+		"PAYMENT_MESSAGE": "Se us redirigirà al lloc web de PayPal per completar el pagament i la reserva",
+		"PERCENTAGE_FEES": "Percentatge",
+		"PHONE": "Telèfon:",
+		"REMOVE_MEMBER": "Elimina el participant",
+		"TAXES_AND_FEES": "Impostos i taxes",
+		"TITLE": "Títol:",
+		"TO": "A:"
+	}
 }

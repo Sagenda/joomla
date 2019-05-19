@@ -1,0 +1,92 @@
+{
+	"CALENDAR": {
+		"DAY": "",
+		"DESCRIPTION": "",
+		"LOCATION": "",
+		"MONTH": "",
+		"NEXT": "",
+		"PREVIOUS": "",
+		"TODAY": "",
+		"WEEK": ""
+	},
+	"ERROR": {
+		"DIFFERENT_CURRENCIES": "",
+		"MAXIMUM_QUOTA": "",
+		"MINIMUM_QUOTA": "",
+		"NO_BOOKABLE_ITEM": "",
+		"NO_TOKEN": "",
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": ""
+	},
+	"EVENT": {
+		"ALL_DAY": "",
+		"DATE": ""
+	},
+	"MESSAGE": {
+		"DISABLE_MULTIPLE_SELECTION": "",
+		"DONT_HAVE_A_SAGENDA_ACCOUNT": "",
+		"ENABLE_MULTIPLE_SELECTION": "",
+		"NO_EVENT": "",
+		"PLEASE_CREATE_ONE_HERE": "",
+		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "",
+		"PLEASE_LOGIN": "",
+		"PLEASE_SELECT": "",
+		"VALUE_IS_REQUIRED": "",
+		"WRONG_CREDENTIALS": "",
+		"YOU_HAVE_SUCCESSFULLY_BOOKED": "",
+		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "",
+		"YOU_WILL_GET_NOTIFICATION": ""
+	},
+	"MULTIPLE": {
+		"CLEAR_SELECTION": "",
+		"NO_SELECTED_EVENTS": "",
+		"SELECTED_EVENTS": ""
+	},
+	"STANDARD": {
+		"AGENDA": "",
+		"EMAIL_ADDRESS": "",
+		"LINK": "",
+		"LOGIN": "",
+		"LOGOUT": "",
+		"MENU": "",
+		"OK": "",
+		"PWD": ""
+	},
+	"SUBSCRIPTION": {
+		"ADD_MEMBER": "참가자 추가",
+		"AMOUNT": "양:",
+		"BACK": "뒤로",
+		"BOOK": "책",
+		"BOOKINGS_AND_FIXED_FEES": "예약 수수료",
+		"BOOKINGS_ONLY": "예약 만",
+		"BOOK_MULTIPLE_PEOPLE": "여러 사람 예약하기",
+		"BY_ENTERING_NB_OF_PEOPLE": "인원수를 입력하여",
+		"BY_GIVING_ALL_NAMES": "모든 이름을 부여함으로써",
+		"DESCRIPTION": "기술:",
+		"DR": "박사.",
+		"EMAIL": "이메일 주소:",
+		"EVENT_SUB_TOTAL": "이벤트 하위 합계 :",
+		"FEES_FIELD_AMOUNT": "양",
+		"FEES_FIELD_CALC_PERCENTAGE_ON": "비율 백분율 켜기",
+		"FEES_FIELD_GRAND_TOTAL": "총 합계",
+		"FEES_FIELD_NAME": "이름",
+		"FEES_FIELD_PERCENTAGE": "백분율",
+		"FEES_FIELD_SUB_TOTAL": "소계",
+		"FIRST_NAME": "이름:",
+		"FIXED_FEES": "결정된",
+		"FROM": "에서:",
+		"LAST_NAME": "성:",
+		"LET_S_BOOK_IT": "그것을 예약하자!",
+		"MISS": "미스",
+		"MR": "씨.",
+		"MRS": "부인.",
+		"NOTE": "노트 :",
+		"NUMBER_OF_PEOPLE": "예약 할 인원수",
+		"PAYMENT_MESSAGE": "페이팔 웹 사이트로 이동하여 지불 및 예약을 완료하게됩니다.",
+		"PERCENTAGE_FEES": "백분율",
+		"PHONE": "전화:",
+		"REMOVE_MEMBER": "참가자 제거",
+		"TAXES_AND_FEES": "세금 및 수수료",
+		"TITLE": "표제:",
+		"TO": "에:"
+	}
+}

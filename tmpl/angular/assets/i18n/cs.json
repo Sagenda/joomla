@@ -1,57 +1,92 @@
 {
-    "MESSAGE": {
-        "YOU_HAVE_SUCCESSFULLY_BOOKED": "Rezervace byla \u00fasp\u011b\u0161n\u00e1!",
-        "DISABLE_MULTIPLE_SELECTION": "Zablokovat v\u00edcen\u00e1sobn\u00fd v\u00fdb\u011br",
-        "ENABLE_MULTIPLE_SELECTION": "Povolit v\u00edcen\u00e1sobn\u00fd v\u00fdb\u011br",
-        "NO_EVENT": "Nebyla nalezena mo\u017enost rezervace v dan\u00fd term\u00edn!",
-        "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Pros\u00edm zadejte platnou emailovou adresu!",
-        "PLEASE_SELECT": "Pros\u00edm vyberte...",
-        "VALUE_IS_REQUIRED": "Hodnota je vy\u017eadov\u00e1na!",
-        "YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "\u00dasp\u011b\u0161n\u011b jste se p\u0159ihl\u00e1sili k odb\u011bru!",
-        "YOU_WILL_GET_NOTIFICATION": "Brzy obdr\u017e\u00edte potvrzen\u00ed mailem a voliteln\u011b SMS"
-    },
-    "CALENDAR": {
-        "DAY": "Den",
-        "MONTH": "M\u011bs\u00edc",
-        "NEXT": "Dal\u0161\u00ed",
-        "PREVIOUS": "P\u0159edchoz\u00ed",
-        "TODAY": "Dnes",
-        "WEEK": "T\u00fdden"
-    },
-    "ERROR": {
-        "NO_BOOKABLE_ITEM": "Pros\u00edm, zalo\u017ete alespo\u0148 jeden objekt k rezervaci ve va\u0161em Sagenda \u00fa\u010dtu.",
-        "NO_TOKEN": "Pros\u00edm, zkop\u00edrujte sv\u016fj autoriza\u010dn\u00ed k\u00f3d ze sv\u00e9ho \u00fa\u010dtu Sagenda."
-    },
-    "EVENT": {
-        "ALL_DAY": "Cel\u00fd den",
-        "DATE": "Datum"
-    },
-    "MULTIPLE": {
-        "SELECTED_EVENTS": "Zvolen\u00fd\/\u00e9 term\u00edn\/y",
-        "CLEAR_SELECTION": "Vy\u010distit sekci"
-    },
-    "STANDARD": {
-        "LINK": "Odkaz",
-        "OK": "OK"
-    },
-    "SUBSCRIPTION": {
-        "AMOUNT": "Mno\u017estv\u00ed:",
-        "BACK": "Zp\u011bt",
-        "BOOK": "Kniha",
-        "DESCRIPTION": "Popis:",
-        "DR": "Dr.",
-        "EMAIL": "Mailov\u00e1 adresa:",
-        "FIRST_NAME": "K\u0159estn\u00ed jm\u00e9no:",
-        "FROM": "Od:",
-        "LAST_NAME": "P\u0159\u00edjmen\u00ed:",
-        "LET_S_BOOK_IT": "Rezervujte!",
-        "MISS": "Sle\u010dna",
-        "MR": "P\u00e1n",
-        "MRS": "Pan\u00ed",
-        "NOTE": "Pozn\u00e1mka:",
-        "PHONE": "Telefon:",
-        "TITLE": "Nadpis:",
-        "TO": "Komu:",
-        "PAYMENT_MESSAGE": "Budete p\u0159esm\u011brov\u00e1ni na str\u00e1nku PayPal, abyste dokon\u010dili platbu a rezervaci."
-    }
+	"CALENDAR": {
+		"DAY": "Den",
+		"DESCRIPTION": "Popis:",
+		"LOCATION": "Umístění:",
+		"MONTH": "Měsíc",
+		"NEXT": "Další",
+		"PREVIOUS": "Předchozí",
+		"TODAY": "Dnes",
+		"WEEK": "Týden"
+	},
+	"ERROR": {
+		"DIFFERENT_CURRENCIES": "",
+		"MAXIMUM_QUOTA": "",
+		"MINIMUM_QUOTA": "",
+		"NO_BOOKABLE_ITEM": "Prosím, založte alespoň jeden objekt k rezervaci ve vašem Sagenda účtu.",
+		"NO_TOKEN": "Prosím, zkopírujte svůj autorizační kód ze svého účtu Sagenda.",
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": ""
+	},
+	"EVENT": {
+		"ALL_DAY": "Celý den",
+		"DATE": "Datum"
+	},
+	"MESSAGE": {
+		"DISABLE_MULTIPLE_SELECTION": "Zablokovat vícenásobný výběr",
+		"DONT_HAVE_A_SAGENDA_ACCOUNT": "",
+		"ENABLE_MULTIPLE_SELECTION": "Povolit vícenásobný výběr",
+		"NO_EVENT": "Nebyla nalezena možnost rezervace v daný termín!",
+		"PLEASE_CREATE_ONE_HERE": "",
+		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Prosím zadejte platnou emailovou adresu!",
+		"PLEASE_LOGIN": "",
+		"PLEASE_SELECT": "Prosím vyberte...",
+		"VALUE_IS_REQUIRED": "Hodnota je vyžadována!",
+		"WRONG_CREDENTIALS": "",
+		"YOU_HAVE_SUCCESSFULLY_BOOKED": "Rezervace byla úspěšná!",
+		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Úspěšně jste se přihlásili k odběru!",
+		"YOU_WILL_GET_NOTIFICATION": "Brzy obdržíte potvrzení mailem a volitelně SMS"
+	},
+	"MULTIPLE": {
+		"CLEAR_SELECTION": "Vyčistit sekci",
+		"NO_SELECTED_EVENTS": "",
+		"SELECTED_EVENTS": "Zvolený/é termín/y"
+	},
+	"STANDARD": {
+		"AGENDA": "",
+		"EMAIL_ADDRESS": "",
+		"LINK": "Odkaz",
+		"LOGIN": "",
+		"LOGOUT": "",
+		"MENU": "",
+		"OK": "OK",
+		"PWD": ""
+	},
+	"SUBSCRIPTION": {
+		"ADD_MEMBER": "Přidat účastníka",
+		"AMOUNT": "Množství:",
+		"BACK": "Zpět",
+		"BOOK": "Kniha",
+		"BOOKINGS_AND_FIXED_FEES": "Rezervace Fixní poplatky",
+		"BOOKINGS_ONLY": "Pouze rezervace",
+		"BOOK_MULTIPLE_PEOPLE": "Kniha více lidí",
+		"BY_ENTERING_NB_OF_PEOPLE": "Zadáním počtu osob",
+		"BY_GIVING_ALL_NAMES": "Tím, že uvedete všechna jména",
+		"DESCRIPTION": "Popis:",
+		"DR": "Dr.",
+		"EMAIL": "Mailová adresa:",
+		"EVENT_SUB_TOTAL": "Celková částka události:",
+		"FEES_FIELD_AMOUNT": "Množství",
+		"FEES_FIELD_CALC_PERCENTAGE_ON": "Kalibrace procenta zapnuto",
+		"FEES_FIELD_GRAND_TOTAL": "Celkový součet",
+		"FEES_FIELD_NAME": "název",
+		"FEES_FIELD_PERCENTAGE": "Procento",
+		"FEES_FIELD_SUB_TOTAL": "Dílčí součet",
+		"FIRST_NAME": "Křestní jméno:",
+		"FIXED_FEES": "Pevný",
+		"FROM": "Od:",
+		"LAST_NAME": "Příjmení:",
+		"LET_S_BOOK_IT": "Rezervujte!",
+		"MISS": "Slečna",
+		"MR": "Pán",
+		"MRS": "Paní",
+		"NOTE": "Poznámka:",
+		"NUMBER_OF_PEOPLE": "Počet lidí k rezervaci",
+		"PAYMENT_MESSAGE": "Budete přesměrováni na stránku PayPal, abyste dokončili platbu a rezervaci.",
+		"PERCENTAGE_FEES": "Procento",
+		"PHONE": "Telefon:",
+		"REMOVE_MEMBER": "Odebrat účastníka",
+		"TAXES_AND_FEES": "Daně a poplatky",
+		"TITLE": "Nadpis:",
+		"TO": "Komu:"
+	}
 }

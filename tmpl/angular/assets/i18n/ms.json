@@ -1,0 +1,92 @@
+{
+	"CALENDAR": {
+		"DAY": "",
+		"DESCRIPTION": "",
+		"LOCATION": "",
+		"MONTH": "",
+		"NEXT": "",
+		"PREVIOUS": "",
+		"TODAY": "",
+		"WEEK": ""
+	},
+	"ERROR": {
+		"DIFFERENT_CURRENCIES": "",
+		"MAXIMUM_QUOTA": "",
+		"MINIMUM_QUOTA": "",
+		"NO_BOOKABLE_ITEM": "",
+		"NO_TOKEN": "",
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": ""
+	},
+	"EVENT": {
+		"ALL_DAY": "",
+		"DATE": ""
+	},
+	"MESSAGE": {
+		"DISABLE_MULTIPLE_SELECTION": "",
+		"DONT_HAVE_A_SAGENDA_ACCOUNT": "",
+		"ENABLE_MULTIPLE_SELECTION": "",
+		"NO_EVENT": "",
+		"PLEASE_CREATE_ONE_HERE": "",
+		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "",
+		"PLEASE_LOGIN": "",
+		"PLEASE_SELECT": "",
+		"VALUE_IS_REQUIRED": "",
+		"WRONG_CREDENTIALS": "",
+		"YOU_HAVE_SUCCESSFULLY_BOOKED": "",
+		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "",
+		"YOU_WILL_GET_NOTIFICATION": ""
+	},
+	"MULTIPLE": {
+		"CLEAR_SELECTION": "",
+		"NO_SELECTED_EVENTS": "",
+		"SELECTED_EVENTS": ""
+	},
+	"STANDARD": {
+		"AGENDA": "",
+		"EMAIL_ADDRESS": "",
+		"LINK": "",
+		"LOGIN": "",
+		"LOGOUT": "",
+		"MENU": "",
+		"OK": "",
+		"PWD": ""
+	},
+	"SUBSCRIPTION": {
+		"ADD_MEMBER": "Tambah Peserta",
+		"AMOUNT": "Jumlah:",
+		"BACK": "Kembali",
+		"BOOK": "Buku",
+		"BOOKINGS_AND_FIXED_FEES": "Tempahan Tetap yuran",
+		"BOOKINGS_ONLY": "Tempahan sahaja",
+		"BOOK_MULTIPLE_PEOPLE": "Buku orang ramai",
+		"BY_ENTERING_NB_OF_PEOPLE": "Dengan memasukkan bilangan orang",
+		"BY_GIVING_ALL_NAMES": "Dengan memberikan semua nama",
+		"DESCRIPTION": "Penerangan:",
+		"DR": "Dr.",
+		"EMAIL": "Alamat emel:",
+		"EVENT_SUB_TOTAL": "Acara Sub Jumlah:",
+		"FEES_FIELD_AMOUNT": "Jumlah",
+		"FEES_FIELD_CALC_PERCENTAGE_ON": "Calarkan Peratus Pada",
+		"FEES_FIELD_GRAND_TOTAL": "Jumlah keseluruhan",
+		"FEES_FIELD_NAME": "Nama",
+		"FEES_FIELD_PERCENTAGE": "Peratusan",
+		"FEES_FIELD_SUB_TOTAL": "Jumlah kecil",
+		"FIRST_NAME": "Nama pertama:",
+		"FIXED_FEES": "Tetap",
+		"FROM": "Dari:",
+		"LAST_NAME": "Nama terakhir:",
+		"LET_S_BOOK_IT": "Katakanlah!",
+		"MISS": "Cik",
+		"MR": "Encik.",
+		"MRS": "Puan.",
+		"NOTE": "Catatan:",
+		"NUMBER_OF_PEOPLE": "Bilangan orang yang hendak ditempah",
+		"PAYMENT_MESSAGE": "Anda akan diarahkan ke laman web paypal untuk melengkapkan pembayaran dan tempahan anda",
+		"PERCENTAGE_FEES": "Peratusan",
+		"PHONE": "Telefon:",
+		"REMOVE_MEMBER": "Keluarkan Peserta",
+		"TAXES_AND_FEES": "Cukai dan Yuran",
+		"TITLE": "Tajuk:",
+		"TO": "Kepada:"
+	}
+}

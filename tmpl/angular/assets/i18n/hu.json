@@ -1,61 +1,92 @@
 {
-    "MESSAGE": {
-        "YOU_HAVE_SUCCESSFULLY_BOOKED": "A foglal\u00e1s sikeres!",
-        "DISABLE_MULTIPLE_SELECTION": "T\u00f6bbsz\u00f6r\u00f6s kijel\u00f6l\u00e9s tilt\u00e1sa",
-        "ENABLE_MULTIPLE_SELECTION": "T\u00f6bbsz\u00f6r\u00f6s kijel\u00f6l\u00e9s enged\u00e9lyez\u00e9se",
-        "NO_EVENT": "Nincs esem\u00e9ny az adott id\u0151ben!",
-        "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Adjon meg val\u00f3di email c\u00edmet!",
-        "PLEASE_SELECT": "V\u00e1lasszon...",
-        "VALUE_IS_REQUIRED": "K\u00f6telelz\u0151 mez\u0151!",
-        "YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Sikeresen el\u0151jegyezve!",
-        "YOU_WILL_GET_NOTIFICATION": "Hamarosan emailben kapsz \u00e9rtes\u00edt\u00e9s (esetleg SMS-ben is)."
-    },
-    "ERROR": {
-        "DIFFERENT_CURRENCIES": "K\u00fcl\u00f6nb\u00f6z\u0151 p\u00e9nznem van megadva az esem\u00e9nyekhez, \u00edgy nem foglalhatsz egyszerre t\u00f6bbet.",
-        "NO_BOOKABLE_ITEM": "Legal\u00e1bb egy foglalhat\u00f3 elemnek l\u00e9teznie kell!",
-        "NO_TOKEN": "M\u00e1sold ide az azonos\u00edt\u00f3 k\u00f3dot (tokent) a fi\u00f3kodb\u00f3l!"
-    },
-    "MULTIPLE": {
-        "NO_SELECTED_EVENTS": "Nincs kiv\u00e1lasztott esem\u00e9ny. Kattints egyenk\u00e9nt az esem\u00e9nyeken vagy jel\u00f6lj ki t\u00f6bb napot.",
-        "SELECTED_EVENTS": "Kijel\u00f6lt esem\u00e9ny(ek):",
-        "CLEAR_SELECTION": "Kijel\u00f6l\u00e9s megsz\u00fcntet\u00e9se"
-    },
-    "SUBSCRIPTION": {
-        "REMOVE_MEMBER": "R\u00e9sztvev\u0151 elt\u00e1vol\u00edt\u00e1sa",
-        "ADD_MEMBER": "R\u00e9sztvev\u0151 hozz\u00e1ad\u00e1sa",
-        "AMOUNT": "Mennyis\u00e9g:",
-        "BACK": "Vissza",
-        "BOOK": "Foglal\u00e1s",
-        "DESCRIPTION": "Ler\u00ed\u00e1s:",
-        "DR": "Dr.",
-        "EMAIL": "Email c\u00edm:",
-        "FIRST_NAME": "Keresztn\u00e9v:",
-        "FROM": "Ett\u0151l:",
-        "LAST_NAME": "Vezet\u00e9kn\u00e9v:",
-        "LET_S_BOOK_IT": "Foglaljuk le!",
-        "MISS": "Kisasszony",
-        "MR": "\u00dar",
-        "MRS": "\u00darh\u00f6lgy",
-        "NOTE": "Megjegyz\u00e9s:",
-        "PHONE": "Telefon:",
-        "TITLE": "Title:",
-        "TO": "Eddig:",
-        "PAYMENT_MESSAGE": "Most \u00e1tir\u00e1ny\u00edtunk a Paypal oldalra, ahol fizethetsz \u00e9s v\u00e9gleges\u00edtheted a foglal\u00e1st"
-    },
-    "CALENDAR": {
-        "DAY": "nap",
-        "MONTH": "h\u00f3nap",
-        "NEXT": "K\u00f6vetkez\u0151",
-        "PREVIOUS": "El\u0151z\u0151",
-        "TODAY": "Ma",
-        "WEEK": "h\u00e9t"
-    },
-    "EVENT": {
-        "ALL_DAY": "Eg\u00e9sz nap",
-        "DATE": "d\u00e1tum"
-    },
-    "STANDARD": {
-        "LINK": "Link",
-        "OK": "OK"
-    }
+	"CALENDAR": {
+		"DAY": "nap",
+		"DESCRIPTION": "Leírás:",
+		"LOCATION": "Elhelyezkedés:",
+		"MONTH": "hónap",
+		"NEXT": "Következő",
+		"PREVIOUS": "Előző",
+		"TODAY": "Ma",
+		"WEEK": "hét"
+	},
+	"ERROR": {
+		"DIFFERENT_CURRENCIES": "Különböző pénznem van megadva az eseményekhez, így nem foglalhatsz egyszerre többet.",
+		"MAXIMUM_QUOTA": "",
+		"MINIMUM_QUOTA": "",
+		"NO_BOOKABLE_ITEM": "Legalább egy foglalható elemnek léteznie kell!",
+		"NO_TOKEN": "Másold ide az azonosító kódot (tokent) a fiókodból!",
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": ""
+	},
+	"EVENT": {
+		"ALL_DAY": "Egész nap",
+		"DATE": "dátum"
+	},
+	"MESSAGE": {
+		"DISABLE_MULTIPLE_SELECTION": "Többszörös kijelölés tiltása",
+		"DONT_HAVE_A_SAGENDA_ACCOUNT": "",
+		"ENABLE_MULTIPLE_SELECTION": "Többszörös kijelölés engedélyezése",
+		"NO_EVENT": "Nincs esemény az adott időben!",
+		"PLEASE_CREATE_ONE_HERE": "",
+		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Adjon meg valódi email címet!",
+		"PLEASE_LOGIN": "",
+		"PLEASE_SELECT": "Válasszon...",
+		"VALUE_IS_REQUIRED": "Kötelelző mező!",
+		"WRONG_CREDENTIALS": "",
+		"YOU_HAVE_SUCCESSFULLY_BOOKED": "A foglalás sikeres!",
+		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Sikeresen előjegyezve!",
+		"YOU_WILL_GET_NOTIFICATION": "Hamarosan emailben kapsz értesítés (esetleg SMS-ben is)."
+	},
+	"MULTIPLE": {
+		"CLEAR_SELECTION": "Kijelölés megszüntetése",
+		"NO_SELECTED_EVENTS": "Nincs kiválasztott esemény. Kattints egyenként az eseményeken vagy jelölj ki több napot.",
+		"SELECTED_EVENTS": "Kijelölt esemény(ek):"
+	},
+	"STANDARD": {
+		"AGENDA": "",
+		"EMAIL_ADDRESS": "",
+		"LINK": "Link",
+		"LOGIN": "",
+		"LOGOUT": "",
+		"MENU": "",
+		"OK": "OK",
+		"PWD": ""
+	},
+	"SUBSCRIPTION": {
+		"ADD_MEMBER": "Résztvevő hozzáadása",
+		"AMOUNT": "Mennyiség:",
+		"BACK": "Vissza",
+		"BOOK": "Foglalás",
+		"BOOKINGS_AND_FIXED_FEES": "Foglalások Fix díjak",
+		"BOOKINGS_ONLY": "Csak foglalások",
+		"BOOK_MULTIPLE_PEOPLE": "Foglaljon több embert",
+		"BY_ENTERING_NB_OF_PEOPLE": "Az emberek számának megadásával",
+		"BY_GIVING_ALL_NAMES": "Az összes nevet megadva",
+		"DESCRIPTION": "Leríás:",
+		"DR": "Dr.",
+		"EMAIL": "Email cím:",
+		"EVENT_SUB_TOTAL": "Esemény részösszeg:",
+		"FEES_FIELD_AMOUNT": "ÖSSZEG",
+		"FEES_FIELD_CALC_PERCENTAGE_ON": "Calulate Percentage On",
+		"FEES_FIELD_GRAND_TOTAL": "Teljes összeg",
+		"FEES_FIELD_NAME": "Név",
+		"FEES_FIELD_PERCENTAGE": "Százalék",
+		"FEES_FIELD_SUB_TOTAL": "Részösszeg",
+		"FIRST_NAME": "Keresztnév:",
+		"FIXED_FEES": "Rögzített",
+		"FROM": "Ettől:",
+		"LAST_NAME": "Vezetéknév:",
+		"LET_S_BOOK_IT": "Foglaljuk le!",
+		"MISS": "Kisasszony",
+		"MR": "Úr",
+		"MRS": "Úrhölgy",
+		"NOTE": "Megjegyzés:",
+		"NUMBER_OF_PEOPLE": "A foglalni kívánt emberek száma",
+		"PAYMENT_MESSAGE": "Most átirányítunk a Paypal oldalra, ahol fizethetsz és véglegesítheted a foglalást",
+		"PERCENTAGE_FEES": "Százalék",
+		"PHONE": "Telefon:",
+		"REMOVE_MEMBER": "Résztvevő eltávolítása",
+		"TAXES_AND_FEES": "Adók és díjak",
+		"TITLE": "Title:",
+		"TO": "Eddig:"
+	}
 }

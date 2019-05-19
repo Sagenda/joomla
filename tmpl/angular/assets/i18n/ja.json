@@ -1,0 +1,92 @@
+{
+	"CALENDAR": {
+		"DAY": "",
+		"DESCRIPTION": "",
+		"LOCATION": "",
+		"MONTH": "",
+		"NEXT": "",
+		"PREVIOUS": "",
+		"TODAY": "",
+		"WEEK": ""
+	},
+	"ERROR": {
+		"DIFFERENT_CURRENCIES": "",
+		"MAXIMUM_QUOTA": "",
+		"MINIMUM_QUOTA": "",
+		"NO_BOOKABLE_ITEM": "",
+		"NO_TOKEN": "",
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": ""
+	},
+	"EVENT": {
+		"ALL_DAY": "",
+		"DATE": ""
+	},
+	"MESSAGE": {
+		"DISABLE_MULTIPLE_SELECTION": "",
+		"DONT_HAVE_A_SAGENDA_ACCOUNT": "",
+		"ENABLE_MULTIPLE_SELECTION": "",
+		"NO_EVENT": "",
+		"PLEASE_CREATE_ONE_HERE": "",
+		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "",
+		"PLEASE_LOGIN": "",
+		"PLEASE_SELECT": "",
+		"VALUE_IS_REQUIRED": "",
+		"WRONG_CREDENTIALS": "",
+		"YOU_HAVE_SUCCESSFULLY_BOOKED": "",
+		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "",
+		"YOU_WILL_GET_NOTIFICATION": ""
+	},
+	"MULTIPLE": {
+		"CLEAR_SELECTION": "",
+		"NO_SELECTED_EVENTS": "",
+		"SELECTED_EVENTS": ""
+	},
+	"STANDARD": {
+		"AGENDA": "",
+		"EMAIL_ADDRESS": "",
+		"LINK": "",
+		"LOGIN": "",
+		"LOGOUT": "",
+		"MENU": "",
+		"OK": "",
+		"PWD": ""
+	},
+	"SUBSCRIPTION": {
+		"ADD_MEMBER": "参加者を追加",
+		"AMOUNT": "量：",
+		"BACK": "バック",
+		"BOOK": "本",
+		"BOOKINGS_AND_FIXED_FEES": "予約手数料",
+		"BOOKINGS_ONLY": "予約のみ",
+		"BOOK_MULTIPLE_PEOPLE": "複数の人を予約する",
+		"BY_ENTERING_NB_OF_PEOPLE": "人数を入力することで",
+		"BY_GIVING_ALL_NAMES": "すべての名前を付ける",
+		"DESCRIPTION": "説明：",
+		"DR": "博士",
+		"EMAIL": "電子メールアドレス：",
+		"EVENT_SUB_TOTAL": "イベント小計：",
+		"FEES_FIELD_AMOUNT": "量",
+		"FEES_FIELD_CALC_PERCENTAGE_ON": "パーセントの計算",
+		"FEES_FIELD_GRAND_TOTAL": "総計",
+		"FEES_FIELD_NAME": "名",
+		"FEES_FIELD_PERCENTAGE": "割合",
+		"FEES_FIELD_SUB_TOTAL": "小計",
+		"FIRST_NAME": "ファーストネーム：",
+		"FIXED_FEES": "一定",
+		"FROM": "から：",
+		"LAST_NAME": "苗字：",
+		"LET_S_BOOK_IT": "それを予約しよう！",
+		"MISS": "ミズ",
+		"MR": "氏。",
+		"MRS": "夫人。",
+		"NOTE": "注意：",
+		"NUMBER_OF_PEOPLE": "予約する人数",
+		"PAYMENT_MESSAGE": "あなたはあなたの支払いと予約を完了するためにpaypalウェブサイトにリダイレクトされます。",
+		"PERCENTAGE_FEES": "割合",
+		"PHONE": "電話：",
+		"REMOVE_MEMBER": "参加者を削除",
+		"TAXES_AND_FEES": "税金と手数料",
+		"TITLE": "タイトル：",
+		"TO": "に："
+	}
+}

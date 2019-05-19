@@ -1,56 +1,92 @@
 {
-    "CALENDAR": {
-        "DAY": "Dag",
-        "MONTH": "Maand",
-        "NEXT": "Volgende",
-        "PREVIOUS": "Voorgaande",
-        "TODAY": "Vandaag",
-        "WEEK": "Week"
-    },
-    "ERROR": {
-        "NO_BOOKABLE_ITEM": "Maak alstublieft een boekbaar item aan in het account van je Sagenda!",
-        "NO_TOKEN": "Kopieer uw authenticatiecode (token) vanuit het account van uw Sagenda!"
-    },
-    "EVENT": {
-        "ALL_DAY": "De hele dag",
-        "DATE": "Datum"
-    },
-    "MULTIPLE": {
-        "SELECTED_EVENTS": "Selected event(s) :",
-        "CLEAR_SELECTION": "Clear selection"
-    },
-    "MESSAGE": {
-        "DISABLE_MULTIPLE_SELECTION": "Schakel meerdere selectie uit",
-        "ENABLE_MULTIPLE_SELECTION": "Meerdere selectie inschakelen",
-        "NO_EVENT": "Geen evenement gevonden voor de opgegeven periode!",
-        "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Gelieve een geldig e-mailadres in te geven!",
-        "PLEASE_SELECT": "Selecteer alstublieft...",
-        "VALUE_IS_REQUIRED": "Waarde is verplicht!",
-        "YOU_HAVE_SUCCESSFULLY_BOOKED": "Je bent met succes geabonneerd!",
-        "YOU_WILL_GET_NOTIFICATION": "U ontvangt binnenkort een melding per e-mail en optioneel per sms."
-    },
-    "STANDARD": {
-        "LINK": "Verbinden",
-        "OK": "OK"
-    },
-    "SUBSCRIPTION": {
-        "AMOUNT": "Bedrag:",
-        "BACK": "Terug",
-        "BOOK": "Boek nu!",
-        "DESCRIPTION": "Beschrijving:",
-        "DR": "Dr.",
-        "EMAIL": "E-mailadres:",
-        "FIRST_NAME": "Voornaam:",
-        "FROM": "Van:",
-        "LAST_NAME": "Achternaam:",
-        "LET_S_BOOK_IT": "Laten we het boeken!",
-        "MISS": "Missen",
-        "MR": "Dhr.",
-        "MRS": "Mevr.",
-        "NOTE": "Notitie:",
-        "PHONE": "Telefoon:",
-        "TITLE": "Titel:",
-        "TO": "Naar:",
-        "PAYMENT_MESSAGE": "You will be redirected to the paypal website to complete your payment and booking"
-    }
+	"CALENDAR": {
+		"DAY": "Dag",
+		"DESCRIPTION": "Omschrijving:",
+		"LOCATION": "plaats:",
+		"MONTH": "Maand",
+		"NEXT": "Volgende",
+		"PREVIOUS": "Voorgaande",
+		"TODAY": "Vandaag",
+		"WEEK": "Week"
+	},
+	"ERROR": {
+		"DIFFERENT_CURRENCIES": "",
+		"MAXIMUM_QUOTA": "",
+		"MINIMUM_QUOTA": "",
+		"NO_BOOKABLE_ITEM": "Maak alstublieft een boekbaar item aan in het account van je Sagenda!",
+		"NO_TOKEN": "Kopieer uw authenticatiecode (token) vanuit het account van uw Sagenda!",
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": ""
+	},
+	"EVENT": {
+		"ALL_DAY": "De hele dag",
+		"DATE": "Datum"
+	},
+	"MESSAGE": {
+		"DISABLE_MULTIPLE_SELECTION": "Schakel meerdere selectie uit",
+		"DONT_HAVE_A_SAGENDA_ACCOUNT": "",
+		"ENABLE_MULTIPLE_SELECTION": "Meerdere selectie inschakelen",
+		"NO_EVENT": "Geen evenement gevonden voor de opgegeven periode!",
+		"PLEASE_CREATE_ONE_HERE": "",
+		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Gelieve een geldig e-mailadres in te geven!",
+		"PLEASE_LOGIN": "",
+		"PLEASE_SELECT": "Selecteer alstublieft...",
+		"VALUE_IS_REQUIRED": "Waarde is verplicht!",
+		"WRONG_CREDENTIALS": "",
+		"YOU_HAVE_SUCCESSFULLY_BOOKED": "Je bent met succes geabonneerd!",
+		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "",
+		"YOU_WILL_GET_NOTIFICATION": "U ontvangt binnenkort een melding per e-mail en optioneel per sms."
+	},
+	"MULTIPLE": {
+		"CLEAR_SELECTION": "Clear selection",
+		"NO_SELECTED_EVENTS": "",
+		"SELECTED_EVENTS": "Selected event(s) :"
+	},
+	"STANDARD": {
+		"AGENDA": "",
+		"EMAIL_ADDRESS": "",
+		"LINK": "Verbinden",
+		"LOGIN": "",
+		"LOGOUT": "",
+		"MENU": "",
+		"OK": "OK",
+		"PWD": ""
+	},
+	"SUBSCRIPTION": {
+		"ADD_MEMBER": "Deelnemer toevoegen",
+		"AMOUNT": "Bedrag:",
+		"BACK": "Terug",
+		"BOOK": "Boek nu!",
+		"BOOKINGS_AND_FIXED_FEES": "Boekingen Vaste kosten",
+		"BOOKINGS_ONLY": "Alleen boekingen",
+		"BOOK_MULTIPLE_PEOPLE": "Boek meerdere mensen",
+		"BY_ENTERING_NB_OF_PEOPLE": "Door het aantal personen in te voeren",
+		"BY_GIVING_ALL_NAMES": "Door alle namen te geven",
+		"DESCRIPTION": "Beschrijving:",
+		"DR": "Dr.",
+		"EMAIL": "E-mailadres:",
+		"EVENT_SUB_TOTAL": "Subtotaal gebeurtenis:",
+		"FEES_FIELD_AMOUNT": "Bedrag",
+		"FEES_FIELD_CALC_PERCENTAGE_ON": "Percentage aanrekenen",
+		"FEES_FIELD_GRAND_TOTAL": "Eindtotaal",
+		"FEES_FIELD_NAME": "Naam",
+		"FEES_FIELD_PERCENTAGE": "percentage",
+		"FEES_FIELD_SUB_TOTAL": "Subtotaal",
+		"FIRST_NAME": "Voornaam:",
+		"FIXED_FEES": "vast",
+		"FROM": "Van:",
+		"LAST_NAME": "Achternaam:",
+		"LET_S_BOOK_IT": "Laten we het boeken!",
+		"MISS": "Missen",
+		"MR": "Dhr.",
+		"MRS": "Mevr.",
+		"NOTE": "Notitie:",
+		"NUMBER_OF_PEOPLE": "Aantal te boeken mensen",
+		"PAYMENT_MESSAGE": "You will be redirected to the paypal website to complete your payment and booking",
+		"PERCENTAGE_FEES": "percentage",
+		"PHONE": "Telefoon:",
+		"REMOVE_MEMBER": "Deelnemer verwijderen",
+		"TAXES_AND_FEES": "Belastingen en heffingen",
+		"TITLE": "Titel:",
+		"TO": "Naar:"
+	}
 }

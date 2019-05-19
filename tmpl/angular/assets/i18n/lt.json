@@ -1,0 +1,92 @@
+{
+	"CALENDAR": {
+		"DAY": "",
+		"DESCRIPTION": "",
+		"LOCATION": "",
+		"MONTH": "",
+		"NEXT": "",
+		"PREVIOUS": "",
+		"TODAY": "",
+		"WEEK": ""
+	},
+	"ERROR": {
+		"DIFFERENT_CURRENCIES": "",
+		"MAXIMUM_QUOTA": "",
+		"MINIMUM_QUOTA": "",
+		"NO_BOOKABLE_ITEM": "",
+		"NO_TOKEN": "",
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": ""
+	},
+	"EVENT": {
+		"ALL_DAY": "",
+		"DATE": ""
+	},
+	"MESSAGE": {
+		"DISABLE_MULTIPLE_SELECTION": "",
+		"DONT_HAVE_A_SAGENDA_ACCOUNT": "",
+		"ENABLE_MULTIPLE_SELECTION": "",
+		"NO_EVENT": "",
+		"PLEASE_CREATE_ONE_HERE": "",
+		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "",
+		"PLEASE_LOGIN": "",
+		"PLEASE_SELECT": "",
+		"VALUE_IS_REQUIRED": "",
+		"WRONG_CREDENTIALS": "",
+		"YOU_HAVE_SUCCESSFULLY_BOOKED": "",
+		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "",
+		"YOU_WILL_GET_NOTIFICATION": ""
+	},
+	"MULTIPLE": {
+		"CLEAR_SELECTION": "",
+		"NO_SELECTED_EVENTS": "",
+		"SELECTED_EVENTS": ""
+	},
+	"STANDARD": {
+		"AGENDA": "",
+		"EMAIL_ADDRESS": "",
+		"LINK": "",
+		"LOGIN": "",
+		"LOGOUT": "",
+		"MENU": "",
+		"OK": "",
+		"PWD": ""
+	},
+	"SUBSCRIPTION": {
+		"ADD_MEMBER": "Pridėti dalyvį",
+		"AMOUNT": "Suma:",
+		"BACK": "Atgal",
+		"BOOK": "Knyga",
+		"BOOKINGS_AND_FIXED_FEES": "Užsakymai Fiksuoti mokesčiai",
+		"BOOKINGS_ONLY": "Tik užsakymai",
+		"BOOK_MULTIPLE_PEOPLE": "Užsisakykite kelis žmones",
+		"BY_ENTERING_NB_OF_PEOPLE": "Įvedus žmonių skaičių",
+		"BY_GIVING_ALL_NAMES": "Pateikdami visus vardus",
+		"DESCRIPTION": "Apibūdinimas:",
+		"DR": "Dr.",
+		"EMAIL": "Elektroninio pašto adresas:",
+		"EVENT_SUB_TOTAL": "Įvykio suma iš viso:",
+		"FEES_FIELD_AMOUNT": "Suma",
+		"FEES_FIELD_CALC_PERCENTAGE_ON": "Calulate Percentage On",
+		"FEES_FIELD_GRAND_TOTAL": "Iš viso",
+		"FEES_FIELD_NAME": "vardas",
+		"FEES_FIELD_PERCENTAGE": "Procentai",
+		"FEES_FIELD_SUB_TOTAL": "Iš viso suma",
+		"FIRST_NAME": "Pirmas vardas:",
+		"FIXED_FEES": "Fiksuotas",
+		"FROM": "Nuo:",
+		"LAST_NAME": "Pavardė:",
+		"LET_S_BOOK_IT": "Leiskite užsisakyti!",
+		"MISS": "Praleisti",
+		"MR": "Ponas.",
+		"MRS": "Ponia.",
+		"NOTE": "Pastaba:",
+		"NUMBER_OF_PEOPLE": "Žmonių, kuriuos reikia užsisakyti, skaičius",
+		"PAYMENT_MESSAGE": "Jūs būsite nukreipti į „Paypal“ svetainę, kad atliktumėte mokėjimą ir užsakymą",
+		"PERCENTAGE_FEES": "Procentai",
+		"PHONE": "Telefonas:",
+		"REMOVE_MEMBER": "Pašalinti dalyvį",
+		"TAXES_AND_FEES": "Mokesčiai ir mokesčiai",
+		"TITLE": "Pavadinimas:",
+		"TO": "Į:"
+	}
+}

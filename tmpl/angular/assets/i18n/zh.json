@@ -1,0 +1,92 @@
+{
+	"CALENDAR": {
+		"DAY": "",
+		"DESCRIPTION": "",
+		"LOCATION": "",
+		"MONTH": "",
+		"NEXT": "",
+		"PREVIOUS": "",
+		"TODAY": "",
+		"WEEK": ""
+	},
+	"ERROR": {
+		"DIFFERENT_CURRENCIES": "",
+		"MAXIMUM_QUOTA": "",
+		"MINIMUM_QUOTA": "",
+		"NO_BOOKABLE_ITEM": "",
+		"NO_TOKEN": "",
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": ""
+	},
+	"EVENT": {
+		"ALL_DAY": "",
+		"DATE": ""
+	},
+	"MESSAGE": {
+		"DISABLE_MULTIPLE_SELECTION": "",
+		"DONT_HAVE_A_SAGENDA_ACCOUNT": "",
+		"ENABLE_MULTIPLE_SELECTION": "",
+		"NO_EVENT": "",
+		"PLEASE_CREATE_ONE_HERE": "",
+		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "",
+		"PLEASE_LOGIN": "",
+		"PLEASE_SELECT": "",
+		"VALUE_IS_REQUIRED": "",
+		"WRONG_CREDENTIALS": "",
+		"YOU_HAVE_SUCCESSFULLY_BOOKED": "",
+		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "",
+		"YOU_WILL_GET_NOTIFICATION": ""
+	},
+	"MULTIPLE": {
+		"CLEAR_SELECTION": "",
+		"NO_SELECTED_EVENTS": "",
+		"SELECTED_EVENTS": ""
+	},
+	"STANDARD": {
+		"AGENDA": "",
+		"EMAIL_ADDRESS": "",
+		"LINK": "",
+		"LOGIN": "",
+		"LOGOUT": "",
+		"MENU": "",
+		"OK": "",
+		"PWD": ""
+	},
+	"SUBSCRIPTION": {
+		"ADD_MEMBER": "添加参与者",
+		"AMOUNT": "量：",
+		"BACK": "背部",
+		"BOOK": "书",
+		"BOOKINGS_AND_FIXED_FEES": "预订固定费用",
+		"BOOKINGS_ONLY": "仅限预订",
+		"BOOK_MULTIPLE_PEOPLE": "预订多人",
+		"BY_ENTERING_NB_OF_PEOPLE": "通过输入人数",
+		"BY_GIVING_ALL_NAMES": "通过给出所有的名字",
+		"DESCRIPTION": "描述：",
+		"DR": "博士",
+		"EMAIL": "电子邮件地址：",
+		"EVENT_SUB_TOTAL": "活动子总数：",
+		"FEES_FIELD_AMOUNT": "量",
+		"FEES_FIELD_CALC_PERCENTAGE_ON": "Calulate Percentage On",
+		"FEES_FIELD_GRAND_TOTAL": "累计",
+		"FEES_FIELD_NAME": "名称",
+		"FEES_FIELD_PERCENTAGE": "百分比",
+		"FEES_FIELD_SUB_TOTAL": "小计",
+		"FIRST_NAME": "名字：",
+		"FIXED_FEES": "固定",
+		"FROM": "从：",
+		"LAST_NAME": "姓：",
+		"LET_S_BOOK_IT": "我们预订吧！",
+		"MISS": "小姐",
+		"MR": "先生。",
+		"MRS": "太太。",
+		"NOTE": "注意：",
+		"NUMBER_OF_PEOPLE": "预订人数",
+		"PAYMENT_MESSAGE": "您将被重定向到paypal网站以完成付款和预订",
+		"PERCENTAGE_FEES": "百分比",
+		"PHONE": "电话：",
+		"REMOVE_MEMBER": "删除参与者",
+		"TAXES_AND_FEES": "税费",
+		"TITLE": "标题：",
+		"TO": "至："
+	}
+}

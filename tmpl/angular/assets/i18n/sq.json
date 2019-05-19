@@ -1,0 +1,92 @@
+{
+	"CALENDAR": {
+		"DAY": "",
+		"DESCRIPTION": "",
+		"LOCATION": "",
+		"MONTH": "",
+		"NEXT": "",
+		"PREVIOUS": "",
+		"TODAY": "",
+		"WEEK": ""
+	},
+	"ERROR": {
+		"DIFFERENT_CURRENCIES": "",
+		"MAXIMUM_QUOTA": "",
+		"MINIMUM_QUOTA": "",
+		"NO_BOOKABLE_ITEM": "",
+		"NO_TOKEN": "",
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": ""
+	},
+	"EVENT": {
+		"ALL_DAY": "",
+		"DATE": ""
+	},
+	"MESSAGE": {
+		"DISABLE_MULTIPLE_SELECTION": "",
+		"DONT_HAVE_A_SAGENDA_ACCOUNT": "",
+		"ENABLE_MULTIPLE_SELECTION": "",
+		"NO_EVENT": "",
+		"PLEASE_CREATE_ONE_HERE": "",
+		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "",
+		"PLEASE_LOGIN": "",
+		"PLEASE_SELECT": "",
+		"VALUE_IS_REQUIRED": "",
+		"WRONG_CREDENTIALS": "",
+		"YOU_HAVE_SUCCESSFULLY_BOOKED": "",
+		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "",
+		"YOU_WILL_GET_NOTIFICATION": ""
+	},
+	"MULTIPLE": {
+		"CLEAR_SELECTION": "",
+		"NO_SELECTED_EVENTS": "",
+		"SELECTED_EVENTS": ""
+	},
+	"STANDARD": {
+		"AGENDA": "",
+		"EMAIL_ADDRESS": "",
+		"LINK": "",
+		"LOGIN": "",
+		"LOGOUT": "",
+		"MENU": "",
+		"OK": "",
+		"PWD": ""
+	},
+	"SUBSCRIPTION": {
+		"ADD_MEMBER": "Shto Pjesëmarrësin",
+		"AMOUNT": "shuma:",
+		"BACK": "prapa",
+		"BOOK": "libër",
+		"BOOKINGS_AND_FIXED_FEES": "Rezervimet Tarifat fikse",
+		"BOOKINGS_ONLY": "Vetëm rezervime",
+		"BOOK_MULTIPLE_PEOPLE": "Libri njerëz të shumtë",
+		"BY_ENTERING_NB_OF_PEOPLE": "Duke futur numrin e njerëzve",
+		"BY_GIVING_ALL_NAMES": "Duke i dhënë të gjithë emrat",
+		"DESCRIPTION": "Përshkrim:",
+		"DR": "Dr.",
+		"EMAIL": "Adresa e emailit:",
+		"EVENT_SUB_TOTAL": "Event Sub Totali:",
+		"FEES_FIELD_AMOUNT": "sasi",
+		"FEES_FIELD_CALC_PERCENTAGE_ON": "Përshkruaj përqindjen në",
+		"FEES_FIELD_GRAND_TOTAL": "Grand Total",
+		"FEES_FIELD_NAME": "emër",
+		"FEES_FIELD_PERCENTAGE": "përqindje",
+		"FEES_FIELD_SUB_TOTAL": "Nën Totali",
+		"FIRST_NAME": "Emri:",
+		"FIXED_FEES": "fiks",
+		"FROM": "From:",
+		"LAST_NAME": "Mbiemri:",
+		"LET_S_BOOK_IT": "Le të Librit It!",
+		"MISS": "humbas",
+		"MR": "Zoti.",
+		"MRS": "Zonja",
+		"NOTE": "Shënim:",
+		"NUMBER_OF_PEOPLE": "Numri i njerëzve për të librit",
+		"PAYMENT_MESSAGE": "Ju do të ridrejtoheni në faqen e internetit paypal për të përfunduar pagesën dhe rezervimin tuaj",
+		"PERCENTAGE_FEES": "përqindje",
+		"PHONE": "Telefon:",
+		"REMOVE_MEMBER": "Hiq pjesëmarrësin",
+		"TAXES_AND_FEES": "Taksat dhe Tarifat",
+		"TITLE": "Titulli:",
+		"TO": "për:"
+	}
+}

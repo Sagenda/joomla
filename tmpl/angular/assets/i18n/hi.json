@@ -1,0 +1,92 @@
+{
+	"CALENDAR": {
+		"DAY": "",
+		"DESCRIPTION": "",
+		"LOCATION": "",
+		"MONTH": "",
+		"NEXT": "",
+		"PREVIOUS": "",
+		"TODAY": "",
+		"WEEK": ""
+	},
+	"ERROR": {
+		"DIFFERENT_CURRENCIES": "",
+		"MAXIMUM_QUOTA": "",
+		"MINIMUM_QUOTA": "",
+		"NO_BOOKABLE_ITEM": "",
+		"NO_TOKEN": "",
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": ""
+	},
+	"EVENT": {
+		"ALL_DAY": "",
+		"DATE": ""
+	},
+	"MESSAGE": {
+		"DISABLE_MULTIPLE_SELECTION": "",
+		"DONT_HAVE_A_SAGENDA_ACCOUNT": "",
+		"ENABLE_MULTIPLE_SELECTION": "",
+		"NO_EVENT": "",
+		"PLEASE_CREATE_ONE_HERE": "",
+		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "",
+		"PLEASE_LOGIN": "",
+		"PLEASE_SELECT": "",
+		"VALUE_IS_REQUIRED": "",
+		"WRONG_CREDENTIALS": "",
+		"YOU_HAVE_SUCCESSFULLY_BOOKED": "",
+		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "",
+		"YOU_WILL_GET_NOTIFICATION": ""
+	},
+	"MULTIPLE": {
+		"CLEAR_SELECTION": "",
+		"NO_SELECTED_EVENTS": "",
+		"SELECTED_EVENTS": ""
+	},
+	"STANDARD": {
+		"AGENDA": "",
+		"EMAIL_ADDRESS": "",
+		"LINK": "",
+		"LOGIN": "",
+		"LOGOUT": "",
+		"MENU": "",
+		"OK": "",
+		"PWD": ""
+	},
+	"SUBSCRIPTION": {
+		"ADD_MEMBER": "प्रतिभागी जोड़ें",
+		"AMOUNT": "रकम:",
+		"BACK": "वापस",
+		"BOOK": "किताब",
+		"BOOKINGS_AND_FIXED_FEES": "बुकिंग फिक्स्ड फीस",
+		"BOOKINGS_ONLY": "केवल बुकिंग",
+		"BOOK_MULTIPLE_PEOPLE": "कई लोगों को बुक करें",
+		"BY_ENTERING_NB_OF_PEOPLE": "लोगों की संख्या दर्ज करके",
+		"BY_GIVING_ALL_NAMES": "सभी नाम देकर",
+		"DESCRIPTION": "विवरण:",
+		"DR": "डॉ",
+		"EMAIL": "ईमेल पता:",
+		"EVENT_SUB_TOTAL": "घटना उप कुल:",
+		"FEES_FIELD_AMOUNT": "रकम",
+		"FEES_FIELD_CALC_PERCENTAGE_ON": "Calulate प्रतिशत पर",
+		"FEES_FIELD_GRAND_TOTAL": "कुल योग",
+		"FEES_FIELD_NAME": "नाम",
+		"FEES_FIELD_PERCENTAGE": "प्रतिशत",
+		"FEES_FIELD_SUB_TOTAL": "उप कुल",
+		"FIRST_NAME": "पहला नाम:",
+		"FIXED_FEES": "स्थिर",
+		"FROM": "से:",
+		"LAST_NAME": "अंतिम नाम:",
+		"LET_S_BOOK_IT": "चलो इसे बुक करें!",
+		"MISS": "कुमारी र",
+		"MR": "श्री।",
+		"MRS": "श्रीमती।",
+		"NOTE": "ध्यान दें:",
+		"NUMBER_OF_PEOPLE": "बुक करने के लिए लोगों की संख्या",
+		"PAYMENT_MESSAGE": "आपके भुगतान और बुकिंग को पूरा करने के लिए आपको पेपल वेबसाइट पर पुनर्निर्देशित किया जाएगा",
+		"PERCENTAGE_FEES": "प्रतिशत",
+		"PHONE": "फ़ोन:",
+		"REMOVE_MEMBER": "प्रतिभागी को हटा दें",
+		"TAXES_AND_FEES": "कर और शुल्क",
+		"TITLE": "शीर्षक:",
+		"TO": "सेवा मेरे:"
+	}
+}

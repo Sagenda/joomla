@@ -18,6 +18,10 @@ defined('_JEXEC') or die; ?>
   <script>
     window.sagendaIntegration = 'Joomla';
     window.baseUrl = 'https://sagenda.net/api/v3/';
+    window.sagendaDefaultView = '<?php echo $sagendaDefaultView ;?>';
+    window.sagendaRemoveMonthViewButton = '<?php echo $sagendaRemoveMonthViewButton ;?>';
+    window.sagendaRemoveWeekViewButton = '<?php echo $sagendaRemoveWeekViewButton ;?>';
+    window.sagendaRemoveDayViewButton = '<?php echo $sagendaRemoveDayViewButton ;?>';
     window.sagendaBearerToken = '<?php echo $sagendaBearerToken ;?>';
     window.sagendaWeekStartsOn = '<?php echo $sagendaWeekStartsOn ;?>';
     window.sagendaLanguageCultureShortName = '<?php echo $locale ;?>';

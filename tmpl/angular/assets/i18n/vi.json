@@ -1,0 +1,92 @@
+{
+	"CALENDAR": {
+		"DAY": "",
+		"DESCRIPTION": "",
+		"LOCATION": "",
+		"MONTH": "",
+		"NEXT": "",
+		"PREVIOUS": "",
+		"TODAY": "",
+		"WEEK": ""
+	},
+	"ERROR": {
+		"DIFFERENT_CURRENCIES": "",
+		"MAXIMUM_QUOTA": "",
+		"MINIMUM_QUOTA": "",
+		"NO_BOOKABLE_ITEM": "",
+		"NO_TOKEN": "",
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": ""
+	},
+	"EVENT": {
+		"ALL_DAY": "",
+		"DATE": ""
+	},
+	"MESSAGE": {
+		"DISABLE_MULTIPLE_SELECTION": "",
+		"DONT_HAVE_A_SAGENDA_ACCOUNT": "",
+		"ENABLE_MULTIPLE_SELECTION": "",
+		"NO_EVENT": "",
+		"PLEASE_CREATE_ONE_HERE": "",
+		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "",
+		"PLEASE_LOGIN": "",
+		"PLEASE_SELECT": "",
+		"VALUE_IS_REQUIRED": "",
+		"WRONG_CREDENTIALS": "",
+		"YOU_HAVE_SUCCESSFULLY_BOOKED": "",
+		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "",
+		"YOU_WILL_GET_NOTIFICATION": ""
+	},
+	"MULTIPLE": {
+		"CLEAR_SELECTION": "",
+		"NO_SELECTED_EVENTS": "",
+		"SELECTED_EVENTS": ""
+	},
+	"STANDARD": {
+		"AGENDA": "",
+		"EMAIL_ADDRESS": "",
+		"LINK": "",
+		"LOGIN": "",
+		"LOGOUT": "",
+		"MENU": "",
+		"OK": "",
+		"PWD": ""
+	},
+	"SUBSCRIPTION": {
+		"ADD_MEMBER": "Thêm người tham gia",
+		"AMOUNT": "Số tiền:",
+		"BACK": "Trở lại",
+		"BOOK": "Sách",
+		"BOOKINGS_AND_FIXED_FEES": "Phí đặt phòng",
+		"BOOKINGS_ONLY": "Chỉ đặt trước",
+		"BOOK_MULTIPLE_PEOPLE": "Đặt nhiều người",
+		"BY_ENTERING_NB_OF_PEOPLE": "Bằng cách nhập số người",
+		"BY_GIVING_ALL_NAMES": "Bằng cách cho tất cả các tên",
+		"DESCRIPTION": "Sự miêu tả:",
+		"DR": "Tiến sĩ",
+		"EMAIL": "Địa chỉ email:",
+		"EVENT_SUB_TOTAL": "Tổng số sự kiện:",
+		"FEES_FIELD_AMOUNT": "Số tiền",
+		"FEES_FIELD_CALC_PERCENTAGE_ON": "Tỷ lệ phần trăm trên",
+		"FEES_FIELD_GRAND_TOTAL": "Tổng cộng",
+		"FEES_FIELD_NAME": "tên",
+		"FEES_FIELD_PERCENTAGE": "Tỷ lệ phần trăm",
+		"FEES_FIELD_SUB_TOTAL": "Tổng số phụ",
+		"FIRST_NAME": "Tên đầu tiên:",
+		"FIXED_FEES": "Đã sửa",
+		"FROM": "Từ:",
+		"LAST_NAME": "họ",
+		"LET_S_BOOK_IT": "Hãy đặt nó!",
+		"MISS": "Bỏ lỡ",
+		"MR": "Ông.",
+		"MRS": "Bà.",
+		"NOTE": "Chú thích:",
+		"NUMBER_OF_PEOPLE": "Số người đặt trước",
+		"PAYMENT_MESSAGE": "Bạn sẽ được chuyển hướng đến trang web paypal để hoàn tất thanh toán và đặt phòng",
+		"PERCENTAGE_FEES": "Tỷ lệ phần trăm",
+		"PHONE": "Điện thoại:",
+		"REMOVE_MEMBER": "Xóa người tham gia",
+		"TAXES_AND_FEES": "Thuế và phí",
+		"TITLE": "Chức vụ:",
+		"TO": "Đến:"
+	}
+}

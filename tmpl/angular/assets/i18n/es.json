@@ -1,66 +1,92 @@
 {
-    "CALENDAR": {
-        "DAY": "D\u00eda(s)",
-        "MONTH": "Mes",
-        "NEXT": "Siguiente",
-        "PREVIOUS": "Anterior",
-        "TODAY": "Hoy",
-        "WEEK": "Semana",
-        "LOCATION": "Location:",
-        "DESCRIPTION": "Description:"
-    },
-    "ERROR": {
-        "NO_BOOKABLE_ITEM": "Por favor, crea al menos un elemento reservable en tu cuenta de sagenda!",
-        "NO_TOKEN": "Por favor, copia tu c\u00f3digo de autenticaci\u00f3n desde tu cuenta Sagenda.",
-        "DIFFERENT_CURRENCIES": "No puede reservar m\u00faltiples eventos con diferentes monedas de pago.",
-        "NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "No hay suficientes vacantes para la cantidad de particiapntes que ustede desea reservar."
-    },
-    "EVENT": {
-        "ALL_DAY": "Todo el d\u00eda",
-        "DATE": "Fecha"
-    },
-    "MULTIPLE": {
-        "SELECTED_EVENTS": "Evento(s) seleccionado(s):",
-        "CLEAR_SELECTION": "Limpiar selecci\u00f3n",
-        "NO_SELECTED_EVENTS": "Ning\u00fan evento ha sido seleccionado. Por favor, haga click en cada evento individualmente o utilice la selecci\u00f3n de rango para elegir varios d\u00edas."
-    },
-    "MESSAGE": {
-        "DISABLE_MULTIPLE_SELECTION": "Descartar la selecci\u00f3n m\u00faltiple",
-        "ENABLE_MULTIPLE_SELECTION": "Habilitar la selecci\u00f3n m\u00faltiple",
-        "NO_EVENT": "No se encontr\u00f3 ning\u00fan evento para el per\u00edodo seleccionado.",
-        "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "\u00a1Por favor, introduce una direcci\u00f3n de correo electr\u00f3nico v\u00e1lida!",
-        "PLEASE_SELECT": "Por favor selecciona...",
-        "VALUE_IS_REQUIRED": "El campo es obligatorio.",
-        "YOU_HAVE_SUCCESSFULLY_BOOKED": "\u00a1Ha realizado su reserva!",
-        "YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "\u00a1Te has suscrito satisfactoriamente!",
-        "YOU_WILL_GET_NOTIFICATION": "Pronto recibir\u00e1 una notificaci\u00f3n por correo electr\u00f3nico y, opcionalmente, por SMS."
-    },
-    "STANDARD": {
-        "LINK": "Enlace",
-        "OK": "De acuerdo"
-    },
-    "SUBSCRIPTION": {
-        "AMOUNT": "Cantidad:",
-        "BACK": "Atr\u00e1s",
-        "BOOK": "Reservar",
-        "DESCRIPTION": "Descripci\u00f3n:",
-        "DR": "Doctor",
-        "EMAIL": "Direcci\u00f3n de correo electr\u00f3nico:",
-        "FIRST_NAME": "Nombre:",
-        "FROM": "De:",
-        "LAST_NAME": "Apellido:",
-        "LET_S_BOOK_IT": "\u00a1Vamos a reservar!",
-        "MISS": "Srta.",
-        "MR": "Sr.",
-        "MRS": "Sra.",
-        "NOTE": "Nota:",
-        "PHONE": "Tel\u00e9fono:",
-        "TITLE": "T\u00edtulo:",
-        "TO": "A:",
-        "PAYMENT_MESSAGE": "Usted ser\u00e1 redireccionado al sitio de Paypal para completar su pago y reserva",
-        "REMOVE_MEMBER": "Remover participante.",
-        "ADD_MEMBER": "Agregar participante.",
-        "NUMBER_OF_PEOPLE": "N\u00famero de personas a reservar bajo este participante.",
-        "BOOK_MULTIPLE_PEOPLE": "Book multiple people"
-    }
+	"CALENDAR": {
+		"DAY": "Día(s)",
+		"DESCRIPTION": "Description:",
+		"LOCATION": "Location:",
+		"MONTH": "Mes",
+		"NEXT": "Siguiente",
+		"PREVIOUS": "Anterior",
+		"TODAY": "Hoy",
+		"WEEK": "Semana"
+	},
+	"ERROR": {
+		"DIFFERENT_CURRENCIES": "No puede reservar múltiples eventos con diferentes monedas de pago.",
+		"MAXIMUM_QUOTA": "",
+		"MINIMUM_QUOTA": "",
+		"NO_BOOKABLE_ITEM": "Por favor, crea al menos un elemento reservable en tu cuenta de sagenda!",
+		"NO_TOKEN": "Por favor, copia tu código de autenticación desde tu cuenta Sagenda.",
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "No hay suficientes vacantes para la cantidad de particiapntes que ustede desea reservar."
+	},
+	"EVENT": {
+		"ALL_DAY": "Todo el día",
+		"DATE": "Fecha"
+	},
+	"MESSAGE": {
+		"DISABLE_MULTIPLE_SELECTION": "Descartar la selección múltiple",
+		"DONT_HAVE_A_SAGENDA_ACCOUNT": "",
+		"ENABLE_MULTIPLE_SELECTION": "Habilitar la selección múltiple",
+		"NO_EVENT": "No se encontró ningún evento para el período seleccionado.",
+		"PLEASE_CREATE_ONE_HERE": "",
+		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "¡Por favor, introduce una dirección de correo electrónico válida!",
+		"PLEASE_LOGIN": "",
+		"PLEASE_SELECT": "Por favor selecciona...",
+		"VALUE_IS_REQUIRED": "El campo es obligatorio.",
+		"WRONG_CREDENTIALS": "",
+		"YOU_HAVE_SUCCESSFULLY_BOOKED": "¡Ha realizado su reserva!",
+		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "¡Te has suscrito satisfactoriamente!",
+		"YOU_WILL_GET_NOTIFICATION": "Pronto recibirá una notificación por correo electrónico y, opcionalmente, por SMS."
+	},
+	"MULTIPLE": {
+		"CLEAR_SELECTION": "Limpiar selección",
+		"NO_SELECTED_EVENTS": "Ningún evento ha sido seleccionado. Por favor, haga click en cada evento individualmente o utilice la selección de rango para elegir varios días.",
+		"SELECTED_EVENTS": "Evento(s) seleccionado(s):"
+	},
+	"STANDARD": {
+		"AGENDA": "",
+		"EMAIL_ADDRESS": "",
+		"LINK": "Enlace",
+		"LOGIN": "",
+		"LOGOUT": "",
+		"MENU": "",
+		"OK": "De acuerdo",
+		"PWD": ""
+	},
+	"SUBSCRIPTION": {
+		"ADD_MEMBER": "Agregar participante.",
+		"AMOUNT": "Cantidad:",
+		"BACK": "Atrás",
+		"BOOK": "Reservar",
+		"BOOKINGS_AND_FIXED_FEES": "Reservas tarifas fijas",
+		"BOOKINGS_ONLY": "Sólo reservas",
+		"BOOK_MULTIPLE_PEOPLE": "Book multiple people",
+		"BY_ENTERING_NB_OF_PEOPLE": "Introduciendo numero de personas",
+		"BY_GIVING_ALL_NAMES": "Dando todos los nombres",
+		"DESCRIPTION": "Descripción:",
+		"DR": "Doctor",
+		"EMAIL": "Dirección de correo electrónico:",
+		"EVENT_SUB_TOTAL": "Subtotal del evento:",
+		"FEES_FIELD_AMOUNT": "Cantidad",
+		"FEES_FIELD_CALC_PERCENTAGE_ON": "Calcular porcentaje en",
+		"FEES_FIELD_GRAND_TOTAL": "Gran total",
+		"FEES_FIELD_NAME": "Nombre",
+		"FEES_FIELD_PERCENTAGE": "Porcentaje",
+		"FEES_FIELD_SUB_TOTAL": "Sub Total",
+		"FIRST_NAME": "Nombre:",
+		"FIXED_FEES": "Fijo",
+		"FROM": "De:",
+		"LAST_NAME": "Apellido:",
+		"LET_S_BOOK_IT": "¡Vamos a reservar!",
+		"MISS": "Srta.",
+		"MR": "Sr.",
+		"MRS": "Sra.",
+		"NOTE": "Nota:",
+		"NUMBER_OF_PEOPLE": "Número de personas a reservar bajo este participante.",
+		"PAYMENT_MESSAGE": "Usted será redireccionado al sitio de Paypal para completar su pago y reserva",
+		"PERCENTAGE_FEES": "Porcentaje",
+		"PHONE": "Teléfono:",
+		"REMOVE_MEMBER": "Remover participante.",
+		"TAXES_AND_FEES": "Impuestos y honorarios",
+		"TITLE": "Título:",
+		"TO": "A:"
+	}
 }

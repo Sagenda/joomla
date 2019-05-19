@@ -1,62 +1,92 @@
 {
-    "MESSAGE": {
-        "YOU_HAVE_SUCCESSFULLY_BOOKED": "Voc\u00ea agendou com Sucesso !",
-        "DISABLE_MULTIPLE_SELECTION": "Desabilitar M\u00faltipla Sele\u00e7\u00e3o",
-        "ENABLE_MULTIPLE_SELECTION": "Habilitar M\u00faltipla Sele\u00e7\u00e3o",
-        "NO_EVENT": "Nenhum evento encontrado para o per\u00edodo dado!",
-        "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Por favor insira um endere\u00e7o de e-mail v\u00e1lido!",
-        "PLEASE_SELECT": "Por favor selecione...",
-        "VALUE_IS_REQUIRED": "Campo requerido...",
-        "YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "You have successfully subscribed!",
-        "YOU_WILL_GET_NOTIFICATION": "Em breve voc\u00ea receber\u00e1 uma notifica\u00e7\u00e3o por e-mail e, opcionalmente, por SMS."
-    },
-    "ERROR": {
-        "DIFFERENT_CURRENCIES": "Voc\u00ea n\u00e3o pode reservar v\u00e1rios eventos com moedas de pagamento diferentes.",
-        "NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "N\u00e3o h\u00e1 vagas suficientes para o n\u00famero de membros que voc\u00ea gostaria de reservar.",
-        "NO_BOOKABLE_ITEM": "Por favor, crie pelo menos 1 item reservado na sua conta Sagenda!",
-        "NO_TOKEN": "Por favor copie seu c\u00f3digo de autentica\u00e7\u00e3o (token) da sua conta do Sagenda!"
-    },
-    "MULTIPLE": {
-        "NO_SELECTED_EVENTS": "Nenhum evento selecionado. Por favor, clique em cada evento individualmente ou use a sele\u00e7\u00e3o de intervalos selecionando v\u00e1rios dias.",
-        "SELECTED_EVENTS": "Evento (s) selecionado (s):",
-        "CLEAR_SELECTION": "Limpar Sele\u00e7\u00e3o"
-    },
-    "SUBSCRIPTION": {
-        "REMOVE_MEMBER": "Remover Membro",
-        "ADD_MEMBER": "Adicionar Membro",
-        "AMOUNT": "Montante:",
-        "BACK": "Voltar",
-        "BOOK": "Agendar",
-        "DESCRIPTION": "Descri\u00e7\u00e3o:",
-        "DR": "Dr.",
-        "EMAIL": "Endere\u00e7o de E-mail",
-        "FIRST_NAME": "Primeiro Nome",
-        "FROM": "de:",
-        "LAST_NAME": "Sobrenome",
-        "LET_S_BOOK_IT": "Vamos reservar!",
-        "MISS": "Senhorita",
-        "MR": "Sr..",
-        "MRS": "Sra.",
-        "NOTE": "Nota:",
-        "PHONE": "Telefone:",
-        "TITLE": "Titulo:",
-        "TO": "Para:",
-        "PAYMENT_MESSAGE": "Voc\u00ea ser\u00e1 redirecionado para o site do paypal para completar o seu pagamento e reserva"
-    },
-    "CALENDAR": {
-        "DAY": "Dia",
-        "MONTH": "M\u00eas",
-        "NEXT": "Pr\u00f3ximo",
-        "PREVIOUS": "Anterior",
-        "TODAY": "Hoje",
-        "WEEK": "Semana"
-    },
-    "EVENT": {
-        "ALL_DAY": "O dia Todo",
-        "DATE": "Dados"
-    },
-    "STANDARD": {
-        "LINK": "Link",
-        "OK": "OK"
-    }
+	"CALENDAR": {
+		"DAY": "Dia",
+		"DESCRIPTION": "",
+		"LOCATION": "Localização:",
+		"MONTH": "Mês",
+		"NEXT": "Próximo",
+		"PREVIOUS": "Anterior",
+		"TODAY": "Hoje",
+		"WEEK": "Semana"
+	},
+	"ERROR": {
+		"DIFFERENT_CURRENCIES": "Você não pode reservar vários eventos com moedas de pagamento diferentes.",
+		"MAXIMUM_QUOTA": "",
+		"MINIMUM_QUOTA": "",
+		"NO_BOOKABLE_ITEM": "Por favor, crie pelo menos 1 item reservado na sua conta Sagenda!",
+		"NO_TOKEN": "Por favor copie seu código de autenticação (token) da sua conta do Sagenda!",
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Não há vagas suficientes para o número de membros que você gostaria de reservar."
+	},
+	"EVENT": {
+		"ALL_DAY": "O dia Todo",
+		"DATE": "Dados"
+	},
+	"MESSAGE": {
+		"DISABLE_MULTIPLE_SELECTION": "Desabilitar Múltipla Seleção",
+		"DONT_HAVE_A_SAGENDA_ACCOUNT": "",
+		"ENABLE_MULTIPLE_SELECTION": "Habilitar Múltipla Seleção",
+		"NO_EVENT": "Nenhum evento encontrado para o período dado!",
+		"PLEASE_CREATE_ONE_HERE": "",
+		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Por favor insira um endereço de e-mail válido!",
+		"PLEASE_LOGIN": "",
+		"PLEASE_SELECT": "Por favor selecione...",
+		"VALUE_IS_REQUIRED": "Campo requerido...",
+		"WRONG_CREDENTIALS": "",
+		"YOU_HAVE_SUCCESSFULLY_BOOKED": "Você agendou com Sucesso !",
+		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "You have successfully subscribed!",
+		"YOU_WILL_GET_NOTIFICATION": "Em breve você receberá uma notificação por e-mail e, opcionalmente, por SMS."
+	},
+	"MULTIPLE": {
+		"CLEAR_SELECTION": "Limpar Seleção",
+		"NO_SELECTED_EVENTS": "Nenhum evento selecionado. Por favor, clique em cada evento individualmente ou use a seleção de intervalos selecionando vários dias.",
+		"SELECTED_EVENTS": "Evento (s) selecionado (s):"
+	},
+	"STANDARD": {
+		"AGENDA": "",
+		"EMAIL_ADDRESS": "",
+		"LINK": "Link",
+		"LOGIN": "",
+		"LOGOUT": "",
+		"MENU": "",
+		"OK": "OK",
+		"PWD": ""
+	},
+	"SUBSCRIPTION": {
+		"ADD_MEMBER": "Adicionar Membro",
+		"AMOUNT": "Montante:",
+		"BACK": "Voltar",
+		"BOOK": "Agendar",
+		"BOOKINGS_AND_FIXED_FEES": "Reservas Taxas fixas",
+		"BOOKINGS_ONLY": "Apenas reservas",
+		"BOOK_MULTIPLE_PEOPLE": "Reservar várias pessoas",
+		"BY_ENTERING_NB_OF_PEOPLE": "Ao inserir o número de pessoas",
+		"BY_GIVING_ALL_NAMES": "Dando todos os nomes",
+		"DESCRIPTION": "Descrição:",
+		"DR": "Dr.",
+		"EMAIL": "Endereço de E-mail",
+		"EVENT_SUB_TOTAL": "Subtotal do evento:",
+		"FEES_FIELD_AMOUNT": "Montante",
+		"FEES_FIELD_CALC_PERCENTAGE_ON": "Calcular Porcentagem On",
+		"FEES_FIELD_GRAND_TOTAL": "Total geral",
+		"FEES_FIELD_NAME": "Nome",
+		"FEES_FIELD_PERCENTAGE": "Percentagem",
+		"FEES_FIELD_SUB_TOTAL": "Subtotal",
+		"FIRST_NAME": "Primeiro Nome",
+		"FIXED_FEES": "Fixo",
+		"FROM": "de:",
+		"LAST_NAME": "Sobrenome",
+		"LET_S_BOOK_IT": "Vamos reservar!",
+		"MISS": "Senhorita",
+		"MR": "Sr..",
+		"MRS": "Sra.",
+		"NOTE": "Nota:",
+		"NUMBER_OF_PEOPLE": "Número de pessoas para reservar",
+		"PAYMENT_MESSAGE": "Você será redirecionado para o site do paypal para completar o seu pagamento e reserva",
+		"PERCENTAGE_FEES": "Percentagem",
+		"PHONE": "Telefone:",
+		"REMOVE_MEMBER": "Remover Membro",
+		"TAXES_AND_FEES": "Impostos e Taxas",
+		"TITLE": "Titulo:",
+		"TO": "Para:"
+	}
 }

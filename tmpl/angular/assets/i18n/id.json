@@ -1,63 +1,92 @@
 {
-    "MESSAGE": {
-        "YOU_HAVE_SUCCESSFULLY_BOOKED": "Reservasi anda telah berhasil!",
-        "DISABLE_MULTIPLE_SELECTION": "Non aktifkan pemilihan multipel",
-        "ENABLE_MULTIPLE_SELECTION": "Aktifkan pemilihan multipel",
-        "NO_EVENT": "Tidak ada event pada jangka waktu yang dipilih!",
-        "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Masukkan alamat email dengan benar!",
-        "PLEASE_SELECT": "Silahkan pilih...",
-        "VALUE_IS_REQUIRED": "Dibutuhkan nilai!",
-        "YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Kamu telah berhasil didaftarkan!",
-        "YOU_WILL_GET_NOTIFICATION": "Kamu akan menerima pemberitahuan melalui email dan mungkin juga SMS"
-    },
-    "ERROR": {
-        "DIFFERENT_CURRENCIES": "Anda tidak dapat melakukan reservasi beberapa acara yang mempunyai mata uang pembayaran yang berbeda secara sekaligus",
-        "NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Tidak ada cukup tempat yang tersedia untuk jumlah anggota yang anda ingin lakukan reservasi",
-        "NO_BOOKABLE_ITEM": "Silahkan buat minimal 1 item reservasi di akun Sagenda mu!",
-        "NO_TOKEN": "Masukkan kode autentikasi (token) dari akun Sagenda mu!"
-    },
-    "MULTIPLE": {
-        "NO_SELECTED_EVENTS": "Belum ada acara yang dipilih. Silahkan klik setiap acara satu per satu atau gunakan pemilih rentang dengan memilih beberapa hari",
-        "SELECTED_EVENTS": "Event yang dipilih",
-        "CLEAR_SELECTION": "Hapus pilihan"
-    },
-    "SUBSCRIPTION": {
-        "REMOVE_MEMBER": "Keluarkan anggota",
-        "ADD_MEMBER": "Tambahkan anggota",
-        "NUMBER_OF_PEOPLE": "Number of people to book under this participant",
-        "AMOUNT": "Harga:",
-        "BACK": "Kembali",
-        "BOOK": "Reservasi",
-        "DESCRIPTION": "Penjelasan:",
-        "DR": "Dr.",
-        "EMAIL": "Alamat email:",
-        "FIRST_NAME": "Nama depan:",
-        "FROM": "Dari:",
-        "LAST_NAME": "Nama belakang:",
-        "LET_S_BOOK_IT": "Mari buat reservasi!",
-        "MISS": "Nn.",
-        "MR": "Tn.",
-        "MRS": "Ny.",
-        "NOTE": "Catatan:",
-        "PHONE": "Telepon:",
-        "TITLE": "Titel:",
-        "TO": "Kepada:",
-        "PAYMENT_MESSAGE": "Anda akan dialihkan ke web paypal untuk menyelesaikan pembayaran dan reservasimu"
-    },
-    "CALENDAR": {
-        "DAY": "Hari",
-        "MONTH": "Bulan ",
-        "NEXT": "Lanjut",
-        "PREVIOUS": "Sebelumnya",
-        "TODAY": "Hari ini",
-        "WEEK": "Minggu"
-    },
-    "EVENT": {
-        "ALL_DAY": "Seharian",
-        "DATE": "Tanggal"
-    },
-    "STANDARD": {
-        "LINK": "Tautan",
-        "OK": "Ya"
-    }
+	"CALENDAR": {
+		"DAY": "Hari",
+		"DESCRIPTION": "Deskripsi:",
+		"LOCATION": "Lokasi:",
+		"MONTH": "Bulan ",
+		"NEXT": "Lanjut",
+		"PREVIOUS": "Sebelumnya",
+		"TODAY": "Hari ini",
+		"WEEK": "Minggu"
+	},
+	"ERROR": {
+		"DIFFERENT_CURRENCIES": "Anda tidak dapat melakukan reservasi beberapa acara yang mempunyai mata uang pembayaran yang berbeda secara sekaligus",
+		"MAXIMUM_QUOTA": "",
+		"MINIMUM_QUOTA": "",
+		"NO_BOOKABLE_ITEM": "Silahkan buat minimal 1 item reservasi di akun Sagenda mu!",
+		"NO_TOKEN": "Masukkan kode autentikasi (token) dari akun Sagenda mu!",
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Tidak ada cukup tempat yang tersedia untuk jumlah anggota yang anda ingin lakukan reservasi"
+	},
+	"EVENT": {
+		"ALL_DAY": "Seharian",
+		"DATE": "Tanggal"
+	},
+	"MESSAGE": {
+		"DISABLE_MULTIPLE_SELECTION": "Non aktifkan pemilihan multipel",
+		"DONT_HAVE_A_SAGENDA_ACCOUNT": "",
+		"ENABLE_MULTIPLE_SELECTION": "Aktifkan pemilihan multipel",
+		"NO_EVENT": "Tidak ada event pada jangka waktu yang dipilih!",
+		"PLEASE_CREATE_ONE_HERE": "",
+		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Masukkan alamat email dengan benar!",
+		"PLEASE_LOGIN": "",
+		"PLEASE_SELECT": "Silahkan pilih...",
+		"VALUE_IS_REQUIRED": "Dibutuhkan nilai!",
+		"WRONG_CREDENTIALS": "",
+		"YOU_HAVE_SUCCESSFULLY_BOOKED": "Reservasi anda telah berhasil!",
+		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Kamu telah berhasil didaftarkan!",
+		"YOU_WILL_GET_NOTIFICATION": "Kamu akan menerima pemberitahuan melalui email dan mungkin juga SMS"
+	},
+	"MULTIPLE": {
+		"CLEAR_SELECTION": "Hapus pilihan",
+		"NO_SELECTED_EVENTS": "Belum ada acara yang dipilih. Silahkan klik setiap acara satu per satu atau gunakan pemilih rentang dengan memilih beberapa hari",
+		"SELECTED_EVENTS": "Event yang dipilih"
+	},
+	"STANDARD": {
+		"AGENDA": "",
+		"EMAIL_ADDRESS": "",
+		"LINK": "Tautan",
+		"LOGIN": "",
+		"LOGOUT": "",
+		"MENU": "",
+		"OK": "Ya",
+		"PWD": ""
+	},
+	"SUBSCRIPTION": {
+		"ADD_MEMBER": "Tambahkan anggota",
+		"AMOUNT": "Harga:",
+		"BACK": "Kembali",
+		"BOOK": "Reservasi",
+		"BOOKINGS_AND_FIXED_FEES": "Pemesanan Biaya tetap",
+		"BOOKINGS_ONLY": "Pemesanan saja",
+		"BOOK_MULTIPLE_PEOPLE": "Pesan beberapa orang",
+		"BY_ENTERING_NB_OF_PEOPLE": "Dengan memasukkan jumlah orang",
+		"BY_GIVING_ALL_NAMES": "Dengan memberikan semua nama",
+		"DESCRIPTION": "Penjelasan:",
+		"DR": "Dr.",
+		"EMAIL": "Alamat email:",
+		"EVENT_SUB_TOTAL": "Sub Total Peristiwa:",
+		"FEES_FIELD_AMOUNT": "Jumlah",
+		"FEES_FIELD_CALC_PERCENTAGE_ON": "Kalibrasi Persentase Aktif",
+		"FEES_FIELD_GRAND_TOTAL": "Total keseluruhan",
+		"FEES_FIELD_NAME": "Nama",
+		"FEES_FIELD_PERCENTAGE": "Persentase",
+		"FEES_FIELD_SUB_TOTAL": "Sub Total",
+		"FIRST_NAME": "Nama depan:",
+		"FIXED_FEES": "Tetap",
+		"FROM": "Dari:",
+		"LAST_NAME": "Nama belakang:",
+		"LET_S_BOOK_IT": "Mari buat reservasi!",
+		"MISS": "Nn.",
+		"MR": "Tn.",
+		"MRS": "Ny.",
+		"NOTE": "Catatan:",
+		"NUMBER_OF_PEOPLE": "Number of people to book under this participant",
+		"PAYMENT_MESSAGE": "Anda akan dialihkan ke web paypal untuk menyelesaikan pembayaran dan reservasimu",
+		"PERCENTAGE_FEES": "Persentase",
+		"PHONE": "Telepon:",
+		"REMOVE_MEMBER": "Keluarkan anggota",
+		"TAXES_AND_FEES": "Pajak dan biaya",
+		"TITLE": "Titel:",
+		"TO": "Kepada:"
+	}
 }

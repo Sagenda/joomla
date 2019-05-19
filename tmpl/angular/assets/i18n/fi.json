@@ -1,63 +1,92 @@
 {
-    "MESSAGE": {
-        "YOU_HAVE_SUCCESSFULLY_BOOKED": "Varaus onnistui!",
-        "DISABLE_MULTIPLE_SELECTION": "Est\u00e4 useiden valinta",
-        "ENABLE_MULTIPLE_SELECTION": "Salli useiden valinta",
-        "NO_EVENT": "Ei tapahtumia annetulle aikav\u00e4lille",
-        "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Sy\u00f6t\u00e4 kelvollinen s\u00e4hk\u00f6postiosoite!",
-        "PLEASE_SELECT": "Valitse...",
-        "VALUE_IS_REQUIRED": "Pakollinen tieto!",
-        "YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Varaus onnistui!",
-        "YOU_WILL_GET_NOTIFICATION": "Saat pian ilmoituksen s\u00e4hk\u00f6postilla ja vaihtoehtoisesti tekstiviestitse."
-    },
-    "ERROR": {
-        "DIFFERENT_CURRENCIES": "Tapahtumia joilla on eri maksuvaluutat, ei voi varata kerralla.",
-        "NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "There are not enough openings for the number of members you would like to book.",
-        "NO_BOOKABLE_ITEM": "Luo ainakin yksi varattava tuote sagenda- tiliisi!",
-        "NO_TOKEN": "Kopioi aktivointikoodi Sagenga- tililt\u00e4si!"
-    },
-    "MULTIPLE": {
-        "NO_SELECTED_EVENTS": "Tapahtumaa ei ole valittu. Valitse jokainen tapahtuma erikseen tai valitse alku ja loppup\u00e4iv\u00e4m\u00e4\u00e4r\u00e4.",
-        "SELECTED_EVENTS": "Valitut tapahtumat:",
-        "CLEAR_SELECTION": "Tyhjenn\u00e4 valinta"
-    },
-    "SUBSCRIPTION": {
-        "REMOVE_MEMBER": "Poista varaaja",
-        "ADD_MEMBER": "Lis\u00e4\u00e4 varaaja",
-        "NUMBER_OF_PEOPLE": "Number of people to book under this participant",
-        "AMOUNT": "M\u00e4\u00e4r\u00e4:",
-        "BACK": "Takaisin",
-        "BOOK": "Varaa",
-        "DESCRIPTION": "Lis\u00e4tietoja:",
-        "DR": "Tri",
-        "EMAIL": "S\u00e4hk\u00f6posti:",
-        "FIRST_NAME": "Etunimi:",
-        "FROM": "Alkaen:",
-        "LAST_NAME": "Sukunimi:",
-        "LET_S_BOOK_IT": "Varataan se!",
-        "MISS": "Nti",
-        "MR": "Hra",
-        "MRS": "Rva",
-        "NOTE": "Muistiinpano:",
-        "PHONE": "Puhelin:",
-        "TITLE": "Otsikko:",
-        "TO": "Asti:",
-        "PAYMENT_MESSAGE": "Sinut ohjataan PayPalin verkkosivustoon suorittamaan maksusi ja varauksesi"
-    },
-    "CALENDAR": {
-        "DAY": "P\u00e4iv\u00e4",
-        "MONTH": "Kuukausi",
-        "NEXT": "Seuraava",
-        "PREVIOUS": "Edellinen",
-        "TODAY": "T\u00e4n\u00e4\u00e4n",
-        "WEEK": "Viikko"
-    },
-    "EVENT": {
-        "ALL_DAY": "Koko p\u00e4iv\u00e4",
-        "DATE": "P\u00e4iv\u00e4m\u00e4\u00e4r\u00e4"
-    },
-    "STANDARD": {
-        "LINK": "Linkki",
-        "OK": "OK"
-    }
+	"CALENDAR": {
+		"DAY": "Päivä",
+		"DESCRIPTION": "Kuvaus:",
+		"LOCATION": "Sijainti:",
+		"MONTH": "Kuukausi",
+		"NEXT": "Seuraava",
+		"PREVIOUS": "Edellinen",
+		"TODAY": "Tänään",
+		"WEEK": "Viikko"
+	},
+	"ERROR": {
+		"DIFFERENT_CURRENCIES": "Tapahtumia joilla on eri maksuvaluutat, ei voi varata kerralla.",
+		"MAXIMUM_QUOTA": "",
+		"MINIMUM_QUOTA": "",
+		"NO_BOOKABLE_ITEM": "Luo ainakin yksi varattava tuote sagenda- tiliisi!",
+		"NO_TOKEN": "Kopioi aktivointikoodi Sagenga- tililtäsi!",
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "There are not enough openings for the number of members you would like to book."
+	},
+	"EVENT": {
+		"ALL_DAY": "Koko päivä",
+		"DATE": "Päivämäärä"
+	},
+	"MESSAGE": {
+		"DISABLE_MULTIPLE_SELECTION": "Estä useiden valinta",
+		"DONT_HAVE_A_SAGENDA_ACCOUNT": "",
+		"ENABLE_MULTIPLE_SELECTION": "Salli useiden valinta",
+		"NO_EVENT": "Ei tapahtumia annetulle aikavälille",
+		"PLEASE_CREATE_ONE_HERE": "",
+		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Syötä kelvollinen sähköpostiosoite!",
+		"PLEASE_LOGIN": "",
+		"PLEASE_SELECT": "Valitse...",
+		"VALUE_IS_REQUIRED": "Pakollinen tieto!",
+		"WRONG_CREDENTIALS": "",
+		"YOU_HAVE_SUCCESSFULLY_BOOKED": "Varaus onnistui!",
+		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Varaus onnistui!",
+		"YOU_WILL_GET_NOTIFICATION": "Saat pian ilmoituksen sähköpostilla ja vaihtoehtoisesti tekstiviestitse."
+	},
+	"MULTIPLE": {
+		"CLEAR_SELECTION": "Tyhjennä valinta",
+		"NO_SELECTED_EVENTS": "Tapahtumaa ei ole valittu. Valitse jokainen tapahtuma erikseen tai valitse alku ja loppupäivämäärä.",
+		"SELECTED_EVENTS": "Valitut tapahtumat:"
+	},
+	"STANDARD": {
+		"AGENDA": "",
+		"EMAIL_ADDRESS": "",
+		"LINK": "Linkki",
+		"LOGIN": "",
+		"LOGOUT": "",
+		"MENU": "",
+		"OK": "OK",
+		"PWD": ""
+	},
+	"SUBSCRIPTION": {
+		"ADD_MEMBER": "Lisää varaaja",
+		"AMOUNT": "Määrä:",
+		"BACK": "Takaisin",
+		"BOOK": "Varaa",
+		"BOOKINGS_AND_FIXED_FEES": "Varaukset Kiinteät maksut",
+		"BOOKINGS_ONLY": "Vain varaukset",
+		"BOOK_MULTIPLE_PEOPLE": "Varaa useita ihmisiä",
+		"BY_ENTERING_NB_OF_PEOPLE": "Syötä ihmisiä",
+		"BY_GIVING_ALL_NAMES": "Antamalla kaikki nimet",
+		"DESCRIPTION": "Lisätietoja:",
+		"DR": "Tri",
+		"EMAIL": "Sähköposti:",
+		"EVENT_SUB_TOTAL": "Tapahtumien kokonaismäärä:",
+		"FEES_FIELD_AMOUNT": "Määrä",
+		"FEES_FIELD_CALC_PERCENTAGE_ON": "Calulate Percentage On",
+		"FEES_FIELD_GRAND_TOTAL": "Loppusumma",
+		"FEES_FIELD_NAME": "nimi",
+		"FEES_FIELD_PERCENTAGE": "prosenttimäärä",
+		"FEES_FIELD_SUB_TOTAL": "Yhteensä yhteensä",
+		"FIRST_NAME": "Etunimi:",
+		"FIXED_FEES": "kiinteä",
+		"FROM": "Alkaen:",
+		"LAST_NAME": "Sukunimi:",
+		"LET_S_BOOK_IT": "Varataan se!",
+		"MISS": "Nti",
+		"MR": "Hra",
+		"MRS": "Rva",
+		"NOTE": "Muistiinpano:",
+		"NUMBER_OF_PEOPLE": "Number of people to book under this participant",
+		"PAYMENT_MESSAGE": "Sinut ohjataan PayPalin verkkosivustoon suorittamaan maksusi ja varauksesi",
+		"PERCENTAGE_FEES": "prosenttimäärä",
+		"PHONE": "Puhelin:",
+		"REMOVE_MEMBER": "Poista varaaja",
+		"TAXES_AND_FEES": "Verot ja maksut",
+		"TITLE": "Otsikko:",
+		"TO": "Asti:"
+	}
 }

@@ -1,0 +1,92 @@
+{
+	"CALENDAR": {
+		"DAY": "",
+		"DESCRIPTION": "",
+		"LOCATION": "",
+		"MONTH": "",
+		"NEXT": "",
+		"PREVIOUS": "",
+		"TODAY": "",
+		"WEEK": ""
+	},
+	"ERROR": {
+		"DIFFERENT_CURRENCIES": "",
+		"MAXIMUM_QUOTA": "",
+		"MINIMUM_QUOTA": "",
+		"NO_BOOKABLE_ITEM": "",
+		"NO_TOKEN": "",
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": ""
+	},
+	"EVENT": {
+		"ALL_DAY": "",
+		"DATE": ""
+	},
+	"MESSAGE": {
+		"DISABLE_MULTIPLE_SELECTION": "",
+		"DONT_HAVE_A_SAGENDA_ACCOUNT": "",
+		"ENABLE_MULTIPLE_SELECTION": "",
+		"NO_EVENT": "",
+		"PLEASE_CREATE_ONE_HERE": "",
+		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "",
+		"PLEASE_LOGIN": "",
+		"PLEASE_SELECT": "",
+		"VALUE_IS_REQUIRED": "",
+		"WRONG_CREDENTIALS": "",
+		"YOU_HAVE_SUCCESSFULLY_BOOKED": "",
+		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "",
+		"YOU_WILL_GET_NOTIFICATION": ""
+	},
+	"MULTIPLE": {
+		"CLEAR_SELECTION": "",
+		"NO_SELECTED_EVENTS": "",
+		"SELECTED_EVENTS": ""
+	},
+	"STANDARD": {
+		"AGENDA": "",
+		"EMAIL_ADDRESS": "",
+		"LINK": "",
+		"LOGIN": "",
+		"LOGOUT": "",
+		"MENU": "",
+		"OK": "",
+		"PWD": ""
+	},
+	"SUBSCRIPTION": {
+		"ADD_MEMBER": "Ongeza Mshiriki",
+		"AMOUNT": "Kiasi:",
+		"BACK": "Rudi",
+		"BOOK": "Kitabu",
+		"BOOKINGS_AND_FIXED_FEES": "Kitabu cha ada zilizohamishika",
+		"BOOKINGS_ONLY": "Kitabu tu",
+		"BOOK_MULTIPLE_PEOPLE": "Weka watu wengi",
+		"BY_ENTERING_NB_OF_PEOPLE": "Kwa kuingia idadi ya watu",
+		"BY_GIVING_ALL_NAMES": "Kwa kutoa majina yote",
+		"DESCRIPTION": "Maelezo:",
+		"DR": "Dk.",
+		"EMAIL": "Barua pepe:",
+		"EVENT_SUB_TOTAL": "Jumla ya Tukio la Jumla:",
+		"FEES_FIELD_AMOUNT": "Kiasi",
+		"FEES_FIELD_CALC_PERCENTAGE_ON": "Piga Asilimia",
+		"FEES_FIELD_GRAND_TOTAL": "Jumla ya Jumla",
+		"FEES_FIELD_NAME": "Jina",
+		"FEES_FIELD_PERCENTAGE": "Asilimia",
+		"FEES_FIELD_SUB_TOTAL": "Jumla ndogo",
+		"FIRST_NAME": "Jina la kwanza:",
+		"FIXED_FEES": "Zisizohamishika",
+		"FROM": "Kutoka:",
+		"LAST_NAME": "Jina la familia:",
+		"LET_S_BOOK_IT": "Hebu Tuandike!",
+		"MISS": "Miss",
+		"MR": "Bwana.",
+		"MRS": "Bi.",
+		"NOTE": "Kumbuka:",
+		"NUMBER_OF_PEOPLE": "Idadi ya watu kuandika",
+		"PAYMENT_MESSAGE": "Utakuwa umeelekezwa kwenye tovuti ya paypal ili kukamilisha malipo na uhifadhi wako",
+		"PERCENTAGE_FEES": "Asilimia",
+		"PHONE": "Simu:",
+		"REMOVE_MEMBER": "Ondoa Mshiriki",
+		"TAXES_AND_FEES": "Kodi na Malipo",
+		"TITLE": "Kichwa:",
+		"TO": "Kwa:"
+	}
+}

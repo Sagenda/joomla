@@ -1,0 +1,92 @@
+{
+	"CALENDAR": {
+		"DAY": "",
+		"DESCRIPTION": "",
+		"LOCATION": "",
+		"MONTH": "",
+		"NEXT": "",
+		"PREVIOUS": "",
+		"TODAY": "",
+		"WEEK": ""
+	},
+	"ERROR": {
+		"DIFFERENT_CURRENCIES": "",
+		"MAXIMUM_QUOTA": "",
+		"MINIMUM_QUOTA": "",
+		"NO_BOOKABLE_ITEM": "",
+		"NO_TOKEN": "",
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": ""
+	},
+	"EVENT": {
+		"ALL_DAY": "",
+		"DATE": ""
+	},
+	"MESSAGE": {
+		"DISABLE_MULTIPLE_SELECTION": "",
+		"DONT_HAVE_A_SAGENDA_ACCOUNT": "",
+		"ENABLE_MULTIPLE_SELECTION": "",
+		"NO_EVENT": "",
+		"PLEASE_CREATE_ONE_HERE": "",
+		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "",
+		"PLEASE_LOGIN": "",
+		"PLEASE_SELECT": "",
+		"VALUE_IS_REQUIRED": "",
+		"WRONG_CREDENTIALS": "",
+		"YOU_HAVE_SUCCESSFULLY_BOOKED": "",
+		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "",
+		"YOU_WILL_GET_NOTIFICATION": ""
+	},
+	"MULTIPLE": {
+		"CLEAR_SELECTION": "",
+		"NO_SELECTED_EVENTS": "",
+		"SELECTED_EVENTS": ""
+	},
+	"STANDARD": {
+		"AGENDA": "",
+		"EMAIL_ADDRESS": "",
+		"LINK": "",
+		"LOGIN": "",
+		"LOGOUT": "",
+		"MENU": "",
+		"OK": "",
+		"PWD": ""
+	},
+	"SUBSCRIPTION": {
+		"ADD_MEMBER": "பங்கேற்பாளரைச் சேர்க்கவும்",
+		"AMOUNT": "தொகை:",
+		"BACK": "மீண்டும்",
+		"BOOK": "புத்தக",
+		"BOOKINGS_AND_FIXED_FEES": "முன்பதிவுகள் நிலையான கட்டணம்",
+		"BOOKINGS_ONLY": "முன்பதிவு மட்டும்",
+		"BOOK_MULTIPLE_PEOPLE": "பல நபர்களை பதிவு செய்க",
+		"BY_ENTERING_NB_OF_PEOPLE": "மக்கள் எண்ணிக்கையை உள்ளிடுவதன் மூலம்",
+		"BY_GIVING_ALL_NAMES": "அனைத்து பெயர்களையும் கொடுத்து",
+		"DESCRIPTION": "விளக்கம்:",
+		"DR": "டாக்டர்",
+		"EMAIL": "மின்னஞ்சல் முகவரி:",
+		"EVENT_SUB_TOTAL": "நிகழ்வு துணை மொத்தம்:",
+		"FEES_FIELD_AMOUNT": "தொகை",
+		"FEES_FIELD_CALC_PERCENTAGE_ON": "சதவீதத்தைக் கணக்கிடுங்கள்",
+		"FEES_FIELD_GRAND_TOTAL": "மொத்த மொத்தம்",
+		"FEES_FIELD_NAME": "பெயர்",
+		"FEES_FIELD_PERCENTAGE": "சதவிதம்",
+		"FEES_FIELD_SUB_TOTAL": "கூட்டுத்தொகை",
+		"FIRST_NAME": "முதல் பெயர்:",
+		"FIXED_FEES": "நிலையான",
+		"FROM": "இருந்து:",
+		"LAST_NAME": "கடைசி பெயர்:",
+		"LET_S_BOOK_IT": "அது புத்தகத்தை விடுங்கள்!",
+		"MISS": "மிஸ்",
+		"MR": "திரு.",
+		"MRS": "திருமதி.",
+		"NOTE": "குறிப்பு:",
+		"NUMBER_OF_PEOPLE": "பதிவு செய்ய மக்கள் எண்ணிக்கை",
+		"PAYMENT_MESSAGE": "உங்கள் கட்டணத்தையும் முன்பதிவையும் பூர்த்தி செய்ய பேபால் வலைத்தளத்திற்கு நீங்கள் திருப்பி விடப்படுவீர்கள்",
+		"PERCENTAGE_FEES": "சதவிதம்",
+		"PHONE": "தொலைபேசி:",
+		"REMOVE_MEMBER": "பங்கேற்பாளரை அகற்று",
+		"TAXES_AND_FEES": "வரி மற்றும் கட்டணம்",
+		"TITLE": "தலைப்பு:",
+		"TO": "பெறுநர்:"
+	}
+}

@@ -1,0 +1,92 @@
+{
+	"CALENDAR": {
+		"DAY": "Dia",
+		"DESCRIPTION": "Descrição:",
+		"LOCATION": "Localização:",
+		"MONTH": "Mês",
+		"NEXT": "Próximo",
+		"PREVIOUS": "Anterior",
+		"TODAY": "Hoje",
+		"WEEK": "semana"
+	},
+	"ERROR": {
+		"DIFFERENT_CURRENCIES": "",
+		"MAXIMUM_QUOTA": "",
+		"MINIMUM_QUOTA": "",
+		"NO_BOOKABLE_ITEM": "",
+		"NO_TOKEN": "",
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": ""
+	},
+	"EVENT": {
+		"ALL_DAY": "",
+		"DATE": ""
+	},
+	"MESSAGE": {
+		"DISABLE_MULTIPLE_SELECTION": "",
+		"DONT_HAVE_A_SAGENDA_ACCOUNT": "",
+		"ENABLE_MULTIPLE_SELECTION": "",
+		"NO_EVENT": "",
+		"PLEASE_CREATE_ONE_HERE": "",
+		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "",
+		"PLEASE_LOGIN": "",
+		"PLEASE_SELECT": "",
+		"VALUE_IS_REQUIRED": "",
+		"WRONG_CREDENTIALS": "",
+		"YOU_HAVE_SUCCESSFULLY_BOOKED": "",
+		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "",
+		"YOU_WILL_GET_NOTIFICATION": ""
+	},
+	"MULTIPLE": {
+		"CLEAR_SELECTION": "",
+		"NO_SELECTED_EVENTS": "",
+		"SELECTED_EVENTS": ""
+	},
+	"STANDARD": {
+		"AGENDA": "",
+		"EMAIL_ADDRESS": "",
+		"LINK": "",
+		"LOGIN": "",
+		"LOGOUT": "",
+		"MENU": "",
+		"OK": "",
+		"PWD": ""
+	},
+	"SUBSCRIPTION": {
+		"ADD_MEMBER": "Adicionar participante",
+		"AMOUNT": "Montante:",
+		"BACK": "de volta",
+		"BOOK": "Livro",
+		"BOOKINGS_AND_FIXED_FEES": "Reservas Taxas fixas",
+		"BOOKINGS_ONLY": "Apenas reservas",
+		"BOOK_MULTIPLE_PEOPLE": "Reservar várias pessoas",
+		"BY_ENTERING_NB_OF_PEOPLE": "Ao inserir o número de pessoas",
+		"BY_GIVING_ALL_NAMES": "Dando todos os nomes",
+		"DESCRIPTION": "Descrição:",
+		"DR": "Dr.",
+		"EMAIL": "Endereço de e-mail:",
+		"EVENT_SUB_TOTAL": "Subtotal do evento:",
+		"FEES_FIELD_AMOUNT": "Montante",
+		"FEES_FIELD_CALC_PERCENTAGE_ON": "Calcular Porcentagem On",
+		"FEES_FIELD_GRAND_TOTAL": "Total geral",
+		"FEES_FIELD_NAME": "Nome",
+		"FEES_FIELD_PERCENTAGE": "Percentagem",
+		"FEES_FIELD_SUB_TOTAL": "Subtotal",
+		"FIRST_NAME": "Primeiro nome:",
+		"FIXED_FEES": "Fixo",
+		"FROM": "De:",
+		"LAST_NAME": "último nome:",
+		"LET_S_BOOK_IT": "Vamos reservar!",
+		"MISS": "Senhorita",
+		"MR": "Sr..",
+		"MRS": "Sra.",
+		"NOTE": "Nota:",
+		"NUMBER_OF_PEOPLE": "Número de pessoas para reservar",
+		"PAYMENT_MESSAGE": "Você será redirecionado para o site do PayPal para completar o seu pagamento e reserva.",
+		"PERCENTAGE_FEES": "Percentagem",
+		"PHONE": "telefone:",
+		"REMOVE_MEMBER": "Remover participante",
+		"TAXES_AND_FEES": "Impostos e Taxas",
+		"TITLE": "Título:",
+		"TO": "Para:"
+	}
+}

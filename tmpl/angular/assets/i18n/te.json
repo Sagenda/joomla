@@ -1,0 +1,92 @@
+{
+	"CALENDAR": {
+		"DAY": "",
+		"DESCRIPTION": "",
+		"LOCATION": "",
+		"MONTH": "",
+		"NEXT": "",
+		"PREVIOUS": "",
+		"TODAY": "",
+		"WEEK": ""
+	},
+	"ERROR": {
+		"DIFFERENT_CURRENCIES": "",
+		"MAXIMUM_QUOTA": "",
+		"MINIMUM_QUOTA": "",
+		"NO_BOOKABLE_ITEM": "",
+		"NO_TOKEN": "",
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": ""
+	},
+	"EVENT": {
+		"ALL_DAY": "",
+		"DATE": ""
+	},
+	"MESSAGE": {
+		"DISABLE_MULTIPLE_SELECTION": "",
+		"DONT_HAVE_A_SAGENDA_ACCOUNT": "",
+		"ENABLE_MULTIPLE_SELECTION": "",
+		"NO_EVENT": "",
+		"PLEASE_CREATE_ONE_HERE": "",
+		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "",
+		"PLEASE_LOGIN": "",
+		"PLEASE_SELECT": "",
+		"VALUE_IS_REQUIRED": "",
+		"WRONG_CREDENTIALS": "",
+		"YOU_HAVE_SUCCESSFULLY_BOOKED": "",
+		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "",
+		"YOU_WILL_GET_NOTIFICATION": ""
+	},
+	"MULTIPLE": {
+		"CLEAR_SELECTION": "",
+		"NO_SELECTED_EVENTS": "",
+		"SELECTED_EVENTS": ""
+	},
+	"STANDARD": {
+		"AGENDA": "",
+		"EMAIL_ADDRESS": "",
+		"LINK": "",
+		"LOGIN": "",
+		"LOGOUT": "",
+		"MENU": "",
+		"OK": "",
+		"PWD": ""
+	},
+	"SUBSCRIPTION": {
+		"ADD_MEMBER": "భాగస్వామిని జోడించండి",
+		"AMOUNT": "మొత్తం:",
+		"BACK": "తిరిగి",
+		"BOOK": "పుస్తకం",
+		"BOOKINGS_AND_FIXED_FEES": "బుకింగ్స్ స్థిర ఫీజు",
+		"BOOKINGS_ONLY": "బుకింగ్స్ మాత్రమే",
+		"BOOK_MULTIPLE_PEOPLE": "బహుళ వ్యక్తులను బుక్ చేయండి",
+		"BY_ENTERING_NB_OF_PEOPLE": "ప్రజల సంఖ్యను నమోదు చేయడం ద్వారా",
+		"BY_GIVING_ALL_NAMES": "అన్ని పేర్లను ఇవ్వడం ద్వారా",
+		"DESCRIPTION": "వివరణ:",
+		"DR": "డాక్టర్",
+		"EMAIL": "ఇమెయిల్ చిరునామా:",
+		"EVENT_SUB_TOTAL": "ఈవెంట్ సబ్ మొత్తం:",
+		"FEES_FIELD_AMOUNT": "మొత్తం",
+		"FEES_FIELD_CALC_PERCENTAGE_ON": "శాతం కాలిక్యులేట్",
+		"FEES_FIELD_GRAND_TOTAL": "సంపూర్ణ మొత్తము",
+		"FEES_FIELD_NAME": "పేరు",
+		"FEES_FIELD_PERCENTAGE": "శాతం",
+		"FEES_FIELD_SUB_TOTAL": "సబ్ మొత్తం",
+		"FIRST_NAME": "మొదటి పేరు:",
+		"FIXED_FEES": "స్థిర",
+		"FROM": "నుండి:",
+		"LAST_NAME": "చివరి పేరు:",
+		"LET_S_BOOK_IT": "లెట్స్ బుక్ ఇట్!",
+		"MISS": "మిస్",
+		"MR": "శ్రీ.",
+		"MRS": "శ్రీమతి.",
+		"NOTE": "గమనిక:",
+		"NUMBER_OF_PEOPLE": "బుక్ చేయడానికి ప్రజల సంఖ్య",
+		"PAYMENT_MESSAGE": "మీ చెల్లింపు మరియు బుకింగ్ను పూర్తి చేయడానికి మీరు PayPal వెబ్సైట్కు మళ్ళించబడతారు",
+		"PERCENTAGE_FEES": "శాతం",
+		"PHONE": "ఫోన్:",
+		"REMOVE_MEMBER": "భాగస్వామిని తొలగించు",
+		"TAXES_AND_FEES": "పన్నులు మరియు రుసుములు",
+		"TITLE": "శీర్షిక:",
+		"TO": "కు:"
+	}
+}

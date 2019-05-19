@@ -21,6 +21,10 @@ $modSagendaCalendarHelper = new ModSagendaCalendarHelper();
 $sagendaBearerToken = $modSagendaCalendarHelper->convertAPITokenToBearerToken($sagendaToken);
 
 $sagendaWeekStartsOn = $params->get('sagendaWeekStartsOn', '');
+$sagendaDefaultView = $params->get('sagendaDefaultView', '');
+$sagendaRemoveMonthViewButton = $params->get('sagendaRemoveMonthViewButton', '');
+$sagendaRemoveWeekViewButton = $params->get('sagendaRemoveWeekViewButton', '');
+$sagendaRemoveDayViewButton = $params->get('sagendaRemoveDayViewButton', '');
 $sagendaTimeFormat = $params->get('sagendaTimeFormat', '');
 $sagendaDateFormat = $params->get('sagendaDateFormat', '');
 
@@ -30,7 +34,7 @@ $locale = str_replace("-", "_",$lang->getTag());
 
 $document = JFactory::getDocument();
 $document->addStyleSheet($module_path.'/angular/styles.css');
-$document->addStyleSheet('https://unpkg.com/@angular/material@7.2.2/prebuilt-themes/indigo-pink.css');
+$document->addStyleSheet('https://unpkg.com/@angular/material@7.3.7/prebuilt-themes/indigo-pink.css');
 $document->addStyleSheet($module_path.'/bootstrap-wrapper.css');
 
 require JModuleHelper::getLayoutPath('mod_sagenda_calendar');

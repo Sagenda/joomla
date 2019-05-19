@@ -1,52 +1,92 @@
 {
-    "MESSAGE": {
-        "DISABLE_MULTIPLE_SELECTION": "Disable multiple selection",
-        "ENABLE_MULTIPLE_SELECTION": "Enable multiple selection",
-        "NO_EVENT": "Ingen begivenheder i den givne periode",
-        "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Indtast venligst en valid e-mailadresse",
-        "PLEASE_SELECT": "V\u00e6lg venligst...",
-        "VALUE_IS_REQUIRED": "Skal udfyldes",
-        "YOU_HAVE_SUCCESSFULLY_BOOKED": "Du er nu registreret!",
-        "YOU_WILL_GET_NOTIFICATION": "Du vil snart modtage en notifikation via e-mail og muligvis ogs\u00e5 pr sms"
-    },
-    "SUBSCRIPTION": {
-        "PAYMENT_MESSAGE": "You will be redirected to the paypal website to complete your payment and booking",
-        "AMOUNT": "Bel\u00f8b:",
-        "BACK": "Tilbage",
-        "BOOK": "Book",
-        "DESCRIPTION": "Beskrivelse",
-        "DR": "Dr.",
-        "EMAIL": "E-mail adresse:",
-        "FIRST_NAME": "Fornavn:",
-        "FROM": "Fra:",
-        "LAST_NAME": "Efternavn:",
-        "LET_S_BOOK_IT": "Lad os booke!",
-        "MISS": "Fru",
-        "MR": "Hr.",
-        "MRS": "Frk.",
-        "NOTE": "Note:",
-        "PHONE": "Telefon:",
-        "TITLE": "Overskrift:",
-        "TO": "Til:"
-    },
-    "CALENDAR": {
-        "DAY": "Dag",
-        "MONTH": "M\u00e5ned",
-        "NEXT": "N\u00e6ste",
-        "PREVIOUS": "Forrige",
-        "TODAY": "I dag",
-        "WEEK": "Uge"
-    },
-    "ERROR": {
-        "NO_BOOKABLE_ITEM": "Opret venligst mindst 1 bookable item i din Sagenda konto",
-        "NO_TOKEN": "Kopier venligst din authentication kode (token) fra din Sagenda konto"
-    },
-    "EVENT": {
-        "ALL_DAY": "Hele dagen",
-        "DATE": "Dato"
-    },
-    "STANDARD": {
-        "LINK": "Link",
-        "OK": "OK"
-    }
+	"CALENDAR": {
+		"DAY": "Dag",
+		"DESCRIPTION": "Beskrivelse:",
+		"LOCATION": "Beliggenhed:",
+		"MONTH": "Måned",
+		"NEXT": "Næste",
+		"PREVIOUS": "Forrige",
+		"TODAY": "I dag",
+		"WEEK": "Uge"
+	},
+	"ERROR": {
+		"DIFFERENT_CURRENCIES": "",
+		"MAXIMUM_QUOTA": "",
+		"MINIMUM_QUOTA": "",
+		"NO_BOOKABLE_ITEM": "Opret venligst mindst 1 bookable item i din Sagenda konto",
+		"NO_TOKEN": "Kopier venligst din authentication kode (token) fra din Sagenda konto",
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": ""
+	},
+	"EVENT": {
+		"ALL_DAY": "Hele dagen",
+		"DATE": "Dato"
+	},
+	"MESSAGE": {
+		"DISABLE_MULTIPLE_SELECTION": "Disable multiple selection",
+		"DONT_HAVE_A_SAGENDA_ACCOUNT": "",
+		"ENABLE_MULTIPLE_SELECTION": "Enable multiple selection",
+		"NO_EVENT": "Ingen begivenheder i den givne periode",
+		"PLEASE_CREATE_ONE_HERE": "",
+		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Indtast venligst en valid e-mailadresse",
+		"PLEASE_LOGIN": "",
+		"PLEASE_SELECT": "Vælg venligst...",
+		"VALUE_IS_REQUIRED": "Skal udfyldes",
+		"WRONG_CREDENTIALS": "",
+		"YOU_HAVE_SUCCESSFULLY_BOOKED": "Du er nu registreret!",
+		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "",
+		"YOU_WILL_GET_NOTIFICATION": "Du vil snart modtage en notifikation via e-mail og muligvis også pr sms"
+	},
+	"MULTIPLE": {
+		"CLEAR_SELECTION": "",
+		"NO_SELECTED_EVENTS": "",
+		"SELECTED_EVENTS": ""
+	},
+	"STANDARD": {
+		"AGENDA": "",
+		"EMAIL_ADDRESS": "",
+		"LINK": "Link",
+		"LOGIN": "",
+		"LOGOUT": "",
+		"MENU": "",
+		"OK": "OK",
+		"PWD": ""
+	},
+	"SUBSCRIPTION": {
+		"ADD_MEMBER": "Tilføj deltager",
+		"AMOUNT": "Beløb:",
+		"BACK": "Tilbage",
+		"BOOK": "Book",
+		"BOOKINGS_AND_FIXED_FEES": "Bestilling Faste gebyrer",
+		"BOOKINGS_ONLY": "Kun bestilling",
+		"BOOK_MULTIPLE_PEOPLE": "Bestil flere personer",
+		"BY_ENTERING_NB_OF_PEOPLE": "Ved at indtaste antal personer",
+		"BY_GIVING_ALL_NAMES": "Ved at give alle navne",
+		"DESCRIPTION": "Beskrivelse",
+		"DR": "Dr.",
+		"EMAIL": "E-mail adresse:",
+		"EVENT_SUB_TOTAL": "Event Sub Total:",
+		"FEES_FIELD_AMOUNT": "Beløb",
+		"FEES_FIELD_CALC_PERCENTAGE_ON": "Beregn procentsats på",
+		"FEES_FIELD_GRAND_TOTAL": "Grand Total",
+		"FEES_FIELD_NAME": "Navn",
+		"FEES_FIELD_PERCENTAGE": "Procent",
+		"FEES_FIELD_SUB_TOTAL": "Sub Total",
+		"FIRST_NAME": "Fornavn:",
+		"FIXED_FEES": "Fast",
+		"FROM": "Fra:",
+		"LAST_NAME": "Efternavn:",
+		"LET_S_BOOK_IT": "Lad os booke!",
+		"MISS": "Fru",
+		"MR": "Hr.",
+		"MRS": "Frk.",
+		"NOTE": "Note:",
+		"NUMBER_OF_PEOPLE": "Antal personer, der skal reserveres",
+		"PAYMENT_MESSAGE": "You will be redirected to the paypal website to complete your payment and booking",
+		"PERCENTAGE_FEES": "Procent",
+		"PHONE": "Telefon:",
+		"REMOVE_MEMBER": "Fjern deltageren",
+		"TAXES_AND_FEES": "Skatter og gebyrer",
+		"TITLE": "Overskrift:",
+		"TO": "Til:"
+	}
 }
