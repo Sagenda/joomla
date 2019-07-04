@@ -16,7 +16,7 @@
     <config>
         <fields name="params">
             <fieldset name="basic">
-                <field name="sagendaToken" required="true" type="text" label="Token" description="Please paste here the token that you can found on your dashboard : https://sagenda.net/Dashboard" size="200" default="" />
+                <field name="sagendaToken" required="true" type="text" label="Authentication code (Token)" description="Please paste here the authentication code (Token) that you can found on your dashboard : https://sagenda.net/Dashboard" size="200" default="" />
                 <field name="sagendaWeekStartsOn" type="list" label="Week start on" description="Please select which day your week should start on your calendar." size="200" default="1">
                     <option value="0">
                         Sunday
