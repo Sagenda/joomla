@@ -23,22 +23,21 @@
 		"OK": "OK"
 	},
 	"SUBSCRIPTION": {
-		"AMOUNT": "Valor:",
+		"AMOUNT": "Valor",
 		"BACK": "Voltar",
 		"BOOK": "Reserve",
-		"DESCRIPTION": "Descrição:",
+		"DESCRIPTION": "Descrição",
 		"DR": "Dr.",
-		"EMAIL": "Email:",
-		"FIRST_NAME": "Primeiro Nome:",
-		"FROM": "De:",
-		"LAST_NAME": "Ultimo Nome:",
-		"LET_S_BOOK_IT": "Vamos reservar!",
+		"EMAIL": "Email",
+		"FIRST_NAME": "Primeiro Nome",
+		"FROM": "De",
+		"LAST_NAME": "Ultimo Nome",
 		"MISS": "Menina",
 		"MR": "Sr.",
 		"MRS": "Srª.",
-		"NOTE": "Nota:",
-		"PHONE": "Telefone:",
-		"TITLE": "Titulo:",
-		"TO": "Para:"
+		"NOTE": "Nota",
+		"PHONE": "Telefone",
+		"TITLE": "Titulo",
+		"TO": "Para"
 	}
 }

@@ -1,15 +1,20 @@
 {
 	"CALENDAR": {
+		"BOOKABLE_ITEM": "Objet à réserver",
 		"DAY": "Jour",
-		"DESCRIPTION": "Description :",
-		"LOCATION": "Emplacement :",
+		"DESCRIPTION": "Description ",
+		"LOCATION": "Emplacement ",
 		"MONTH": "Mois",
+		"NAME": "Prénom",
 		"NEXT": "Suivant",
 		"PREVIOUS": "Précédent",
 		"TODAY": "Aujourd'hui",
 		"WEEK": "Semaine"
 	},
 	"ERROR": {
+		"AUTHENTICATION_FAILED": "Authentification échouée",
+		"BAD_LOGIN_OR_PWD": "Mauvais login ou mot de passe",
+		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
 		"DIFFERENT_CURRENCIES": "Vous ne pouvez pas réserver plusieurs événements ayant différentes monnaies de paiement.",
 		"MAXIMUM_QUOTA": "Vous ne pouvez pas réserver plus de {{value}} créneaux",
 		"MINIMUM_QUOTA": "Vous devez réserver un minimum de {{value}} créneaux",
@@ -19,7 +24,10 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "Toute la journée",
-		"DATE": "Date"
+		"DATE": "Date",
+		"STATE_BOOKED": "",
+		"STATE_FREE": "",
+		"STATE_PARTIALLY_BOOKED": ""
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "Désactiver la sélection multiple",
@@ -32,28 +40,32 @@
 		"PLEASE_SELECT": "Merci de sélectionner...",
 		"VALUE_IS_REQUIRED": "Une valeur est obligatoire!",
 		"WRONG_CREDENTIALS": "Mauvais email ou mot de passe. Merci de créer un compte si vous n'en avez pas.",
+		"YOU_DONT_HAVE_ANY_RESERVATION": "Vous n'avez aucune réservation pour cet événement.",
 		"YOU_HAVE_SUCCESSFULLY_BOOKED": "Vous vous êtes inscrit avec succès!",
-		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "",
 		"YOU_WILL_GET_NOTIFICATION": "Vous allez bientôt recevoir une notification par email et optionnellement par SMS."
 	},
 	"MULTIPLE": {
 		"CLEAR_SELECTION": "Effacer la sélection",
 		"NO_SELECTED_EVENTS": "Pas d'évènement sélectionné. Merci de cliquer sur chaque évènement individuellement ou de sélectionner une place en sélectionnant plusieurs jours.",
-		"SELECTED_EVENTS": "Evènement(s) sélectioné(s) :"
+		"SELECTED_EVENTS": "Evènement(s) sélectioné(s) "
 	},
 	"STANDARD": {
 		"AGENDA": "Agenda",
+		"DETAIL": "Détail",
 		"EMAIL_ADDRESS": "Adresse email",
+		"EVENT": "un événement",
 		"LINK": "Lien",
+		"LOGGING_IN": "se connecter",
 		"LOGIN": "Connexion",
 		"LOGOUT": "Déconnexion",
 		"MENU": "Menu",
 		"OK": "OK",
-		"PWD": "Mot de passe"
+		"PWD": "Mot de passe",
+		"RESERVATION": "Réservation"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Ajouter un participant",
-		"AMOUNT": "Montant:",
+		"AMOUNT": "Montant",
 		"BACK": "Retour",
 		"BOOK": "Réserver",
 		"BOOKINGS_AND_FIXED_FEES": "Réservations + frais fixes",
@@ -61,32 +73,31 @@
 		"BOOK_MULTIPLE_PEOPLE": "Réserver plusieurs personnes",
 		"BY_ENTERING_NB_OF_PEOPLE": "En saisissant le nombre de personnes",
 		"BY_GIVING_ALL_NAMES": "En saisissant tous les noms",
-		"DESCRIPTION": "Description:",
+		"DESCRIPTION": "Description",
 		"DR": "Dr.",
-		"EMAIL": "Adresse Email:",
-		"EVENT_SUB_TOTAL": "Sous Total événement:",
+		"EMAIL": "Adresse Email",
+		"EVENT_SUB_TOTAL": "Sous Total événement",
 		"FEES_FIELD_AMOUNT": "Montant",
 		"FEES_FIELD_CALC_PERCENTAGE_ON": "Calculer le pourcentage sur",
 		"FEES_FIELD_GRAND_TOTAL": "Total final",
 		"FEES_FIELD_NAME": "Nom",
 		"FEES_FIELD_PERCENTAGE": "Pourcentage",
 		"FEES_FIELD_SUB_TOTAL": "Total partiel",
-		"FIRST_NAME": "Prénom:",
+		"FIRST_NAME": "Prénom",
 		"FIXED_FEES": "Fixe",
-		"FROM": "De:",
-		"LAST_NAME": "Nom:",
-		"LET_S_BOOK_IT": "Réservons!",
+		"FROM": "De",
+		"LAST_NAME": "Nom",
 		"MISS": "Mlle",
 		"MR": "M.",
 		"MRS": "Mme.",
-		"NOTE": "Note:",
+		"NOTE": "Note",
 		"NUMBER_OF_PEOPLE": "Nombre de personnes à réserver sous ce participant",
 		"PAYMENT_MESSAGE": "Vous allez être redirigé vers PayPal pour compléter votre payment et votre réservation.",
 		"PERCENTAGE_FEES": "Pourcentage",
-		"PHONE": "Téléphone:",
+		"PHONE": "Téléphone",
 		"REMOVE_MEMBER": "Supprimer le participant",
 		"TAXES_AND_FEES": "Taxes et frais",
-		"TITLE": "Titre:",
-		"TO": "A:"
+		"TITLE": "Titre",
+		"TO": "A"
 	}
 }

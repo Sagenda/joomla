@@ -1,15 +1,20 @@
 {
 	"CALENDAR": {
+		"BOOKABLE_ITEM": "Rezervējams vienums",
 		"DAY": "Diena",
-		"DESCRIPTION": "Apraksts:",
-		"LOCATION": "Atrašanas vieta:",
+		"DESCRIPTION": "Apraksts",
+		"LOCATION": "Atrašanas vieta",
 		"MONTH": "Mēnesis",
+		"NAME": "Nosaukums",
 		"NEXT": "Nākamais",
 		"PREVIOUS": "Iepriekšējais",
 		"TODAY": "Šodien",
 		"WEEK": "Nedēļa"
 	},
 	"ERROR": {
+		"AUTHENTICATION_FAILED": "Autentifikācija neizdevās",
+		"BAD_LOGIN_OR_PWD": "Slikts lietotājvārds vai parole",
+		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
 		"DIFFERENT_CURRENCIES": "Jūs nevarat rezervēt vairākus notikumus, kuriem ir dažādas maksājumu valūtas.",
 		"MAXIMUM_QUOTA": "Nevar rezervēt vairāk par {{value}} slotiem",
 		"MINIMUM_QUOTA": "Jārezervē vismaz {{value}} sloti",
@@ -19,7 +24,10 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "Visu dienu",
-		"DATE": "Datums"
+		"DATE": "Datums",
+		"STATE_BOOKED": "",
+		"STATE_FREE": "",
+		"STATE_PARTIALLY_BOOKED": ""
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "Atspējot vairāku vienumu atlasi",
@@ -31,29 +39,33 @@
 		"PLEASE_LOGIN": "Lūdzu, piesakieties",
 		"PLEASE_SELECT": "Lūdzu izvelties...",
 		"VALUE_IS_REQUIRED": "Nepieciešams ievadīt!",
-		"WRONG_CREDENTIALS": "",
+		"WRONG_CREDENTIALS": "Nepareizs lietotājvārds vai parole. Lūdzu, izveidojiet kontu, ja jums to nav.",
+		"YOU_DONT_HAVE_ANY_RESERVATION": "Jums nav nekādu atrunu par šo notikumu.",
 		"YOU_HAVE_SUCCESSFULLY_BOOKED": "Jūs esat veiksmīgi veicis rezervāciju!",
-		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "",
 		"YOU_WILL_GET_NOTIFICATION": "Drīz Jūs saņemsiet paziņojumu e-pasta un SMS (pēc izvēles)."
 	},
 	"MULTIPLE": {
 		"CLEAR_SELECTION": "Notīrīt atlasi",
 		"NO_SELECTED_EVENTS": "Nav atlasīts neviens notikums. Lūdzu, noklikšķiniet uz katra notikuma individuāli vai izmantojiet diapazona atlasi, izvēloties vairākas dienas.",
-		"SELECTED_EVENTS": "Atlasītais (ie) notikums (-i):"
+		"SELECTED_EVENTS": "Atlasītais (ie) notikums (-i)"
 	},
 	"STANDARD": {
 		"AGENDA": "Dienas kārtība",
+		"DETAIL": "Detalizēta informācija",
 		"EMAIL_ADDRESS": "E-pasta adrese",
+		"EVENT": "Notikums",
 		"LINK": "Saite",
+		"LOGGING_IN": "Ielogoties",
 		"LOGIN": "Lietotājvārds",
-		"LOGOUT": "",
+		"LOGOUT": "Izlogoties",
 		"MENU": "Izvelne",
 		"OK": "Labi",
-		"PWD": "Parole"
+		"PWD": "Parole",
+		"RESERVATION": "Rezervēšana"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Pievienot Dalībnieku",
-		"AMOUNT": "Apjoms:",
+		"AMOUNT": "Apjoms",
 		"BACK": "Atpakaļ",
 		"BOOK": "Rezervēt",
 		"BOOKINGS_AND_FIXED_FEES": "Rezervējumi + fiksētās maksas",
@@ -61,32 +73,31 @@
 		"BOOK_MULTIPLE_PEOPLE": "Rezervēt vairākus cilvēkus",
 		"BY_ENTERING_NB_OF_PEOPLE": "Ievadot cilvēku skaitu",
 		"BY_GIVING_ALL_NAMES": "Sniedzot visus vārdus",
-		"DESCRIPTION": "Apraksts:",
+		"DESCRIPTION": "Apraksts",
 		"DR": "Doktors",
-		"EMAIL": "E-pasta adrese:",
-		"EVENT_SUB_TOTAL": "Notikuma apakšsumma:",
+		"EMAIL": "E-pasta adrese",
+		"EVENT_SUB_TOTAL": "Notikuma apakšsumma",
 		"FEES_FIELD_AMOUNT": "Apjoms",
-		"FEES_FIELD_CALC_PERCENTAGE_ON": "Kalulācijas procentuālā vērtība",
+		"FEES_FIELD_CALC_PERCENTAGE_ON": "Aprēķiniet procentus par",
 		"FEES_FIELD_GRAND_TOTAL": "Kopā",
 		"FEES_FIELD_NAME": "Vārds",
 		"FEES_FIELD_PERCENTAGE": "Procents",
 		"FEES_FIELD_SUB_TOTAL": "Kopā",
-		"FIRST_NAME": "Vārds:",
+		"FIRST_NAME": "Vārds",
 		"FIXED_FEES": "Labots",
-		"FROM": "No:",
-		"LAST_NAME": "Uzvārds:",
-		"LET_S_BOOK_IT": "Rezervēt!",
+		"FROM": "No",
+		"LAST_NAME": "Uzvārds",
 		"MISS": "Jaunkundze",
 		"MR": "Kungs",
 		"MRS": "Kundze",
-		"NOTE": "Piezīme:",
+		"NOTE": "Piezīme",
 		"NUMBER_OF_PEOPLE": "Rezervējamo personu skaits",
 		"PAYMENT_MESSAGE": "Jūs tiksiet novirzīts(-a) uz apmaksas tīmekļa vietni, lai pabeigtu maksājumu un rezervējumu",
 		"PERCENTAGE_FEES": "Procents",
-		"PHONE": "Tālrunis:",
+		"PHONE": "Tālrunis",
 		"REMOVE_MEMBER": "Noņemt Dalībnieku",
 		"TAXES_AND_FEES": "Nodokļi un nodevas",
-		"TITLE": "Uzruna:",
-		"TO": "Kam:"
+		"TITLE": "Uzruna",
+		"TO": "Kam"
 	}
 }
