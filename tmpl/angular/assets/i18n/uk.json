@@ -14,7 +14,6 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Помилка автентифікації",
 		"BAD_LOGIN_OR_PWD": "Неправильний логін або пароль",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
 		"DIFFERENT_CURRENCIES": "Ви не можете забронювати декілька подій, які мають різні валюти оплати.",
 		"MAXIMUM_QUOTA": "Ви не можете забронювати більше ніж {{value}} слотів",
 		"MINIMUM_QUOTA": "Вам потрібно забронювати мінімум {{value}} слотів",

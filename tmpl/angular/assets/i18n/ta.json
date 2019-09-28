@@ -14,7 +14,6 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "அங்கீகரிப்பு தோல்வியுற்றது",
 		"BAD_LOGIN_OR_PWD": "தவறான உள்நுழைவு அல்லது கடவுச்சொல்",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
 		"DIFFERENT_CURRENCIES": "வெவ்வேறு கட்டணம் நாணயங்களைக் கொண்ட பல நிகழ்வுகளை நீங்கள் பதிவு செய்ய முடியாது.",
 		"MAXIMUM_QUOTA": "நீங்கள் {{value}} இடங்கள் விட அதிகமான புத்தகங்களைப் பதிவு செய்ய முடியாது",
 		"MINIMUM_QUOTA": "நீங்கள் குறைந்தது {{value}} இடங்கள் ஒதுக்க வேண்டும்",
@@ -24,10 +23,7 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "நாள் முழுவதும்",
-		"DATE": "தேதி",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"DATE": "தேதி"
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "பல தேர்வு முடக்கு",

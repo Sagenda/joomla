@@ -14,7 +14,6 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Autentifikācija neizdevās",
 		"BAD_LOGIN_OR_PWD": "Slikts lietotājvārds vai parole",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
 		"DIFFERENT_CURRENCIES": "Jūs nevarat rezervēt vairākus notikumus, kuriem ir dažādas maksājumu valūtas.",
 		"MAXIMUM_QUOTA": "Nevar rezervēt vairāk par {{value}} slotiem",
 		"MINIMUM_QUOTA": "Jārezervē vismaz {{value}} sloti",
@@ -24,10 +23,7 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "Visu dienu",
-		"DATE": "Datums",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"DATE": "Datums"
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "Atspējot vairāku vienumu atlasi",

@@ -14,7 +14,6 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Autentifikimi dështoi",
 		"BAD_LOGIN_OR_PWD": "Hyrje ose fjalëkalim i keq",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
 		"DIFFERENT_CURRENCIES": "Ju nuk mund të rezervoni ngjarje të shumta që kanë monedha të ndryshme të pagesave.",
 		"MAXIMUM_QUOTA": "Ju nuk mund të rezervoni më shumë se {{value}} lojëra elektronike",
 		"MINIMUM_QUOTA": "Ju duhet të rezervoni një minimum prej {{value}} lojëra elektronike",
@@ -24,10 +23,7 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "Gjithe diten",
-		"DATE": "data",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"DATE": "data"
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "Çaktivizo zgjedhjen e shumëfishtë",

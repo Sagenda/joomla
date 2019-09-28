@@ -14,7 +14,6 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Uthibitishaji umeshindwa",
 		"BAD_LOGIN_OR_PWD": "Ingia sahihi au nenosiri",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
 		"DIFFERENT_CURRENCIES": "Huwezi kuandika matukio mengi ambayo yana sarafu tofauti za malipo.",
 		"MAXIMUM_QUOTA": "Huwezi kuandika zaidi ya {{value}} slots",
 		"MINIMUM_QUOTA": "Unahitaji kutengeneza kiwango cha chini cha {{value}} ",
@@ -24,10 +23,7 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "Siku nzima",
-		"DATE": "Tarehe",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"DATE": "Tarehe"
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "Zima uteuzi nyingi",

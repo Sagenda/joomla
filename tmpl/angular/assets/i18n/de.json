@@ -14,7 +14,6 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Authentifizierung fehlgeschlagen",
 		"BAD_LOGIN_OR_PWD": "Falsches Login oder Passwort",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
 		"DIFFERENT_CURRENCIES": "Sie können nicht mehrere Veranstaltungen mit unterschiedlichen Währungen buchen.",
 		"MAXIMUM_QUOTA": "Sie können nicht mehr als {{value}} Slots buchen",
 		"MINIMUM_QUOTA": "You need to book a minimum of {{value}} slots",
@@ -24,10 +23,7 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "Den ganzen Tag",
-		"DATE": "Datum",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"DATE": "Datum"
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "Mehrfachauswahl deaktivieren",

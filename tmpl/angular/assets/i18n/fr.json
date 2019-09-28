@@ -1,20 +1,20 @@
 {
 	"CALENDAR": {
-		"BOOKABLE_ITEM": "Objet à réserver",
+		"BOOKABLE_ITEM": "Element à réservable",
 		"DAY": "Jour",
 		"DESCRIPTION": "Description ",
 		"LOCATION": "Emplacement ",
 		"MONTH": "Mois",
-		"NAME": "Prénom",
+		"NAME": "Nom",
 		"NEXT": "Suivant",
 		"PREVIOUS": "Précédent",
 		"TODAY": "Aujourd'hui",
 		"WEEK": "Semaine"
 	},
 	"ERROR": {
-		"AUTHENTICATION_FAILED": "Authentification échouée",
+		"AUTHENTICATION_FAILED": "L'authentification à échouée",
 		"BAD_LOGIN_OR_PWD": "Mauvais login ou mot de passe",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
+		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Ce paramètre d'identification d'élément réservable n'est pas lié à l'un de vos éléments réservables!",
 		"DIFFERENT_CURRENCIES": "Vous ne pouvez pas réserver plusieurs événements ayant différentes monnaies de paiement.",
 		"MAXIMUM_QUOTA": "Vous ne pouvez pas réserver plus de {{value}} créneaux",
 		"MINIMUM_QUOTA": "Vous devez réserver un minimum de {{value}} créneaux",
@@ -25,9 +25,9 @@
 	"EVENT": {
 		"ALL_DAY": "Toute la journée",
 		"DATE": "Date",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"STATE_BOOKED": "Réservé",
+		"STATE_FREE": "Libre",
+		"STATE_PARTIALLY_BOOKED": "Partiellement réservé"
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "Désactiver la sélection multiple",
@@ -53,9 +53,9 @@
 		"AGENDA": "Agenda",
 		"DETAIL": "Détail",
 		"EMAIL_ADDRESS": "Adresse email",
-		"EVENT": "un événement",
+		"EVENT": "Evénement",
 		"LINK": "Lien",
-		"LOGGING_IN": "se connecter",
+		"LOGGING_IN": "Connexion en cours...",
 		"LOGIN": "Connexion",
 		"LOGOUT": "Déconnexion",
 		"MENU": "Menu",

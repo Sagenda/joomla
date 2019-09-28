@@ -14,7 +14,6 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Неуспешна идентификация",
 		"BAD_LOGIN_OR_PWD": "Неправилно потребителско име или парола",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
 		"DIFFERENT_CURRENCIES": "Не можете да резервирате няколко събития, които изискват различни валути за плащане",
 		"MAXIMUM_QUOTA": "Не можете да резервирате повече от {{value}} слота",
 		"MINIMUM_QUOTA": "Трябва да резервирате минимум {{value}} слота",
@@ -24,10 +23,7 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "Цял ден",
-		"DATE": "Дата",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"DATE": "Дата"
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "Забраняване на множественото избиране",

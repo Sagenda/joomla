@@ -14,7 +14,6 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "ప్రామాణీకరణ విఫలమైంది",
 		"BAD_LOGIN_OR_PWD": "బాడ్ లాగిన్ లేదా పాస్వర్డ్",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
 		"DIFFERENT_CURRENCIES": "వేర్వేరు చెల్లింపు కరెన్సీలు ఉన్న బహుళ ఈవెంట్లను మీరు బుక్ చేసుకోలేరు.",
 		"MAXIMUM_QUOTA": "మీరు {{value}} స్లాట్ల కంటే ఎక్కువ బుక్ చేయలేరు",
 		"MINIMUM_QUOTA": "మీరు కనీసం {{value}} స్లాట్లు బుక్ చేయాలి",
@@ -24,10 +23,7 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "రోజంతా",
-		"DATE": "తేదీ",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"DATE": "తేదీ"
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "బహుళ ఎంపికను ఆపివేయి",

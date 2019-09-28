@@ -14,7 +14,6 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Quá trình xác thực đã thất bại",
 		"BAD_LOGIN_OR_PWD": "tên đăng nhập hoặc mật khẩu sai",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
 		"DIFFERENT_CURRENCIES": "Bạn không thể đặt nhiều sự kiện có các loại tiền thanh toán khác nhau.",
 		"MAXIMUM_QUOTA": "Bạn không thể đặt nhiều hơn {{value}} vị trí",
 		"MINIMUM_QUOTA": "Bạn cần đặt tối thiểu {{value}} vị trí",
@@ -24,10 +23,7 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "Cả ngày",
-		"DATE": "Ngày",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"DATE": "Ngày"
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "Vô hiệu hóa nhiều lựa chọn",

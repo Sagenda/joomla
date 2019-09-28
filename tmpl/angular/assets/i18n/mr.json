@@ -24,10 +24,7 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "संपूर्ण दिवस",
-		"DATE": "तारीख",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"DATE": "तारीख"
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "एकाधिक निवड अक्षम करा",

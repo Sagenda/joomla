@@ -14,7 +14,6 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "인증 실패",
 		"BAD_LOGIN_OR_PWD": "잘못된 로그인 또는 비밀번호",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
 		"DIFFERENT_CURRENCIES": "지불 통화가 다른 여러 이벤트를 예약 할 수 없습니다.",
 		"MAXIMUM_QUOTA": " {{value}} 개 이상의 슬롯을 예약 할 수 없습니다.",
 		"MINIMUM_QUOTA": "최소 {{value}} 슬롯을 예약해야합니다.",
@@ -24,10 +23,7 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "하루 종일",
-		"DATE": "날짜",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"DATE": "날짜"
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "다중 선택 사용 안함",

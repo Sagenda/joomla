@@ -14,7 +14,6 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "ਪ੍ਰਮਾਣੀਕਰਨ ਅਸਫਲ",
 		"BAD_LOGIN_OR_PWD": "ਗਲਤ ਲਾਗਇਨ ਜਾਂ ਪਾਸਵਰਡ",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
 		"DIFFERENT_CURRENCIES": "ਤੁਸੀਂ ਕਈ ਇਵੈਂਟਸ ਬੁੱਕ ਨਹੀਂ ਕਰ ਸਕਦੇ ਜੋ ਵੱਖਰੇ ਭੁਗਤਾਨ ਮੁਦਰਾਵਾਂ ਹਨ.",
 		"MAXIMUM_QUOTA": "ਤੁਸੀਂ {{value}} ਸਲਾਟ ਤੋਂ ਵੱਧ ਬੁੱਕ ਨਹੀਂ ਕਰ ਸਕਦੇ",
 		"MINIMUM_QUOTA": "ਤੁਹਾਨੂੰ ਘੱਟੋ ਘੱਟ {{value}} ਸਲਾਟ ਬੁੱਕ ਕਰਵਾਉਣ ਦੀ ਜ਼ਰੂਰਤ ਹੈ",
@@ -24,10 +23,7 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "ਸਾਰਾ ਦਿਨ",
-		"DATE": "ਤਾਰੀਖ",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"DATE": "ਤਾਰੀਖ"
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "ਬਹੁ ਚੋਣ ਨੂੰ ਅਯੋਗ ਕਰੋ",

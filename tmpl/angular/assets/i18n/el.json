@@ -14,7 +14,6 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Η ταυτοποίηση απέτυχε",
 		"BAD_LOGIN_OR_PWD": "Κακή σύνδεση ή κωδικός πρόσβασης",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
 		"DIFFERENT_CURRENCIES": "Δεν μπορείτε να κάνετε πολλαπλή κράτηση συμβάντων που έχουν διαφορετικό συνάλλαγμα.",
 		"MAXIMUM_QUOTA": "Δεν μπορείτε να κάνετε κράτηση περισσότερο από {{value}} θέσεις",
 		"MINIMUM_QUOTA": "Πρέπει να κάνετε κράτηση τουλάχιστον {{value}} των διαθέσιμων θέσεων",
@@ -24,10 +23,7 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "Όλη μέρα",
-		"DATE": "Ημερομηνία",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"DATE": "Ημερομηνία"
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "Απενεργοποιήση πολλαπλής επιλογής",

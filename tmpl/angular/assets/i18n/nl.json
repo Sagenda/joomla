@@ -14,7 +14,6 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Verificatie mislukt",
 		"BAD_LOGIN_OR_PWD": "Foute login of wachtwoord",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
 		"DIFFERENT_CURRENCIES": "Je kunt niet meerdere evenementen boeken met verschillende betalingsvaluta's.",
 		"MAXIMUM_QUOTA": "Je kunt niet meer dan {{value}} slots boeken",
 		"MINIMUM_QUOTA": "U moet minimaal {{value}} slots reserveren",
@@ -24,10 +23,7 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "De hele dag",
-		"DATE": "Datum",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"DATE": "Datum"
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "Schakel meerdere selectie uit",

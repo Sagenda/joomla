@@ -14,7 +14,6 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "প্রমাণীকরণ ব্যর্থ হয়েছে",
 		"BAD_LOGIN_OR_PWD": "খারাপ লগইন বা পাসওয়ার্ড",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
 		"DIFFERENT_CURRENCIES": "আপনি বিভিন্ন পেমেন্ট মুদ্রা আছে একাধিক ইভেন্ট বুক করতে পারবেন না।",
 		"MAXIMUM_QUOTA": "আপনি {{value}} স্লটগুলির চেয়ে বেশি বুক করতে পারবেন না",
 		"MINIMUM_QUOTA": "আপনাকে সর্বনিম্ন {{value}} স্লট বুক করতে হবে",
@@ -24,10 +23,7 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "সারাদিন",
-		"DATE": "তারিখ",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"DATE": "তারিখ"
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "একাধিক নির্বাচন নিষ্ক্রিয় করুন",

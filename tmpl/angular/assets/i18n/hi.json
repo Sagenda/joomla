@@ -14,7 +14,6 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "प्रमाणीकरण विफल होना",
 		"BAD_LOGIN_OR_PWD": "खराब लॉगिन या पासवर्ड",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
 		"DIFFERENT_CURRENCIES": "आप कई घटनाओं को बुक नहीं कर सकते हैं जिनमें विभिन्न भुगतान मुद्राएं हैं।",
 		"MAXIMUM_QUOTA": "आप {{value}} से अधिक स्लॉट बुक नहीं कर सकते",
 		"MINIMUM_QUOTA": "आपको न्यूनतम {{value}} स्लॉट बुक करने की आवश्यकता है",
@@ -24,10 +23,7 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "पूरे दिन",
-		"DATE": "दिनांक",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"DATE": "दिनांक"
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "एकाधिक चयन अक्षम करें",

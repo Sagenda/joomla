@@ -14,7 +14,6 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Autenticación fallida",
 		"BAD_LOGIN_OR_PWD": "Nombre de usuario o contraseña incorrecta",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
 		"DIFFERENT_CURRENCIES": "No puede reservar múltiples eventos con diferentes monedas de pago.",
 		"MAXIMUM_QUOTA": "No puedes reservar más de {{value}} ranuras",
 		"MINIMUM_QUOTA": "Debes reservar un mínimo de {{value}} slots",
@@ -24,10 +23,7 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "Todo el día",
-		"DATE": "Fecha",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"DATE": "Fecha"
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "Descartar la selección múltiple",

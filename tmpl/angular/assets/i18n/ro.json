@@ -14,7 +14,6 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Autentificare esuata",
 		"BAD_LOGIN_OR_PWD": "Adresa de conectare sau parola greșite",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
 		"DIFFERENT_CURRENCIES": "Acum poti face rezervare pentru mai multe evenimente, fiecare cu plata intr-o valută diferită.",
 		"MAXIMUM_QUOTA": "Nu puteți rezerva mai mult de {{value}} sloturi",
 		"MINIMUM_QUOTA": "Trebuie să rezervați minimum {{value}} sloturi",
@@ -24,10 +23,7 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "Toată ziua",
-		"DATE": "Dată",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"DATE": "Dată"
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "Dezactivează selectia multiplă",

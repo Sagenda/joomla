@@ -14,7 +14,6 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "אימות נכשל",
 		"BAD_LOGIN_OR_PWD": "שם משתמש או סיסמא שגויים",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
 		"DIFFERENT_CURRENCIES": "לא ניתן להירשם למספר אירועים אשר נבדלים בסוג המטבע",
 		"MAXIMUM_QUOTA": "לא ניתן להזמין יותר מחריצים {{value}}",
 		"MINIMUM_QUOTA": "You need to book a minimum of {{value}} slots",
@@ -24,10 +23,7 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "כל היום",
-		"DATE": "תאריך",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"DATE": "תאריך"
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "מנע בחירה מרובה",

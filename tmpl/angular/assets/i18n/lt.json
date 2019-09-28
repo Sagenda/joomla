@@ -14,7 +14,6 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Autentifikavimas nepavyko",
 		"BAD_LOGIN_OR_PWD": "Blogas prisijungimo vardas arba slaptažodis",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
 		"DIFFERENT_CURRENCIES": "Jūs negalite užsisakyti kelių įvykių, kuriuose yra skirtingos mokėjimo valiutos.",
 		"MAXIMUM_QUOTA": "Negalite užsisakyti daugiau nei {{value}} laiko tarpsnių",
 		"MINIMUM_QUOTA": "Turite rezervuoti mažiausiai {{value}} laiko tarpsnių",
@@ -24,10 +23,7 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "Visą dieną",
-		"DATE": "Data",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"DATE": "Data"
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "Išjungti kelis pasirinkimus",

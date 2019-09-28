@@ -14,7 +14,6 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Otentikasi gagal",
 		"BAD_LOGIN_OR_PWD": "Login atau kata sandi salah",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
 		"DIFFERENT_CURRENCIES": "Anda tidak dapat melakukan reservasi beberapa acara yang mempunyai mata uang pembayaran yang berbeda secara sekaligus",
 		"MAXIMUM_QUOTA": "Anda tidak dapat memesan lebih dari {{value}} slot",
 		"MINIMUM_QUOTA": "Anda harus memesan minimal {{value}} slot",
@@ -24,10 +23,7 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "Seharian",
-		"DATE": "Tanggal",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"DATE": "Tanggal"
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "Non aktifkan pemilihan multipel",

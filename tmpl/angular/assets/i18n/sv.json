@@ -14,7 +14,6 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Autentisering misslyckades",
 		"BAD_LOGIN_OR_PWD": "Dålig inloggning eller lösenord",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
 		"DIFFERENT_CURRENCIES": "Du kan inte boka flera evenemanger som har olika betalningsvalutor.",
 		"MAXIMUM_QUOTA": "Du kan inte boka mer än {{value}} slots",
 		"MINIMUM_QUOTA": "Du måste boka minst {{value}} slots",
@@ -24,10 +23,7 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "Hela dagen",
-		"DATE": "Datum",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"DATE": "Datum"
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "Inaktivera flera val",

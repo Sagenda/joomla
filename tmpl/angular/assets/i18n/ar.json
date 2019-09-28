@@ -24,10 +24,7 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "طوال اليوم",
-		"DATE": "يوم",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"DATE": "يوم"
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "وقف اختيارات متعددة",

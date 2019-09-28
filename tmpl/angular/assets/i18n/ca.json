@@ -14,7 +14,6 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "L'autenticació ha fallat",
 		"BAD_LOGIN_OR_PWD": "Entrada o contrasenya incorrecta",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
 		"DIFFERENT_CURRENCIES": "No podeu reservar diversos esdeveniments que tinguin divises de pagament diferents.",
 		"MAXIMUM_QUOTA": "No es poden reservar més de {{value}} ranures",
 		"MINIMUM_QUOTA": "Heu de reservar un mínim de {{value}} ranures",
@@ -24,10 +23,7 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "Tot el dia",
-		"DATE": "Data",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"DATE": "Data"
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "Desactiva la selecció múltiple",

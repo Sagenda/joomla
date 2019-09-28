@@ -14,7 +14,6 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Sikertelen volt a hitelesítés",
 		"BAD_LOGIN_OR_PWD": "Rossz bejelentkezési név vagy jelszó",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
 		"DIFFERENT_CURRENCIES": "Különböző pénznem van megadva az eseményekhez, így nem foglalhatsz egyszerre többet.",
 		"MAXIMUM_QUOTA": "Nem lehet több, mint {{value}} résidőt foglalni",
 		"MINIMUM_QUOTA": "Legalább {{value}} résidőt kell foglalnia",
@@ -24,10 +23,7 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "Egész nap",
-		"DATE": "dátum",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"DATE": "dátum"
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "Többszörös kijelölés tiltása",

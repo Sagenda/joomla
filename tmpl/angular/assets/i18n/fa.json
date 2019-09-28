@@ -14,7 +14,6 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "تأیید اعتبار ناموفق بود",
 		"BAD_LOGIN_OR_PWD": "نام کاربری یا رمز ورود بد",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
 		"DIFFERENT_CURRENCIES": "امکان رزرو کردن قرارها با واحد پولی مختلف ممکن نیست!",
 		"MAXIMUM_QUOTA": "شما نمی توانید بیش از {{value}} اسلات را رزرو کنید",
 		"MINIMUM_QUOTA": "شما باید حداقل حداقل {{value}} اسلات را رزرو کنید",
@@ -24,10 +23,7 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "تمام روز",
-		"DATE": "تاریخ",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"DATE": "تاریخ"
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "غیر فعال کردن انتخاب چند برنامه",

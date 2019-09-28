@@ -14,7 +14,6 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Overenie zlyhalo",
 		"BAD_LOGIN_OR_PWD": "Chybné prihlasovacie meno alebo heslo",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
 		"DIFFERENT_CURRENCIES": "You can not book multiple events that have different payment currencies.",
 		"MAXIMUM_QUOTA": "You can't book more than {{value}} slots",
 		"MINIMUM_QUOTA": "You need to book a minimum of {{value}} slots",
@@ -24,10 +23,7 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "Celý deň",
-		"DATE": "Dátum",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"DATE": "Dátum"
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "Disable multiple selection",

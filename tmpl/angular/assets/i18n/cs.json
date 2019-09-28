@@ -14,7 +14,6 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Ověření se nezdařilo",
 		"BAD_LOGIN_OR_PWD": "Špatné přihlášení nebo heslo",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
 		"DIFFERENT_CURRENCIES": "Nelze rezervovat více událostí, které mají různé platební měny.",
 		"MAXIMUM_QUOTA": "Nelze rezervovat více než {{value}} slotů",
 		"MINIMUM_QUOTA": "Musíte si rezervovat minimálně {{value}} slotů",
@@ -24,10 +23,7 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "Celý den",
-		"DATE": "Datum",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"DATE": "Datum"
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "Zablokovat vícenásobný výběr",

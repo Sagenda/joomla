@@ -14,7 +14,6 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Pengesahan gagal",
 		"BAD_LOGIN_OR_PWD": "Log masuk atau kata laluan yang tidak baik",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
 		"DIFFERENT_CURRENCIES": "Anda tidak boleh menempah pelbagai acara yang mempunyai mata wang pembayaran yang berbeza.",
 		"MAXIMUM_QUOTA": "Anda tidak boleh menempah lebih daripada {{value}} slot",
 		"MINIMUM_QUOTA": "Anda perlu menempah sekurang-kurangnya {{value}} slot",
@@ -24,10 +23,7 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "Sepanjang hari",
-		"DATE": "Tarikh",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"DATE": "Tarikh"
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "Lumpuhkan pelbagai pilihan",

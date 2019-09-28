@@ -20,16 +20,23 @@
 		"MINIMUM_QUOTA": "You need to book a minimum of {{value}} slots",
 		"NO_BOOKABLE_ITEM": "Please create at least 1 bookable item in your Sagenda's account!",
 		"NO_TOKEN": "Please copy your authentication code (token) from your Sagenda's account!",
-		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "There are not enough openings for the number of members you would like to book."
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "There are not enough openings for the number of members you would like to book.",
+		"PAYMENT_MODULE_NOT_PAID": "The payment module isn't activated anymore, please subscribe from your module center!",
+		"COUPON_CODE_INVALID": "Coupon Code Invalid"
 	},
 	"EVENT": {
 		"ALL_DAY": "All Day",
 		"DATE": "Date",
 		"STATE_BOOKED": "Booked",
 		"STATE_FREE": "Free",
-		"STATE_PARTIALLY_BOOKED": "Partially booked"
+		"STATE_PARTIALLY_BOOKED": "Partially booked",
+		"BLOCK": "Block",
+		"UNBLOCK": "Unblock",
+		"BLOCKED": "Blocked"
 	},
 	"MESSAGE": {
+		"ARE_YOU_SURE_BLOCK_EVENT": "Are you sure you want to block this event? Reservation won't be possible until you unblock the event.",
+		"ARE_YOU_SURE_ACTION_CANT_BE_UNDONE": "Are you sure? This action can't be undone!",
 		"DISABLE_MULTIPLE_SELECTION": "Disable multiple selection",
 		"DONT_HAVE_A_SAGENDA_ACCOUNT": "Don't have an account?",
 		"ENABLE_MULTIPLE_SELECTION": "Enable multiple selection",
@@ -42,7 +49,8 @@
 		"WRONG_CREDENTIALS": "Wrong login or password. Please create an account if you don't have one.",
 		"YOU_DONT_HAVE_ANY_RESERVATION": "You don't have any reservation for that event.",
 		"YOU_HAVE_SUCCESSFULLY_BOOKED": "You have successfully booked!",
-		"YOU_WILL_GET_NOTIFICATION": "You will soon get a notification by email and optionally by SMS."
+		"YOU_WILL_GET_NOTIFICATION": "You will soon get a notification by email and optionally by SMS.",
+		"COUPON_CODE_VALID": "Coupon Code Valid"
 	},
 	"MULTIPLE": {
 		"CLEAR_SELECTION": "Clear selection",
@@ -61,7 +69,15 @@
 		"MENU": "Menu",
 		"OK": "OK",
 		"PWD": "Password",
-		"RESERVATION": "Reservation"
+		"RESERVATION": "Reservation",
+		"CANCEL_BOOKING": "Cancel this reservation",
+		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Cancel all reservations for this event"
+	},
+	"MESSAGE_TYPE" : {
+		"ERROR": "Error",
+		"WARNING": "Warning",
+		"INFO": "Info",
+		"CONFIRMATION": "Confirmation"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Add Participant",
@@ -98,6 +114,8 @@
 		"REMOVE_MEMBER": "Remove Participant",
 		"TAXES_AND_FEES": "Taxes and Fees",
 		"TITLE": "Title",
-		"TO": "To"
+		"TO": "To",
+		"VALIDATE_COUPON": "Validate Coupon",
+		"DISCOUNT_AMOUNT": "Discount Amount"
 	}
 }

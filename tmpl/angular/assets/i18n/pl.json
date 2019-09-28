@@ -14,7 +14,6 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Uwierzytelnianie nie powiodło się",
 		"BAD_LOGIN_OR_PWD": "zły login lub hasło",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
 		"DIFFERENT_CURRENCIES": "Nie możesz zarezerwować wielu wydarzeń, które mają różne waluty płatności.",
 		"MAXIMUM_QUOTA": "Nie możesz zarezerwować więcej niż {{value}} slotów",
 		"MINIMUM_QUOTA": "Musisz zarezerwować minimum {{value}} slotów",
@@ -24,10 +23,7 @@
 	},
 	"EVENT": {
 		"ALL_DAY": "Wszystkie dni",
-		"DATE": "Data",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"DATE": "Data"
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "Wyłącz wielokrotną rezerwację",
