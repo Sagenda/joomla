@@ -2,7 +2,7 @@
 <extension type="module" version="3.2" client="site" method="upgrade">
     <name>Sagenda booking and scheduling calendar</name>
     <author>Iteration.info SARL</author>
-    <version>1.5.0</version>
+    <version>2.0.0</version>
     <description>A Booking Calendar for your Joomla Website</description>
     <files>
         <filename>mod_sagenda_calendar.xml</filename>
@@ -54,11 +54,15 @@
                     <option value="day">
                         Day
                     </option>
+                    <option value="agenda">
+                        Agenda
+                    </option>
                 </field>
 
                 <field name="sagendaRemoveMonthViewButton" type="checkbox" label="Remove Month button" description="Remove from the agenda the button that allows to navigate to the month view." value="1" />
                 <field name="sagendaRemoveWeekViewButton" type="checkbox" label="Remove Week button" description="Remove from the agenda the button that allows to navigate to the week view." value="1" />
                 <field name="sagendaRemoveDayViewButton" type="checkbox" label="Remove Day button" description="Remove from the agenda the button that allows to navigate to the day view." value="1" />
+                <field name="sagendaRemoveAgendaViewButton" type="checkbox" label="Remove Agenda button" description="Remove from the agenda the button that allows to navigate to the agenda view." value="1" />
                 <field name="noteVideo" type="note" label="Watch our tutorial on YouTube : &lt;a href='https://youtu.be/lkB0f6MmKEc' target='blank'&gt;https://youtu.be/lkB0f6MmKEc&lt;/a&gt; " class="alert alert-info"/>
             </fieldset>
         </fields>

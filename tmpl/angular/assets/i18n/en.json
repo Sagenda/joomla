@@ -43,6 +43,7 @@
 		"NO_EVENT": "No event found for the given period!",
 		"PLEASE_CREATE_ONE_HERE": "Please create one here!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Please enter a valid email address!",
+		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "Please enter a valid phone number with international country code in order to be able to get SMS notifications.",
 		"PLEASE_LOGIN": "Please login",
 		"PLEASE_SELECT": "Please select...",
 		"VALUE_IS_REQUIRED": "Value is required!",
@@ -70,6 +71,7 @@
 		"OK": "OK",
 		"PWD": "Password",
 		"RESERVATION": "Reservation",
+		"RESERVATIONS": "Reservations",
 		"CANCEL_BOOKING": "Cancel this reservation",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Cancel all reservations for this event"
 	},

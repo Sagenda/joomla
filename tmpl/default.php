@@ -22,6 +22,7 @@ defined('_JEXEC') or die; ?>
     window.sagendaRemoveMonthViewButton = '<?php echo $sagendaRemoveMonthViewButton ;?>';
     window.sagendaRemoveWeekViewButton = '<?php echo $sagendaRemoveWeekViewButton ;?>';
     window.sagendaRemoveDayViewButton = '<?php echo $sagendaRemoveDayViewButton ;?>';
+    window.sagendaRemoveAgendaViewButton = '<?php echo $sagendaRemoveAgendaViewButton ;?>';
     window.sagendaBearerToken = '<?php echo $sagendaBearerToken ;?>';
     window.sagendaWeekStartsOn = '<?php echo $sagendaWeekStartsOn ;?>';
     window.sagendaLanguageCultureShortName = '<?php echo $locale ;?>';
@@ -32,5 +33,6 @@ defined('_JEXEC') or die; ?>
 
   <script type="text/javascript" src="<?php echo $module_path; ?>/angular/runtime.js"></script>
   <script type="text/javascript" src="<?php echo $module_path; ?>/angular/polyfills.js"></script>
+  <script type="text/javascript" src="<?php echo $module_path; ?>/angular/polyfills-es5.js"></script>
   <script type="text/javascript" src="<?php echo $module_path; ?>/angular/main.js"></script>
 </div>

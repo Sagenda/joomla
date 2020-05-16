@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Sagenda Calendar Module Entry Point
  *
@@ -13,7 +14,7 @@ defined('_JEXEC') or die;
 // Include the syndicate functions only once
 require_once dirname(__FILE__) . '/helper.php';
 
-$module_path = JURI::base().'modules/'.$module->module.'/tmpl';
+$module_path = JURI::base() . 'modules/' . $module->module . '/tmpl';
 
 // TOKEN
 $sagendaToken = $params->get('sagendaToken', '');
@@ -22,19 +23,19 @@ $sagendaBearerToken = $modSagendaCalendarHelper->convertAPITokenToBearerToken($s
 
 $sagendaWeekStartsOn = $params->get('sagendaWeekStartsOn', '');
 $sagendaDefaultView = $params->get('sagendaDefaultView', '');
-$sagendaRemoveMonthViewButton = $params->get('sagendaRemoveMonthViewButton', '');
-$sagendaRemoveWeekViewButton = $params->get('sagendaRemoveWeekViewButton', '');
-$sagendaRemoveDayViewButton = $params->get('sagendaRemoveDayViewButton', '');
+$sagendaRemoveMonthViewButton = $params->get('sagendaRemoveMonthViewButton', 'false');
+$sagendaRemoveWeekViewButton = $params->get('sagendaRemoveWeekViewButton', 'false');
+$sagendaRemoveDayViewButton = $params->get('sagendaRemoveDayViewButton', 'false');
+$sagendaRemoveAgendaViewButton = $params->get('sagendaRemoveAgendaViewButton', 'false');
 $sagendaTimeFormat = $params->get('sagendaTimeFormat', '');
 $sagendaDateFormat = $params->get('sagendaDateFormat', '');
 
 // LOCALES
 $lang = JFactory::getLanguage();
-$locale = str_replace("-", "_",$lang->getTag());
+$locale = str_replace("-", "_", $lang->getTag());
 
 $document = JFactory::getDocument();
-$document->addStyleSheet($module_path.'/angular/styles.css');
-$document->addStyleSheet('https://unpkg.com/@angular/material@8.2.3/prebuilt-themes/indigo-pink.css');
-$document->addStyleSheet($module_path.'/bootstrap-wrapper.css');
+$document->addStyleSheet($module_path . '/angular/styles.css');
 
 require JModuleHelper::getLayoutPath('mod_sagenda_calendar');
+

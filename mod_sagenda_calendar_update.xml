@@ -2,6 +2,14 @@
 	<update>
 		<name>Sagenda Calendar</name>
 		<description>This is the lastest version of Sagenda booking calendar.
+
+= 2.0.0 =
+Biggest Sagenda update ever.
+* ADDED : New Calendar views (day, week, month)
+* ADDED : New Agenda view.
+* ADDED : You can now display bookings in public view (optional).
+* TESTED : PHP 7.4.x
+
 = 1.5.0 =
 * ADDED : improved support for customization edition form.
 * FIXED : A bug when adding another member for multiple booking and when not having customized fields.
@@ -21,10 +29,10 @@
 		</description>
 		<element>mod_sagenda_calendar</element>
 		<type>module</type>
-		<version>1.5.0</version>
-		<infourl title="Weblinks Extension Package">https://github.com/Sagenda/joomla/releases/tag/1.5.0</infourl>
+		<version>2.0.0</version>
+		<infourl title="Weblinks Extension Package">https://github.com/Sagenda/joomla/releases/tag/2.0.0</infourl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/Sagenda/joomla/archive/1.5.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/Sagenda/joomla/archive/2.0.0.zip</downloadurl>
 		</downloads>
 		<maintainer>Joomla</maintainer>
 		<maintainerurl>https://github.com/Sagenda/joomla/releases</maintainerurl>
