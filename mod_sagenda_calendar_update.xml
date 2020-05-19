@@ -3,6 +3,10 @@
 		<name>Sagenda Calendar</name>
 		<description>This is the lastest version of Sagenda booking calendar.
 
+= 2.0.1 =
+* FIXED : problem for loading events with "right to left" languages such as Arabic.
+
+
 = 2.0.0 =
 Biggest Sagenda update ever.
 * ADDED : New Calendar views (day, week, month)
@@ -29,10 +33,10 @@ Biggest Sagenda update ever.
 		</description>
 		<element>mod_sagenda_calendar</element>
 		<type>module</type>
-		<version>2.0.0</version>
-		<infourl title="Weblinks Extension Package">https://github.com/Sagenda/joomla/releases/tag/2.0.0</infourl>
+		<version>2.0.1</version>
+		<infourl title="Weblinks Extension Package">https://github.com/Sagenda/joomla/releases/tag/2.0.1</infourl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/Sagenda/joomla/archive/2.0.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/Sagenda/joomla/archive/2.0.1.zip</downloadurl>
 		</downloads>
 		<maintainer>Joomla</maintainer>
 		<maintainerurl>https://github.com/Sagenda/joomla/releases</maintainerurl>
