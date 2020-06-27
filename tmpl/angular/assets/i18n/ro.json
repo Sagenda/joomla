@@ -14,24 +14,37 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Autentificare esuata",
 		"BAD_LOGIN_OR_PWD": "Adresa de conectare sau parola greșite",
+		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Acest identificator de parametru rezervabil nu este asociat cu unul dintre elementele dvs. rezervabile!",
+		"COUPON_CODE_INVALID": "Codul promoțional este nevalid",
 		"DIFFERENT_CURRENCIES": "Acum poti face rezervare pentru mai multe evenimente, fiecare cu plata intr-o valută diferită.",
 		"MAXIMUM_QUOTA": "Nu puteți rezerva mai mult de {{value}} sloturi",
 		"MINIMUM_QUOTA": "Trebuie să rezervați minimum {{value}} sloturi",
 		"NO_BOOKABLE_ITEM": "Te rog crează cel putin un item pentru care se pot face rezervări in contul tău de Sagenda!",
 		"NO_TOKEN": "Te rog copiază codul tău de autentificare (token) din contul tău de Sagenda!",
-		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Nu există suficiente deschideri pentru numărul de membri pe care doriți să le rezervați."
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Nu există suficiente deschideri pentru numărul de membri pe care doriți să le rezervați.",
+		"PAYMENT_MODULE_NOT_PAID": "Modulul de plată nu mai este activat, vă rugăm să vă abonați din centrul modulului dvs."
 	},
 	"EVENT": {
 		"ALL_DAY": "Toată ziua",
-		"DATE": "Dată"
+		"BLOCK": "Bloc",
+		"BLOCKED": "Blocat",
+		"DATE": "Dată",
+		"STATE_BOOKED": "Rezervat",
+		"STATE_FREE": "Liber",
+		"STATE_PARTIALLY_BOOKED": "Rezervat parțial",
+		"UNBLOCK": "Deblocați"
 	},
 	"MESSAGE": {
+		"ARE_YOU_SURE_ACTION_CANT_BE_UNDONE": "Esti sigur? Această acțiune nu poate fi anulată!",
+		"ARE_YOU_SURE_BLOCK_EVENT": "Sigur doriți să blocați acest eveniment? Rezervarea nu va fi posibilă până când nu deblocați evenimentul.",
+		"COUPON_CODE_VALID": "Cod promoțional valabil",
 		"DISABLE_MULTIPLE_SELECTION": "Dezactivează selectia multiplă",
 		"DONT_HAVE_A_SAGENDA_ACCOUNT": "Nu aveți un cont?",
 		"ENABLE_MULTIPLE_SELECTION": "Permite selectia multiplă",
 		"NO_EVENT": "Niciun eveniment nu a fost găsit pentru această perioadă!",
 		"PLEASE_CREATE_ONE_HERE": "Vă rugăm să creați unul aici!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Vă rugăm să introduceţi o adresă de email validă!",
+		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "Vă rugăm să introduceți un număr de telefon valid cu cod de țară internațional pentru a putea primi notificări prin SMS.",
 		"PLEASE_LOGIN": "Va rugam sa va logati",
 		"PLEASE_SELECT": "Te rog alege...",
 		"VALUE_IS_REQUIRED": "Vă rugăm să introduceţi o valoare!",
@@ -40,6 +53,12 @@
 		"YOU_HAVE_SUCCESSFULLY_BOOKED": "Ai efectuat cu succes rezervarea!",
 		"YOU_WILL_GET_NOTIFICATION": "Veţi primi în curând o notificare prin email sau opțional prin SMS."
 	},
+	"MESSAGE_TYPE": {
+		"CONFIRMATION": "Confirmare",
+		"ERROR": "Eroare",
+		"INFO": "Info",
+		"WARNING": "Avertizare"
+	},
 	"MULTIPLE": {
 		"CLEAR_SELECTION": "Goleste selectia",
 		"NO_SELECTED_EVENTS": "Nu există nici un eveniment selectat. Te rog dă click pe fiecare eveniment individual sau foloseste selectia de interval, alegând mai multe zile.",
@@ -47,17 +66,20 @@
 	},
 	"STANDARD": {
 		"AGENDA": "Agendă",
+		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Anulați toate rezervările pentru acest eveniment",
+		"CANCEL_BOOKING": "Anulați această rezervare",
 		"DETAIL": "Detaliu",
 		"EMAIL_ADDRESS": "Adresa de email",
 		"EVENT": "Eveniment",
-		"LINK": "Link",
-		"LOGGING_IN": "autentificare",
+		"LINK": "Legătură",
+		"LOGGING_IN": "Autentificare",
 		"LOGIN": "Logare",
 		"LOGOUT": "Deconectare",
 		"MENU": "Meniul",
 		"OK": "OK",
 		"PWD": "Parola",
-		"RESERVATION": "Rezervare"
+		"RESERVATION": "Rezervare",
+		"RESERVATIONS": "Rezervări"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Adaugă membru",
@@ -70,6 +92,7 @@
 		"BY_ENTERING_NB_OF_PEOPLE": "Introducând numărul de persoane",
 		"BY_GIVING_ALL_NAMES": "Dând toate numele",
 		"DESCRIPTION": "Descriere",
+		"DISCOUNT_AMOUNT": "Suma reducerii",
 		"DR": "Dr.",
 		"EMAIL": "Adresă email",
 		"EVENT_SUB_TOTAL": "Eveniment Sub Total",
@@ -94,6 +117,7 @@
 		"REMOVE_MEMBER": "Elimină membru",
 		"TAXES_AND_FEES": "Taxe si impozite",
 		"TITLE": "Titlu",
-		"TO": "La"
+		"TO": "La",
+		"VALIDATE_COUPON": "Validați cuponul"
 	}
 }

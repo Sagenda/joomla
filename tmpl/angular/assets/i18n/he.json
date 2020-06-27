@@ -14,24 +14,37 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "אימות נכשל",
 		"BAD_LOGIN_OR_PWD": "שם משתמש או סיסמא שגויים",
+		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "זיהוי פרמטר זה ניתן לספירה לא מקושר לאחד מהפריטים הניתנים לספירה!",
+		"COUPON_CODE_INVALID": "קוד השובר לא חוקי",
 		"DIFFERENT_CURRENCIES": "לא ניתן להירשם למספר אירועים אשר נבדלים בסוג המטבע",
 		"MAXIMUM_QUOTA": "לא ניתן להזמין יותר מחריצים {{value}}",
-		"MINIMUM_QUOTA": "You need to book a minimum of {{value}} slots",
+		"MINIMUM_QUOTA": "עליך להזמין מינימום {{value}} משבצות",
 		"NO_BOOKABLE_ITEM": "נא ליצור מוצר רישום אחד לפחות בחשבון Sagenda שלך !",
 		"NO_TOKEN": "נא להעתיק את קוד האימות (Token) מחשבון Sagenda שלך !",
-		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "אין מספיק מקום לכמות הנרשמים שברצונך לרשום"
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "אין מספיק מקום לכמות הנרשמים שברצונך לרשום",
+		"PAYMENT_MODULE_NOT_PAID": "מודול התשלום אינו מופעל יותר, אנא הירשמו ממרכז המודולים שלכם!"
 	},
 	"EVENT": {
 		"ALL_DAY": "כל היום",
-		"DATE": "תאריך"
+		"BLOCK": "חסום",
+		"BLOCKED": "חסום",
+		"DATE": "תאריך",
+		"STATE_BOOKED": "הוזמן",
+		"STATE_FREE": "חופשי",
+		"STATE_PARTIALLY_BOOKED": "הוזמן חלקית",
+		"UNBLOCK": "בטל את החסימה"
 	},
 	"MESSAGE": {
+		"ARE_YOU_SURE_ACTION_CANT_BE_UNDONE": "האם אתה בטוח? לא ניתן לבטל פעולה זו!",
+		"ARE_YOU_SURE_BLOCK_EVENT": "האם אתה בטוח שברצונך לחסום את האירוע הזה? ההזמנה לא תהיה אפשרית עד שתבטל את החסימה של האירוע.",
+		"COUPON_CODE_VALID": "קוד השובר תקף",
 		"DISABLE_MULTIPLE_SELECTION": "מנע בחירה מרובה",
 		"DONT_HAVE_A_SAGENDA_ACCOUNT": "אין לך חשבון?",
 		"ENABLE_MULTIPLE_SELECTION": "אפשר בחירה מרובה",
 		"NO_EVENT": "לא אותר כל אירוע לתקופה המוגדרת !",
 		"PLEASE_CREATE_ONE_HERE": "אנא צור אחד כאן!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "נא לרשום כתובת אימייל תקינה !",
+		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "אנא הזן מספר טלפון חוקי עם קוד מדינה בינלאומי כדי שתוכל לקבל התראות SMS.",
 		"PLEASE_LOGIN": "אנא התחבר",
 		"PLEASE_SELECT": "נא לבחור...",
 		"VALUE_IS_REQUIRED": "יש צורך לרשום ערך !",
@@ -40,6 +53,12 @@
 		"YOU_HAVE_SUCCESSFULLY_BOOKED": "הרישום לאירוע בוצע בהצלחה !",
 		"YOU_WILL_GET_NOTIFICATION": "בקרוב יישלח אליך הודעה באימייל (ייתכן שע\"י מסרון)."
 	},
+	"MESSAGE_TYPE": {
+		"CONFIRMATION": "אישור",
+		"ERROR": "שגיאה",
+		"INFO": "מידע",
+		"WARNING": "אזהרה"
+	},
 	"MULTIPLE": {
 		"CLEAR_SELECTION": "נקה בחירה",
 		"NO_SELECTED_EVENTS": "לא נבחר כל אירוע.  נא לבחור ישירות כל אירוע או להשתמש בבחירה מרובה ע\"י בחירת כמה ימים.",
@@ -47,6 +66,8 @@
 	},
 	"STANDARD": {
 		"AGENDA": "אג'נדה",
+		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "בטל את כל ההזמנות לאירוע זה",
+		"CANCEL_BOOKING": "בטל הזמנה זו",
 		"DETAIL": "פרט",
 		"EMAIL_ADDRESS": "כתובת דוא\"ל",
 		"EVENT": "אירוע",
@@ -57,7 +78,8 @@
 		"MENU": "תפריט",
 		"OK": "מתאים",
 		"PWD": "סיסמה",
-		"RESERVATION": "הזמנה"
+		"RESERVATION": "הזמנה",
+		"RESERVATIONS": "הזמנות"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "הוספת משתתף/ת",
@@ -65,22 +87,23 @@
 		"BACK": "חזרה",
 		"BOOK": "הרשמה",
 		"BOOKINGS_AND_FIXED_FEES": "Bookings + Fixed fees",
-		"BOOKINGS_ONLY": "Bookings only",
+		"BOOKINGS_ONLY": "הזמנות בלבד",
 		"BOOK_MULTIPLE_PEOPLE": "הרשמה למספר משתתפים",
 		"BY_ENTERING_NB_OF_PEOPLE": "על ידי הזנת מספר אנשים",
 		"BY_GIVING_ALL_NAMES": "על ידי מתן כל השמות",
 		"DESCRIPTION": "תאור",
+		"DISCOUNT_AMOUNT": "כמות ההנחה",
 		"DR": "ד\"ר",
 		"EMAIL": "כתובת אימייל",
-		"EVENT_SUB_TOTAL": "Event Sub Total",
-		"FEES_FIELD_AMOUNT": "Amount",
+		"EVENT_SUB_TOTAL": "סך הכל אירוע",
+		"FEES_FIELD_AMOUNT": "כמות",
 		"FEES_FIELD_CALC_PERCENTAGE_ON": "אחוז באחוזים על",
-		"FEES_FIELD_GRAND_TOTAL": "Grand Total",
-		"FEES_FIELD_NAME": "Name",
-		"FEES_FIELD_PERCENTAGE": "Percentage",
+		"FEES_FIELD_GRAND_TOTAL": "סכום סופי",
+		"FEES_FIELD_NAME": "שם",
+		"FEES_FIELD_PERCENTAGE": "אחוז",
 		"FEES_FIELD_SUB_TOTAL": "סך הכל",
 		"FIRST_NAME": "שם פרטי",
-		"FIXED_FEES": "Fixed",
+		"FIXED_FEES": "תוקן",
 		"FROM": "מ",
 		"LAST_NAME": "שם משפחה",
 		"MISS": "גב'",
@@ -89,11 +112,12 @@
 		"NOTE": "הערה",
 		"NUMBER_OF_PEOPLE": "מספר אנשים להרשמה",
 		"PAYMENT_MESSAGE": "בקרוב תופנו לאתר פייפל לסיום התשלום וההזמנה",
-		"PERCENTAGE_FEES": "Percentage",
+		"PERCENTAGE_FEES": "אחוז",
 		"PHONE": "טלפון",
 		"REMOVE_MEMBER": "הסרת משתתף",
-		"TAXES_AND_FEES": "Taxes and Fees",
+		"TAXES_AND_FEES": "מיסים ואגרות",
 		"TITLE": "כותרת",
-		"TO": "עבור"
+		"TO": "עבור",
+		"VALIDATE_COUPON": "אמת קופון"
 	}
 }

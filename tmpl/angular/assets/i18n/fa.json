@@ -14,24 +14,37 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "تأیید اعتبار ناموفق بود",
 		"BAD_LOGIN_OR_PWD": "نام کاربری یا رمز ورود بد",
+		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "این شناسه پارامتر قابل رزرو با یکی از موارد قابل رزرو شما مرتبط نیست!",
+		"COUPON_CODE_INVALID": "کد کوپن نامعتبر است",
 		"DIFFERENT_CURRENCIES": "امکان رزرو کردن قرارها با واحد پولی مختلف ممکن نیست!",
 		"MAXIMUM_QUOTA": "شما نمی توانید بیش از {{value}} اسلات را رزرو کنید",
 		"MINIMUM_QUOTA": "شما باید حداقل حداقل {{value}} اسلات را رزرو کنید",
 		"NO_BOOKABLE_ITEM": "لطفا حداقل یک گزینه در حساب Sagenda خود برای رزرو وارد کنید!",
 		"NO_TOKEN": "لطفا کد هویتی خود از حساب Sagenda خود را وارد کنید!",
-		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "تعداد افراد رزرو کرده در این برنامه کافی نیست"
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "تعداد افراد رزرو کرده در این برنامه کافی نیست",
+		"PAYMENT_MODULE_NOT_PAID": "ماژول پرداخت دیگر فعال نمی شود ، لطفا از مرکز ماژول خود مشترک شوید!"
 	},
 	"EVENT": {
 		"ALL_DAY": "تمام روز",
-		"DATE": "تاریخ"
+		"BLOCK": "مسدود کردن",
+		"BLOCKED": "مسدود",
+		"DATE": "تاریخ",
+		"STATE_BOOKED": "رزرو",
+		"STATE_FREE": "رایگان",
+		"STATE_PARTIALLY_BOOKED": "تا حدی رزرو شده",
+		"UNBLOCK": "رفع انسداد"
 	},
 	"MESSAGE": {
+		"ARE_YOU_SURE_ACTION_CANT_BE_UNDONE": "مطمئنی؟ این عمل قابل خنثی نیست!",
+		"ARE_YOU_SURE_BLOCK_EVENT": "آیا مطمئن هستید که می خواهید این رویداد را مسدود کنید؟ رزرو تا امکان انسداد این رویداد امکان پذیر نخواهد بود.",
+		"COUPON_CODE_VALID": "کد کوپن معتبر است",
 		"DISABLE_MULTIPLE_SELECTION": "غیر فعال کردن انتخاب چند برنامه",
 		"DONT_HAVE_A_SAGENDA_ACCOUNT": "حساب کاربری ندارید؟",
 		"ENABLE_MULTIPLE_SELECTION": "فعال کردن انتخاب چند برنامه",
 		"NO_EVENT": "برنامه‌ای در تاریخ خواسته شده موجود نیست!",
 		"PLEASE_CREATE_ONE_HERE": "لطفا اینجا را اینجا بنویسید",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "لطفا نشانی ایمیل صحیح وارد نمایید",
+		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "برای اینکه بتوانید اعلان های پیامکی را دریافت کنید ، یک شماره تلفن معتبر را با کد کشور بین المللی وارد کنید.",
 		"PLEASE_LOGIN": "لطفا وارد شوید",
 		"PLEASE_SELECT": "لطفا انتخاب کنید...",
 		"VALUE_IS_REQUIRED": "وارد کردن مقدار اجباری است!",
@@ -40,6 +53,12 @@
 		"YOU_HAVE_SUCCESSFULLY_BOOKED": "رزرو شما با موفقیت انجام شد!",
 		"YOU_WILL_GET_NOTIFICATION": "بزودی از طریق ایمیل و (درصورت فعال بودن)  یا پیامک اطلاع رسانی خواهد شد"
 	},
+	"MESSAGE_TYPE": {
+		"CONFIRMATION": "تائیدیه",
+		"ERROR": "خطا",
+		"INFO": "اطلاعات",
+		"WARNING": "اخطار"
+	},
 	"MULTIPLE": {
 		"CLEAR_SELECTION": "پاک کردن انتخاب",
 		"NO_SELECTED_EVENTS": "برنامه‌ای انتخاب نشده است. لطفا با کلیک روی هر برنامه‌های جداگانه و یا انتخاب چند روز از بازه زمانی استفاده کنید.",
@@ -47,6 +66,8 @@
 	},
 	"STANDARD": {
 		"AGENDA": "دستور جلسه",
+		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "همه رزرو برای این رویداد را لغو کنید",
+		"CANCEL_BOOKING": "این رزرو را لغو کنید",
 		"DETAIL": "جزئیات",
 		"EMAIL_ADDRESS": "آدرس ایمیل",
 		"EVENT": "رویداد",
@@ -57,7 +78,8 @@
 		"MENU": "فهرست",
 		"OK": "بسیار خوب",
 		"PWD": "کلمه عبور",
-		"RESERVATION": "رزرو"
+		"RESERVATION": "رزرو",
+		"RESERVATIONS": "رزرو"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "اضافه کردن شرکت کننده",
@@ -65,11 +87,12 @@
 		"BACK": "بازگشت",
 		"BOOK": "رزرو کردن",
 		"BOOKINGS_AND_FIXED_FEES": "رزرو ها هزینه های ثابت",
-		"BOOKINGS_ONLY": "Bookings only",
+		"BOOKINGS_ONLY": "فقط رزرو",
 		"BOOK_MULTIPLE_PEOPLE": "رزرو برای چند نفر به صورت همزمان",
 		"BY_ENTERING_NB_OF_PEOPLE": "با وارد کردن تعداد افراد",
 		"BY_GIVING_ALL_NAMES": "با دادن همه نام ها",
 		"DESCRIPTION": "توضیحات",
+		"DISCOUNT_AMOUNT": "مقدار تخفیف",
 		"DR": "آقای",
 		"EMAIL": "نشانی پست الکترونیک",
 		"EVENT_SUB_TOTAL": "رویداد زیر مجموع",
@@ -80,7 +103,7 @@
 		"FEES_FIELD_PERCENTAGE": "درصد",
 		"FEES_FIELD_SUB_TOTAL": "زیر مجموع",
 		"FIRST_NAME": "نام",
-		"FIXED_FEES": "Fixed",
+		"FIXED_FEES": "درست شد",
 		"FROM": "از (مکان)",
 		"LAST_NAME": "نام خانوادگی",
 		"MISS": "خانم",
@@ -94,6 +117,7 @@
 		"REMOVE_MEMBER": "پاک کردن شرکت کننده",
 		"TAXES_AND_FEES": "مالیات ها و هزینه ها",
 		"TITLE": "عنوان",
-		"TO": "برای"
+		"TO": "برای",
+		"VALIDATE_COUPON": "کوپن را تأیید کنید"
 	}
 }

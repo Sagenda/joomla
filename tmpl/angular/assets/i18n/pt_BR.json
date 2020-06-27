@@ -14,24 +14,37 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Autenticação falhou",
 		"BAD_LOGIN_OR_PWD": "Login ou senha incorretos",
+		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Este identificador de parâmetro que pode ser reservado não está vinculado a um item de reserva!",
+		"COUPON_CODE_INVALID": "Código do cupom inválido",
 		"DIFFERENT_CURRENCIES": "Você não pode reservar vários eventos com moedas de pagamento diferentes.",
 		"MAXIMUM_QUOTA": "Você não pode reservar mais que {{value}} slots",
 		"MINIMUM_QUOTA": "Você precisa reservar um mínimo de {{value}} slots",
 		"NO_BOOKABLE_ITEM": "Por favor, crie pelo menos 1 item reservado na sua conta Sagenda!",
 		"NO_TOKEN": "Por favor copie seu código de autenticação (token) da sua conta do Sagenda!",
-		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Não há vagas suficientes para o número de membros que você gostaria de reservar."
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Não há vagas suficientes para o número de membros que você gostaria de reservar.",
+		"PAYMENT_MODULE_NOT_PAID": "O módulo de pagamento não está mais ativado, inscreva-se no seu centro de módulos!"
 	},
 	"EVENT": {
 		"ALL_DAY": "O dia Todo",
-		"DATE": "Dados"
+		"BLOCK": "Quadra",
+		"BLOCKED": "Bloqueado",
+		"DATE": "Dados",
+		"STATE_BOOKED": "Reservado",
+		"STATE_FREE": "livre",
+		"STATE_PARTIALLY_BOOKED": "Parcialmente reservado",
+		"UNBLOCK": "Desbloquear"
 	},
 	"MESSAGE": {
+		"ARE_YOU_SURE_ACTION_CANT_BE_UNDONE": "Você tem certeza? Esta ação não pode ser desfeita!",
+		"ARE_YOU_SURE_BLOCK_EVENT": "Tem certeza de que deseja bloquear este evento? A reserva não será possível até você desbloquear o evento.",
+		"COUPON_CODE_VALID": "Código do cupom válido",
 		"DISABLE_MULTIPLE_SELECTION": "Desabilitar Múltipla Seleção",
 		"DONT_HAVE_A_SAGENDA_ACCOUNT": "Não tem uma conta?",
 		"ENABLE_MULTIPLE_SELECTION": "Habilitar Múltipla Seleção",
 		"NO_EVENT": "Nenhum evento encontrado para o período dado!",
 		"PLEASE_CREATE_ONE_HERE": "Por favor, crie um aqui!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Por favor insira um endereço de e-mail válido!",
+		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "Digite um número de telefone válido com código internacional do país para poder receber notificações por SMS.",
 		"PLEASE_LOGIN": "Por favor entre",
 		"PLEASE_SELECT": "Por favor selecione...",
 		"VALUE_IS_REQUIRED": "Campo requerido...",
@@ -40,6 +53,12 @@
 		"YOU_HAVE_SUCCESSFULLY_BOOKED": "Você agendou com Sucesso !",
 		"YOU_WILL_GET_NOTIFICATION": "Em breve você receberá uma notificação por e-mail e, opcionalmente, por SMS."
 	},
+	"MESSAGE_TYPE": {
+		"CONFIRMATION": "Confirmação",
+		"ERROR": "Erro",
+		"INFO": "Info",
+		"WARNING": "Aviso"
+	},
 	"MULTIPLE": {
 		"CLEAR_SELECTION": "Limpar Seleção",
 		"NO_SELECTED_EVENTS": "Nenhum evento selecionado. Por favor, clique em cada evento individualmente ou use a seleção de intervalos selecionando vários dias.",
@@ -47,17 +66,20 @@
 	},
 	"STANDARD": {
 		"AGENDA": "Agenda",
+		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Cancelar todas as reservas para este evento",
+		"CANCEL_BOOKING": "Cancelar esta reserva",
 		"DETAIL": "Detalhe",
 		"EMAIL_ADDRESS": "Endereço de e-mail",
 		"EVENT": "Evento",
-		"LINK": "Link",
+		"LINK": "Ligação",
 		"LOGGING_IN": "Login",
 		"LOGIN": "Entrar",
 		"LOGOUT": "Sair",
 		"MENU": "Cardápio",
 		"OK": "OK",
 		"PWD": "Senha",
-		"RESERVATION": "Reserva"
+		"RESERVATION": "Reserva",
+		"RESERVATIONS": "Reservas"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Adicionar Membro",
@@ -70,6 +92,7 @@
 		"BY_ENTERING_NB_OF_PEOPLE": "Ao inserir o número de pessoas",
 		"BY_GIVING_ALL_NAMES": "Dando todos os nomes",
 		"DESCRIPTION": "Descrição",
+		"DISCOUNT_AMOUNT": "Valor do desconto",
 		"DR": "Dr.",
 		"EMAIL": "Endereço de E-mail",
 		"EVENT_SUB_TOTAL": "Subtotal do evento",
@@ -94,6 +117,7 @@
 		"REMOVE_MEMBER": "Remover Membro",
 		"TAXES_AND_FEES": "Impostos e Taxas",
 		"TITLE": "Titulo",
-		"TO": "Para"
+		"TO": "Para",
+		"VALIDATE_COUPON": "Validar Cupom"
 	}
 }

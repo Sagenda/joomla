@@ -7,31 +7,44 @@
 		"MONTH": "Mēnesis",
 		"NAME": "Nosaukums",
 		"NEXT": "Nākamais",
-		"PREVIOUS": "Iepriekšējais",
+		"PREVIOUS": "Lepriekšējais",
 		"TODAY": "Šodien",
 		"WEEK": "Nedēļa"
 	},
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Autentifikācija neizdevās",
 		"BAD_LOGIN_OR_PWD": "Slikts lietotājvārds vai parole",
+		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Šis rezervējamā parametra identifikators nav saistīts ar vienu no jūsu rezervējamiem vienumiem.",
+		"COUPON_CODE_INVALID": "Kupona kods nav derīgs",
 		"DIFFERENT_CURRENCIES": "Jūs nevarat rezervēt vairākus notikumus, kuriem ir dažādas maksājumu valūtas.",
 		"MAXIMUM_QUOTA": "Nevar rezervēt vairāk par {{value}} slotiem",
 		"MINIMUM_QUOTA": "Jārezervē vismaz {{value}} sloti",
 		"NO_BOOKABLE_ITEM": "Lūdzu izveidojiet vismaz 1 rezervējumu objektu Jūsu Sagenda's kontā!",
 		"NO_TOKEN": "Lūdzu, kopējiet savu autentifikācijas kodu (marķierierīci) no Jūsu Sagenda konta!",
-		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Nav pietiekami daudz vietu to dalībnieku skaitam, kurus vēlaties rezervēt."
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Nav pietiekami daudz vietu to dalībnieku skaitam, kurus vēlaties rezervēt.",
+		"PAYMENT_MODULE_NOT_PAID": "Maksājumu modulis vairs netiek aktivizēts, lūdzu, abonējiet no sava moduļa centra!"
 	},
 	"EVENT": {
 		"ALL_DAY": "Visu dienu",
-		"DATE": "Datums"
+		"BLOCK": "Bloķēt",
+		"BLOCKED": "Bloķēts",
+		"DATE": "Datums",
+		"STATE_BOOKED": "Rezervēts",
+		"STATE_FREE": "Bezmaksas",
+		"STATE_PARTIALLY_BOOKED": "Daļēji rezervēts",
+		"UNBLOCK": "Atbloķēt"
 	},
 	"MESSAGE": {
+		"ARE_YOU_SURE_ACTION_CANT_BE_UNDONE": "Vai tu esi pārliecināts? Šo darbību nevar atsaukt!",
+		"ARE_YOU_SURE_BLOCK_EVENT": "Vai tiešām vēlaties bloķēt šo notikumu? Rezervācija nebūs iespējama, kamēr neatbloķēsit notikumu.",
+		"COUPON_CODE_VALID": "Derīgs kupona kods",
 		"DISABLE_MULTIPLE_SELECTION": "Atspējot vairāku vienumu atlasi",
 		"DONT_HAVE_A_SAGENDA_ACCOUNT": "Vel nav Sagenda konta?",
 		"ENABLE_MULTIPLE_SELECTION": "Iespējot vairāku vienumu atlasi",
 		"NO_EVENT": "Norādītajam periodam nav atrasts neviens notikums!",
 		"PLEASE_CREATE_ONE_HERE": "Lūdzu, izveidojiet to šeit!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Lūdzu, ievadiet derīgo e-pasta adresi!",
+		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "Lūdzu, ievadiet derīgu tālruņa numuru ar starptautisko valsts kodu, lai varētu saņemt SMS paziņojumus.",
 		"PLEASE_LOGIN": "Lūdzu, piesakieties",
 		"PLEASE_SELECT": "Lūdzu izvēlieties...",
 		"VALUE_IS_REQUIRED": "Nepieciešams ievadīt!",
@@ -40,6 +53,12 @@
 		"YOU_HAVE_SUCCESSFULLY_BOOKED": "Jūs esat veiksmīgi veicis rezervāciju!",
 		"YOU_WILL_GET_NOTIFICATION": "Drīz Jūs saņemsiet paziņojumu e-pasta un SMS (pēc izvēles)."
 	},
+	"MESSAGE_TYPE": {
+		"CONFIRMATION": "Apstiprinājums",
+		"ERROR": "Kļūda",
+		"INFO": "Informācija",
+		"WARNING": "Brīdinājums"
+	},
 	"MULTIPLE": {
 		"CLEAR_SELECTION": "Notīrīt atlasi",
 		"NO_SELECTED_EVENTS": "Nav atlasīts neviens notikums. Lūdzu, noklikšķiniet uz katra notikuma individuāli vai izmantojiet diapazona atlasi, izvēloties vairākas dienas.",
@@ -47,6 +66,8 @@
 	},
 	"STANDARD": {
 		"AGENDA": "Dienas kārtība",
+		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Atcelt visas rezervācijas šim notikumam",
+		"CANCEL_BOOKING": "Atcelt šo rezervāciju",
 		"DETAIL": "Detalizēta informācija",
 		"EMAIL_ADDRESS": "E-pasta adrese",
 		"EVENT": "Notikums",
@@ -57,7 +78,8 @@
 		"MENU": "Izvelne",
 		"OK": "Labi",
 		"PWD": "Parole",
-		"RESERVATION": "Rezervēšana"
+		"RESERVATION": "Rezervēšana",
+		"RESERVATIONS": "Atrunas"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Pievienot Dalībnieku",
@@ -70,6 +92,7 @@
 		"BY_ENTERING_NB_OF_PEOPLE": "Ievadot cilvēku skaitu",
 		"BY_GIVING_ALL_NAMES": "Sniedzot visus vārdus",
 		"DESCRIPTION": "Apraksts",
+		"DISCOUNT_AMOUNT": "Atlaides summa",
 		"DR": "Doktors",
 		"EMAIL": "E-pasta adrese",
 		"EVENT_SUB_TOTAL": "Notikuma apakšsumma",
@@ -94,6 +117,7 @@
 		"REMOVE_MEMBER": "Noņemt Dalībnieku",
 		"TAXES_AND_FEES": "Nodokļi un nodevas",
 		"TITLE": "Uzruna",
-		"TO": "Kam"
+		"TO": "Kam",
+		"VALIDATE_COUPON": "Apstipriniet kuponu"
 	}
 }

@@ -9,29 +9,42 @@
 		"NEXT": "Próximo",
 		"PREVIOUS": "Anterior",
 		"TODAY": "Hoje",
-		"WEEK": "semana"
+		"WEEK": "Semana"
 	},
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Autenticação falhou",
 		"BAD_LOGIN_OR_PWD": "Login ou senha incorretos",
+		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Este identificador de parâmetro que pode ser reservado não está vinculado a um item de reserva!",
+		"COUPON_CODE_INVALID": "Código do cupom inválido",
 		"DIFFERENT_CURRENCIES": "Você não pode reservar vários eventos com moedas de pagamento diferentes.",
 		"MAXIMUM_QUOTA": "Você não pode reservar mais que {{value}} slots",
 		"MINIMUM_QUOTA": "Você precisa reservar um mínimo de {{value}} slots",
 		"NO_BOOKABLE_ITEM": "Por favor, crie pelo menos 1 item reservado na sua conta Sagenda!",
 		"NO_TOKEN": "Por favor copie o seu código de autenticação (token) da sua conta do Sagenda!",
-		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Não há vagas suficientes para o número de membros que você gostaria de reservar."
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Não há vagas suficientes para o número de membros que você gostaria de reservar.",
+		"PAYMENT_MODULE_NOT_PAID": "O módulo de pagamento não está mais ativado, inscreva-se no seu centro de módulos!"
 	},
 	"EVENT": {
 		"ALL_DAY": "Dia Todo",
-		"DATE": "Encontro"
+		"BLOCK": "Quadra",
+		"BLOCKED": "Bloqueado",
+		"DATE": "Encontro",
+		"STATE_BOOKED": "Reservado",
+		"STATE_FREE": "Livre",
+		"STATE_PARTIALLY_BOOKED": "Parcialmente reservado",
+		"UNBLOCK": "Desbloquear"
 	},
 	"MESSAGE": {
+		"ARE_YOU_SURE_ACTION_CANT_BE_UNDONE": "Você tem certeza? Esta ação não pode ser desfeita!",
+		"ARE_YOU_SURE_BLOCK_EVENT": "Tem certeza de que deseja bloquear este evento? A reserva não será possível até você desbloquear o evento.",
+		"COUPON_CODE_VALID": "Código do cupom válido",
 		"DISABLE_MULTIPLE_SELECTION": "Desativar seleção múltipla",
 		"DONT_HAVE_A_SAGENDA_ACCOUNT": "Não tem uma conta?",
 		"ENABLE_MULTIPLE_SELECTION": "Ativar seleção múltipla",
 		"NO_EVENT": "Nenhum evento encontrado para o período dado!",
 		"PLEASE_CREATE_ONE_HERE": "Por favor, crie um aqui!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Por favor insira um endereço de e-mail válido!",
+		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "Digite um número de telefone válido com código internacional do país para poder receber notificações por SMS.",
 		"PLEASE_LOGIN": "Por favor entre",
 		"PLEASE_SELECT": "Por favor selecione...",
 		"VALUE_IS_REQUIRED": "Valor é requerido!",
@@ -40,6 +53,12 @@
 		"YOU_HAVE_SUCCESSFULLY_BOOKED": "Você reservou com sucesso!",
 		"YOU_WILL_GET_NOTIFICATION": "Em breve você receberá uma notificação por e-mail e, opcionalmente, por SMS."
 	},
+	"MESSAGE_TYPE": {
+		"CONFIRMATION": "Confirmação",
+		"ERROR": "Erro",
+		"INFO": "Info",
+		"WARNING": "Aviso"
+	},
 	"MULTIPLE": {
 		"CLEAR_SELECTION": "Seleção clara",
 		"NO_SELECTED_EVENTS": "Nenhum evento selecionado. Clique em cada evento individualmente ou use a seleção de intervalos selecionando vários dias.",
@@ -47,6 +66,8 @@
 	},
 	"STANDARD": {
 		"AGENDA": "Agenda",
+		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Cancelar todas as reservas para este evento",
+		"CANCEL_BOOKING": "Cancelar esta reserva",
 		"DETAIL": "Detalhe",
 		"EMAIL_ADDRESS": "Endereço de e-mail",
 		"EVENT": "Evento",
@@ -57,7 +78,8 @@
 		"MENU": "Cardápio",
 		"OK": "Está bem",
 		"PWD": "Senha",
-		"RESERVATION": "Reserva"
+		"RESERVATION": "Reserva",
+		"RESERVATIONS": "Reservas"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Adicionar participante",
@@ -70,6 +92,7 @@
 		"BY_ENTERING_NB_OF_PEOPLE": "Ao inserir o número de pessoas",
 		"BY_GIVING_ALL_NAMES": "Dando todos os nomes",
 		"DESCRIPTION": "Descrição",
+		"DISCOUNT_AMOUNT": "Valor do desconto",
 		"DR": "Dr.",
 		"EMAIL": "Endereço de e-mail",
 		"EVENT_SUB_TOTAL": "Subtotal do evento",
@@ -82,7 +105,7 @@
 		"FIRST_NAME": "Primeiro nome",
 		"FIXED_FEES": "Fixo",
 		"FROM": "De",
-		"LAST_NAME": "último nome",
+		"LAST_NAME": "Último nome",
 		"MISS": "Senhorita",
 		"MR": "Sr..",
 		"MRS": "Sra.",
@@ -90,10 +113,11 @@
 		"NUMBER_OF_PEOPLE": "Número de pessoas para reservar",
 		"PAYMENT_MESSAGE": "Você será redirecionado para o site do PayPal para completar o seu pagamento e reserva.",
 		"PERCENTAGE_FEES": "Percentagem",
-		"PHONE": "telefone",
+		"PHONE": "Telefone",
 		"REMOVE_MEMBER": "Remover participante",
 		"TAXES_AND_FEES": "Impostos e Taxas",
 		"TITLE": "Título",
-		"TO": "Para"
+		"TO": "Para",
+		"VALIDATE_COUPON": "Validar Cupom"
 	}
 }

@@ -14,24 +14,37 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Неуспешна идентификация",
 		"BAD_LOGIN_OR_PWD": "Неправилно потребителско име или парола",
+		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Този идентификатор на параметър за букиране не е свързан с един от вашите букмейкър елементи!",
+		"COUPON_CODE_INVALID": "Кодът на купона е невалиден",
 		"DIFFERENT_CURRENCIES": "Не можете да резервирате няколко събития, които изискват различни валути за плащане",
 		"MAXIMUM_QUOTA": "Не можете да резервирате повече от {{value}} слота",
 		"MINIMUM_QUOTA": "Трябва да резервирате минимум {{value}} слота",
 		"NO_BOOKABLE_ITEM": "Моля създайте поне едно Събитие в акаунта си в Sagenda!",
 		"NO_TOKEN": "Моля копирайте кода си за автентификация",
-		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Няма достатъчно отвори за броя на членовете, които искате да резервирате."
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Няма достатъчно отвори за броя на членовете, които искате да резервирате.",
+		"PAYMENT_MODULE_NOT_PAID": "Модулът за плащане вече не е активиран, моля, абонирайте се от вашия модулен център!"
 	},
 	"EVENT": {
 		"ALL_DAY": "Цял ден",
-		"DATE": "Дата"
+		"BLOCK": "блок",
+		"BLOCKED": "блокиран",
+		"DATE": "Дата",
+		"STATE_BOOKED": "Резервирано",
+		"STATE_FREE": "Безплатно",
+		"STATE_PARTIALLY_BOOKED": "Частично резервиран",
+		"UNBLOCK": "Отблокиране"
 	},
 	"MESSAGE": {
+		"ARE_YOU_SURE_ACTION_CANT_BE_UNDONE": "Сигурен ли си? Това действие не може да бъде отменено!",
+		"ARE_YOU_SURE_BLOCK_EVENT": "Сигурни ли сте, че искате да блокирате това събитие? Резервацията няма да е възможна, докато не деблокирате събитието.",
+		"COUPON_CODE_VALID": "Код на талона валиден",
 		"DISABLE_MULTIPLE_SELECTION": "Забраняване на множественото избиране",
 		"DONT_HAVE_A_SAGENDA_ACCOUNT": "Нямате профил?",
 		"ENABLE_MULTIPLE_SELECTION": "Разрешаване на множественото избиране",
 		"NO_EVENT": "Няма намерени събития за този период!",
 		"PLEASE_CREATE_ONE_HERE": "Моля, създайте го тук!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Моля въведете валиден имейл адрес!",
+		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "Моля, въведете валиден телефонен номер с международен код на държавата, за да можете да получавате SMS известия.",
 		"PLEASE_LOGIN": "Моля влезте",
 		"PLEASE_SELECT": "Моля изберете...",
 		"VALUE_IS_REQUIRED": "Необходима е стойност!",
@@ -40,6 +53,12 @@
 		"YOU_HAVE_SUCCESSFULLY_BOOKED": "Направихте успешна резервация!",
 		"YOU_WILL_GET_NOTIFICATION": "Скоро ще получите известие чрез СМС."
 	},
+	"MESSAGE_TYPE": {
+		"CONFIRMATION": "потвърждаване",
+		"ERROR": "грешка",
+		"INFO": "информация",
+		"WARNING": "Внимание"
+	},
 	"MULTIPLE": {
 		"CLEAR_SELECTION": "Изчисти избора",
 		"NO_SELECTED_EVENTS": "Няма избрано събитие. Моля натиснете върху индивидуално събитие или изберете от набора със събития за времевия дизапазон.",
@@ -47,6 +66,8 @@
 	},
 	"STANDARD": {
 		"AGENDA": "дневен ред",
+		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Отменете всички резервации за това събитие",
+		"CANCEL_BOOKING": "Отменете тази резервация",
 		"DETAIL": "детайл",
 		"EMAIL_ADDRESS": "Имейл адрес",
 		"EVENT": "събитие",
@@ -57,7 +78,8 @@
 		"MENU": "Меню",
 		"OK": "Добре",
 		"PWD": "парола",
-		"RESERVATION": "резервация"
+		"RESERVATION": "резервация",
+		"RESERVATIONS": "рЕЗЕРВАЦИИ"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Добавяне на член",
@@ -70,6 +92,7 @@
 		"BY_ENTERING_NB_OF_PEOPLE": "Чрез въвеждане на брой хора",
 		"BY_GIVING_ALL_NAMES": "Давайки всички имена",
 		"DESCRIPTION": "Описание",
+		"DISCOUNT_AMOUNT": "Стойност на намалението",
 		"DR": "Д-р",
 		"EMAIL": "Имейл адрес",
 		"EVENT_SUB_TOTAL": "Общо общо събитие",
@@ -94,6 +117,7 @@
 		"REMOVE_MEMBER": "Премахване на член",
 		"TAXES_AND_FEES": "Данъци и такси",
 		"TITLE": "Наименование",
-		"TO": "До"
+		"TO": "До",
+		"VALIDATE_COUPON": "Валидирайте талона"
 	}
 }

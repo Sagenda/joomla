@@ -2,8 +2,8 @@
 	"CALENDAR": {
 		"BOOKABLE_ITEM": "Artículo que se puede reservar",
 		"DAY": "Día(s)",
-		"DESCRIPTION": "Description",
-		"LOCATION": "Location",
+		"DESCRIPTION": "Descripción",
+		"LOCATION": "Ubicación",
 		"MONTH": "Mes",
 		"NAME": "Nombre",
 		"NEXT": "Siguiente",
@@ -14,24 +14,37 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Autenticación fallida",
 		"BAD_LOGIN_OR_PWD": "Nombre de usuario o contraseña incorrecta",
+		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "¡Este identificador de parámetro que se puede reservar no está vinculado con uno de sus elementos reservables!",
+		"COUPON_CODE_INVALID": "Código de cupón no válido",
 		"DIFFERENT_CURRENCIES": "No puede reservar múltiples eventos con diferentes monedas de pago.",
 		"MAXIMUM_QUOTA": "No puedes reservar más de {{value}} ranuras",
 		"MINIMUM_QUOTA": "Debes reservar un mínimo de {{value}} slots",
 		"NO_BOOKABLE_ITEM": "Por favor, crea al menos un elemento reservable en tu cuenta de sagenda!",
 		"NO_TOKEN": "Por favor, copia tu código de autenticación desde tu cuenta Sagenda.",
-		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "No hay suficientes vacantes para la cantidad de particiapntes que ustede desea reservar."
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "No hay suficientes vacantes para la cantidad de particiapntes que ustede desea reservar.",
+		"PAYMENT_MODULE_NOT_PAID": "El módulo de pago ya no está activado, ¡suscríbase desde su centro de módulos!"
 	},
 	"EVENT": {
 		"ALL_DAY": "Todo el día",
-		"DATE": "Fecha"
+		"BLOCK": "Bloquear",
+		"BLOCKED": "obstruido",
+		"DATE": "Fecha",
+		"STATE_BOOKED": "Reservado",
+		"STATE_FREE": "Gratis",
+		"STATE_PARTIALLY_BOOKED": "Parcialmente reservado",
+		"UNBLOCK": "Desatascar"
 	},
 	"MESSAGE": {
+		"ARE_YOU_SURE_ACTION_CANT_BE_UNDONE": "¿Estás seguro? ¡Esta acción no se puede deshacer!",
+		"ARE_YOU_SURE_BLOCK_EVENT": "¿Estás seguro de que deseas bloquear este evento? La reserva no será posible hasta que desbloquee el evento.",
+		"COUPON_CODE_VALID": "Código de cupón válido",
 		"DISABLE_MULTIPLE_SELECTION": "Descartar la selección múltiple",
 		"DONT_HAVE_A_SAGENDA_ACCOUNT": "¿No tienes una cuenta?",
 		"ENABLE_MULTIPLE_SELECTION": "Habilitar la selección múltiple",
 		"NO_EVENT": "No se encontró ningún evento para el período seleccionado.",
 		"PLEASE_CREATE_ONE_HERE": "Por favor crea uno aquí!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "¡Por favor, introduce una dirección de correo electrónico válida!",
+		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "Ingrese un número de teléfono válido con el código internacional del país para poder recibir notificaciones por SMS.",
 		"PLEASE_LOGIN": "Por favor Iniciar sesión",
 		"PLEASE_SELECT": "Por favor selecciona...",
 		"VALUE_IS_REQUIRED": "El campo es obligatorio.",
@@ -40,6 +53,12 @@
 		"YOU_HAVE_SUCCESSFULLY_BOOKED": "¡Ha realizado su reserva!",
 		"YOU_WILL_GET_NOTIFICATION": "Pronto recibirá una notificación por correo electrónico y, opcionalmente, por SMS."
 	},
+	"MESSAGE_TYPE": {
+		"CONFIRMATION": "Confirmación",
+		"ERROR": "Error",
+		"INFO": "Información",
+		"WARNING": "Advertencia"
+	},
 	"MULTIPLE": {
 		"CLEAR_SELECTION": "Limpiar selección",
 		"NO_SELECTED_EVENTS": "Ningún evento ha sido seleccionado. Por favor, haga click en cada evento individualmente o utilice la selección de rango para elegir varios días.",
@@ -47,6 +66,8 @@
 	},
 	"STANDARD": {
 		"AGENDA": "Agenda",
+		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Cancelar todas las reservas para este evento",
+		"CANCEL_BOOKING": "Cancelar esta reserva",
 		"DETAIL": "Detalle",
 		"EMAIL_ADDRESS": "Dirección de correo electrónico",
 		"EVENT": "Evento",
@@ -57,7 +78,8 @@
 		"MENU": "menú",
 		"OK": "De acuerdo",
 		"PWD": "Contraseña",
-		"RESERVATION": "RESERVA"
+		"RESERVATION": "Reserva",
+		"RESERVATIONS": "Reservas"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Agregar participante.",
@@ -70,6 +92,7 @@
 		"BY_ENTERING_NB_OF_PEOPLE": "Introduciendo numero de personas",
 		"BY_GIVING_ALL_NAMES": "Dando todos los nombres",
 		"DESCRIPTION": "Descripción",
+		"DISCOUNT_AMOUNT": "Importe de descuento",
 		"DR": "Doctor",
 		"EMAIL": "Dirección de correo electrónico",
 		"EVENT_SUB_TOTAL": "Subtotal del evento",
@@ -94,6 +117,7 @@
 		"REMOVE_MEMBER": "Remover participante.",
 		"TAXES_AND_FEES": "Impuestos y honorarios",
 		"TITLE": "Título",
-		"TO": "A"
+		"TO": "A",
+		"VALIDATE_COUPON": "Validar cupón"
 	}
 }

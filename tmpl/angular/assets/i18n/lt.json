@@ -5,33 +5,46 @@
 		"DESCRIPTION": "Apibūdinimas",
 		"LOCATION": "Vieta",
 		"MONTH": "Mėnuo",
-		"NAME": "vardas",
+		"NAME": "Vardas",
 		"NEXT": "Kitas",
 		"PREVIOUS": "Ankstesnis",
 		"TODAY": "Šiandien",
-		"WEEK": "savaitę"
+		"WEEK": "Savaitę"
 	},
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Autentifikavimas nepavyko",
 		"BAD_LOGIN_OR_PWD": "Blogas prisijungimo vardas arba slaptažodis",
+		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Šis užsakomas parametro identifikatorius nėra susietas su vienu iš jūsų užsakomų prekių!",
+		"COUPON_CODE_INVALID": "Netinkamas kupono kodas",
 		"DIFFERENT_CURRENCIES": "Jūs negalite užsisakyti kelių įvykių, kuriuose yra skirtingos mokėjimo valiutos.",
 		"MAXIMUM_QUOTA": "Negalite užsisakyti daugiau nei {{value}} laiko tarpsnių",
 		"MINIMUM_QUOTA": "Turite rezervuoti mažiausiai {{value}} laiko tarpsnių",
 		"NO_BOOKABLE_ITEM": "Sukurkite bent vieną rezervuotiną elementą savo „Sagenda“ paskyroje!",
 		"NO_TOKEN": "Nukopijuokite autentifikavimo kodą (tokeną) iš „Sagenda“ paskyros!",
-		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Nėra pakankamai angų, kad galėtumėte rezervuoti narius."
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Nėra pakankamai angų, kad galėtumėte rezervuoti narius.",
+		"PAYMENT_MODULE_NOT_PAID": "Mokėjimo modulis nebeaktyvinamas, prašome užsisakyti iš savo modulio centro!"
 	},
 	"EVENT": {
 		"ALL_DAY": "Visą dieną",
-		"DATE": "Data"
+		"BLOCK": "Blokuoti",
+		"BLOCKED": "Užblokuotas",
+		"DATE": "Data",
+		"STATE_BOOKED": "Užsakyta",
+		"STATE_FREE": "LAISVAS",
+		"STATE_PARTIALLY_BOOKED": "Iš dalies rezervuota",
+		"UNBLOCK": "Atblokuoti"
 	},
 	"MESSAGE": {
+		"ARE_YOU_SURE_ACTION_CANT_BE_UNDONE": "Ar tu tuo tikras? Šis veiksmas negali būti anuliuotas!",
+		"ARE_YOU_SURE_BLOCK_EVENT": "Ar tikrai norite užblokuoti šį įvykį? Rezervuoti nebus galima, kol neatblokuosite įvykio.",
+		"COUPON_CODE_VALID": "Galioja kupono kodas",
 		"DISABLE_MULTIPLE_SELECTION": "Išjungti kelis pasirinkimus",
 		"DONT_HAVE_A_SAGENDA_ACCOUNT": "Ar neturite paskyros?",
 		"ENABLE_MULTIPLE_SELECTION": "Įgalinti kelis pasirinkimus",
 		"NO_EVENT": "Nerasta įvykių per nustatytą laikotarpį!",
 		"PLEASE_CREATE_ONE_HERE": "Prašome čia sukurti!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Prašome įvesti galiojantį elektroninio pašto adresą!",
+		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "Įveskite galiojantį telefono numerį su tarptautiniu šalies kodu, kad galėtumėte gauti SMS pranešimus.",
 		"PLEASE_LOGIN": "Prašome prisijungti",
 		"PLEASE_SELECT": "Prašome pasirinkti...",
 		"VALUE_IS_REQUIRED": "Vertė yra reikalaujama!",
@@ -40,6 +53,12 @@
 		"YOU_HAVE_SUCCESSFULLY_BOOKED": "Jūs sėkmingai užsakėte!",
 		"YOU_WILL_GET_NOTIFICATION": "Netrukus gausite pranešimą elektroniniu paštu ir pasirinktinai SMS žinute."
 	},
+	"MESSAGE_TYPE": {
+		"CONFIRMATION": "Patvirtinimas",
+		"ERROR": "Klaida",
+		"INFO": "Informacija",
+		"WARNING": "Įspėjimas"
+	},
 	"MULTIPLE": {
 		"CLEAR_SELECTION": "Išvalykite pasirinkimą",
 		"NO_SELECTED_EVENTS": "Nėra įvykių. Spustelėkite kiekvieną įvykį atskirai arba naudokite pasirinkimo diapazoną pasirinkdami kelias dienas.",
@@ -47,6 +66,8 @@
 	},
 	"STANDARD": {
 		"AGENDA": "Darbotvarkė",
+		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Atšaukite visas šio įvykio rezervacijas",
+		"CANCEL_BOOKING": "Atšaukti šią rezervaciją",
 		"DETAIL": "Išsami informacija",
 		"EMAIL_ADDRESS": "Elektroninio pašto adresas",
 		"EVENT": "Įvykis",
@@ -57,7 +78,8 @@
 		"MENU": "Meniu",
 		"OK": "Gerai",
 		"PWD": "Slaptažodis",
-		"RESERVATION": "Rezervavimas"
+		"RESERVATION": "Rezervavimas",
+		"RESERVATIONS": "Išlygos"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Pridėti dalyvį",
@@ -70,13 +92,14 @@
 		"BY_ENTERING_NB_OF_PEOPLE": "Įvedus žmonių skaičių",
 		"BY_GIVING_ALL_NAMES": "Pateikdami visus vardus",
 		"DESCRIPTION": "Apibūdinimas",
+		"DISCOUNT_AMOUNT": "Nuolaidos suma",
 		"DR": "Dr.",
 		"EMAIL": "Elektroninio pašto adresas",
 		"EVENT_SUB_TOTAL": "Įvykio suma iš viso",
 		"FEES_FIELD_AMOUNT": "Suma",
 		"FEES_FIELD_CALC_PERCENTAGE_ON": "Apskaičiuokite procentą",
 		"FEES_FIELD_GRAND_TOTAL": "Iš viso",
-		"FEES_FIELD_NAME": "vardas",
+		"FEES_FIELD_NAME": "Vardas",
 		"FEES_FIELD_PERCENTAGE": "Procentai",
 		"FEES_FIELD_SUB_TOTAL": "Iš viso suma",
 		"FIRST_NAME": "Pirmas vardas",
@@ -94,6 +117,7 @@
 		"REMOVE_MEMBER": "Pašalinti dalyvį",
 		"TAXES_AND_FEES": "Mokesčiai ir mokesčiai",
 		"TITLE": "Pavadinimas",
-		"TO": "Į"
+		"TO": "Į",
+		"VALIDATE_COUPON": "Patvirtinkite kuponą"
 	}
 }

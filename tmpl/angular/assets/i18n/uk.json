@@ -14,27 +14,37 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Помилка автентифікації",
 		"BAD_LOGIN_OR_PWD": "Неправильний логін або пароль",
+		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Цей ідентифікатор параметру завантажувального зв’язку не пов'язаний з одним із ваших елементів завантаження!",
+		"COUPON_CODE_INVALID": "Код купона недійсний",
 		"DIFFERENT_CURRENCIES": "Ви не можете забронювати декілька подій, які мають різні валюти оплати.",
 		"MAXIMUM_QUOTA": "Ви не можете забронювати більше ніж {{value}} слотів",
 		"MINIMUM_QUOTA": "Вам потрібно забронювати мінімум {{value}} слотів",
 		"NO_BOOKABLE_ITEM": "Будь ласка, створіть принаймні 1 товар для бронювання в вашому акаунті Sagenda!",
 		"NO_TOKEN": "Будь ласка, скопіюйте ваш код аутентифікації з вашого акаунта Sagenda!",
-		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Недостатньо вільних місць для тієї кількості учасників, на яку ви хотіли б забронювати."
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Недостатньо вільних місць для тієї кількості учасників, на яку ви хотіли б забронювати.",
+		"PAYMENT_MODULE_NOT_PAID": "Платіжний модуль більше не активований, підпишіться у центрі вашого модуля!"
 	},
 	"EVENT": {
 		"ALL_DAY": "Весь день",
+		"BLOCK": "Блок",
+		"BLOCKED": "заблоковано",
 		"DATE": "Дата",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"STATE_BOOKED": "Забронювали",
+		"STATE_FREE": "Безкоштовно",
+		"STATE_PARTIALLY_BOOKED": "Частково забронювали",
+		"UNBLOCK": "розблокувати"
 	},
 	"MESSAGE": {
+		"ARE_YOU_SURE_ACTION_CANT_BE_UNDONE": "Ти впевнений? Цю дію не можна скасувати!",
+		"ARE_YOU_SURE_BLOCK_EVENT": "Ви впевнені, що хочете заблокувати цю подію? Бронювання буде неможливим, доки ви не розблокуєте подію.",
+		"COUPON_CODE_VALID": "Код купона Дійсний",
 		"DISABLE_MULTIPLE_SELECTION": "Відключити множинний вибір",
 		"DONT_HAVE_A_SAGENDA_ACCOUNT": "Не маєте облікового запису?",
 		"ENABLE_MULTIPLE_SELECTION": "Ввімкнути множинний вибір",
 		"NO_EVENT": "На обраний період не знайдено подій!",
 		"PLEASE_CREATE_ONE_HERE": "Будь ласка, створіть його тут!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Будь ласка, введіть дійсну адресу електронної пошти!",
+		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "Введіть дійсний номер телефону з міжнародним кодом країни, щоб мати можливість отримувати SMS-повідомлення.",
 		"PLEASE_LOGIN": "Увійдіть у систему",
 		"PLEASE_SELECT": "Будь ласка, виберіть...",
 		"VALUE_IS_REQUIRED": "Поле обов'язкове!",
@@ -43,6 +53,12 @@
 		"YOU_HAVE_SUCCESSFULLY_BOOKED": "Ви успішно забронювали!",
 		"YOU_WILL_GET_NOTIFICATION": "Незабаром ви отримаєте сповіщення електронною поштою та додатково через SMS."
 	},
+	"MESSAGE_TYPE": {
+		"CONFIRMATION": "підтвердження",
+		"ERROR": "Помилка",
+		"INFO": "інформація",
+		"WARNING": "Увага"
+	},
 	"MULTIPLE": {
 		"CLEAR_SELECTION": "Очистити вибір",
 		"NO_SELECTED_EVENTS": "Події не обрані. Будь ласка, клікніть на кожну подію окремо або використайте вибір діапазона, обираючи декілька днів.",
@@ -50,6 +66,8 @@
 	},
 	"STANDARD": {
 		"AGENDA": "Порядок денний",
+		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Скасуйте всі бронювання на цю подію",
+		"CANCEL_BOOKING": "Скасуйте це бронювання",
 		"DETAIL": "Докладно",
 		"EMAIL_ADDRESS": "Адреса електронної пошти",
 		"EVENT": "Подія",
@@ -60,7 +78,8 @@
 		"MENU": "меню",
 		"OK": "Ок",
 		"PWD": "пароль",
-		"RESERVATION": "Бронювання"
+		"RESERVATION": "Бронювання",
+		"RESERVATIONS": "Бронювання"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Додати учасника",
@@ -73,23 +92,24 @@
 		"BY_ENTERING_NB_OF_PEOPLE": "Вводячи кількість людей",
 		"BY_GIVING_ALL_NAMES": "Називаючи все",
 		"DESCRIPTION": "Опис",
+		"DISCOUNT_AMOUNT": "Сума знижок",
 		"DR": "Доктор",
-		"EMAIL": "Адреса електронної пошти:\n",
+		"EMAIL": "Адреса електронної пошти",
 		"EVENT_SUB_TOTAL": "Загальна кількість подій",
 		"FEES_FIELD_AMOUNT": "Кількість",
 		"FEES_FIELD_CALC_PERCENTAGE_ON": "Розрахувати відсоток на",
 		"FEES_FIELD_GRAND_TOTAL": "Загальна кількість",
 		"FEES_FIELD_NAME": "Ім'я",
 		"FEES_FIELD_PERCENTAGE": "Проценти",
-		"FEES_FIELD_SUB_TOTAL": "Sub Total",
-		"FIRST_NAME": "Ім'я:\n",
+		"FEES_FIELD_SUB_TOTAL": "Підсумковий",
+		"FIRST_NAME": "Ім'я",
 		"FIXED_FEES": "Виправлено",
 		"FROM": "Від",
-		"LAST_NAME": "Прізвище:\n",
-		"MISS": "Міс\n",
-		"MR": "Містер\n",
-		"MRS": "Пані\n",
-		"NOTE": "Примітка:\n",
+		"LAST_NAME": "Прізвище",
+		"MISS": "Міс",
+		"MR": "Містер",
+		"MRS": "Пані",
+		"NOTE": "Примітка",
 		"NUMBER_OF_PEOPLE": "Кількість людей для бронування",
 		"PAYMENT_MESSAGE": "Ви будете перенаправлені на сайт PayPal, щоб завершити оплату і бронювання",
 		"PERCENTAGE_FEES": "Проценти",
@@ -97,6 +117,7 @@
 		"REMOVE_MEMBER": "Видалити учасника",
 		"TAXES_AND_FEES": "Податки та збори",
 		"TITLE": "Назва",
-		"TO": "До"
+		"TO": "До",
+		"VALIDATE_COUPON": "Підтвердьте купон"
 	}
 }

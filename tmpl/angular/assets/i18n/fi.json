@@ -14,28 +14,37 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Todennus epäonnistui",
 		"BAD_LOGIN_OR_PWD": "Huono käyttäjätunnus tai salasana",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
+		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Tätä varattavaa parametritunnistetta ei ole linkitetty yhteen varattavissa olevaan tuotteeseesi!",
+		"COUPON_CODE_INVALID": "Kupongikoodi ei kelpaa",
 		"DIFFERENT_CURRENCIES": "Tapahtumia joilla on eri maksuvaluutat, ei voi varata kerralla.",
 		"MAXIMUM_QUOTA": "Et voi varata enemmän kuin {{value}} aikaväliä",
 		"MINIMUM_QUOTA": "Sinun täytyy varata vähintään {{value}} aikaväliä",
 		"NO_BOOKABLE_ITEM": "Luo ainakin yksi varattava tuote sagenda- tiliisi!",
 		"NO_TOKEN": "Kopioi aktivointikoodi Sagenga- tililtäsi!",
-		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "There are not enough openings for the number of members you would like to book."
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Varaaksesi jäsenmäärälle ei ole tarpeeksi aukkoja.",
+		"PAYMENT_MODULE_NOT_PAID": "Maksumoduulia ei ole enää aktivoitu, tilaa tilauksesi moduulikeskuksesta!"
 	},
 	"EVENT": {
 		"ALL_DAY": "Koko päivä",
+		"BLOCK": "Lohko",
+		"BLOCKED": "Tukossa",
 		"DATE": "Päivämäärä",
-		"STATE_BOOKED": "",
-		"STATE_FREE": "",
-		"STATE_PARTIALLY_BOOKED": ""
+		"STATE_BOOKED": "Varattu",
+		"STATE_FREE": "Vapaa",
+		"STATE_PARTIALLY_BOOKED": "Osittain varattu",
+		"UNBLOCK": "Määritelmät"
 	},
 	"MESSAGE": {
+		"ARE_YOU_SURE_ACTION_CANT_BE_UNDONE": "Oletko varma? Tätä toimintoa ei voi peruuttaa!",
+		"ARE_YOU_SURE_BLOCK_EVENT": "Haluatko varmasti estää tämän tapahtuman? Varaus ei ole mahdollista ennen tapahtuman estämistä.",
+		"COUPON_CODE_VALID": "Kupongin koodi voimassa",
 		"DISABLE_MULTIPLE_SELECTION": "Estä useiden valinta",
 		"DONT_HAVE_A_SAGENDA_ACCOUNT": "Eikö sinulla ole tiliä?",
 		"ENABLE_MULTIPLE_SELECTION": "Salli useiden valinta",
 		"NO_EVENT": "Ei tapahtumia annetulle aikavälille",
 		"PLEASE_CREATE_ONE_HERE": "Luo yksi tästä!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Syötä kelvollinen sähköpostiosoite!",
+		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "Anna kelvollinen puhelinnumero kansainvälisellä maakoodilla, jotta voit saada tekstiviesti-ilmoituksia.",
 		"PLEASE_LOGIN": "Kirjaudu sisään, ole hyvä",
 		"PLEASE_SELECT": "Valitse...",
 		"VALUE_IS_REQUIRED": "Pakollinen tieto!",
@@ -44,6 +53,12 @@
 		"YOU_HAVE_SUCCESSFULLY_BOOKED": "Varaus onnistui!",
 		"YOU_WILL_GET_NOTIFICATION": "Saat pian ilmoituksen sähköpostilla ja vaihtoehtoisesti tekstiviestitse."
 	},
+	"MESSAGE_TYPE": {
+		"CONFIRMATION": "vahvistus",
+		"ERROR": "virhe",
+		"INFO": "Tiedot",
+		"WARNING": "varoitus"
+	},
 	"MULTIPLE": {
 		"CLEAR_SELECTION": "Tyhjennä valinta",
 		"NO_SELECTED_EVENTS": "Tapahtumaa ei ole valittu. Valitse jokainen tapahtuma erikseen tai valitse alku ja loppupäivämäärä.",
@@ -51,6 +66,8 @@
 	},
 	"STANDARD": {
 		"AGENDA": "esityslista",
+		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Peruuta kaikki tämän tapahtuman varaukset",
+		"CANCEL_BOOKING": "Peruuta tämä varaus",
 		"DETAIL": "Yksityiskohta",
 		"EMAIL_ADDRESS": "Sähköpostiosoite",
 		"EVENT": "Tapahtuma",
@@ -61,7 +78,8 @@
 		"MENU": "valikko",
 		"OK": "OK",
 		"PWD": "salasana",
-		"RESERVATION": "Varaus"
+		"RESERVATION": "Varaus",
+		"RESERVATIONS": "Varaukset"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Lisää varaaja",
@@ -74,6 +92,7 @@
 		"BY_ENTERING_NB_OF_PEOPLE": "Syötä ihmisiä",
 		"BY_GIVING_ALL_NAMES": "Antamalla kaikki nimet",
 		"DESCRIPTION": "Lisätietoja",
+		"DISCOUNT_AMOUNT": "Alennuksen määrä",
 		"DR": "Tri",
 		"EMAIL": "Sähköposti",
 		"EVENT_SUB_TOTAL": "Tapahtumien kokonaismäärä",
@@ -91,13 +110,14 @@
 		"MR": "Hra",
 		"MRS": "Rva",
 		"NOTE": "Muistiinpano",
-		"NUMBER_OF_PEOPLE": "Number of people to book under this participant",
+		"NUMBER_OF_PEOPLE": "Varattavien ihmisten lukumäärä",
 		"PAYMENT_MESSAGE": "Sinut ohjataan PayPalin verkkosivustoon suorittamaan maksusi ja varauksesi",
 		"PERCENTAGE_FEES": "prosenttimäärä",
 		"PHONE": "Puhelin",
 		"REMOVE_MEMBER": "Poista varaaja",
 		"TAXES_AND_FEES": "Verot ja maksut",
 		"TITLE": "Otsikko",
-		"TO": "Asti"
+		"TO": "Asti",
+		"VALIDATE_COUPON": "Vahvista kuponki"
 	}
 }

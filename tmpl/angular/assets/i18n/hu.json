@@ -14,24 +14,37 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Sikertelen volt a hitelesítés",
 		"BAD_LOGIN_OR_PWD": "Rossz bejelentkezési név vagy jelszó",
+		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Ez a lefoglalható paraméter-azonosító nem kapcsolódik egyik lefoglalható eleméhez!",
+		"COUPON_CODE_INVALID": "Érvénytelen a kuponkód",
 		"DIFFERENT_CURRENCIES": "Különböző pénznem van megadva az eseményekhez, így nem foglalhatsz egyszerre többet.",
 		"MAXIMUM_QUOTA": "Nem lehet több, mint {{value}} résidőt foglalni",
 		"MINIMUM_QUOTA": "Legalább {{value}} résidőt kell foglalnia",
 		"NO_BOOKABLE_ITEM": "Legalább egy foglalható elemnek léteznie kell!",
 		"NO_TOKEN": "Másold ide az azonosító kódot (tokent) a fiókodból!",
-		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Nincs elegendő nyílás a foglalni kívánt tagok számára."
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Nincs elegendő nyílás a foglalni kívánt tagok számára.",
+		"PAYMENT_MODULE_NOT_PAID": "A fizetési modult már nem aktiválják, kérjük, iratkozzon fel a modulközpontból!"
 	},
 	"EVENT": {
 		"ALL_DAY": "Egész nap",
-		"DATE": "dátum"
+		"BLOCK": "Blokk",
+		"BLOCKED": "Zárolt",
+		"DATE": "Dátum",
+		"STATE_BOOKED": "Foglalt",
+		"STATE_FREE": "Ingyenes",
+		"STATE_PARTIALLY_BOOKED": "Részben lefoglalva",
+		"UNBLOCK": "Tiltásának feloldása"
 	},
 	"MESSAGE": {
+		"ARE_YOU_SURE_ACTION_CANT_BE_UNDONE": "biztos vagy ebben? Ezt a műveletet nem lehet visszavonni!",
+		"ARE_YOU_SURE_BLOCK_EVENT": "Biztos benne, hogy letiltja ezt az eseményt? A foglalás nem lehetséges, amíg nem zárja le az esemény blokkolását.",
+		"COUPON_CODE_VALID": "A kuponkód érvényes",
 		"DISABLE_MULTIPLE_SELECTION": "Többszörös kijelölés tiltása",
 		"DONT_HAVE_A_SAGENDA_ACCOUNT": "Nincs fiókod?",
 		"ENABLE_MULTIPLE_SELECTION": "Többszörös kijelölés engedélyezése",
 		"NO_EVENT": "Nincs esemény az adott időben!",
 		"PLEASE_CREATE_ONE_HERE": "Kérjük, hozzon létre egyet itt!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Adjon meg valódi email címet!",
+		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "Kérjük, adjon meg egy érvényes telefonszámot a nemzetközi országkóddal, hogy SMS-értesítéseket kapjon.",
 		"PLEASE_LOGIN": "Kérjük jelentkezzen be",
 		"PLEASE_SELECT": "Válasszon...",
 		"VALUE_IS_REQUIRED": "Kötelelző mező!",
@@ -40,6 +53,12 @@
 		"YOU_HAVE_SUCCESSFULLY_BOOKED": "A foglalás sikeres!",
 		"YOU_WILL_GET_NOTIFICATION": "Hamarosan emailben kapsz értesítés (esetleg SMS-ben is)."
 	},
+	"MESSAGE_TYPE": {
+		"CONFIRMATION": "Megerősítés",
+		"ERROR": "Hiba",
+		"INFO": "Info",
+		"WARNING": "Figyelem"
+	},
 	"MULTIPLE": {
 		"CLEAR_SELECTION": "Kijelölés megszüntetése",
 		"NO_SELECTED_EVENTS": "Nincs kiválasztott esemény. Kattints egyenként az eseményeken vagy jelölj ki több napot.",
@@ -47,6 +66,8 @@
 	},
 	"STANDARD": {
 		"AGENDA": "Napirend",
+		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Törölje az esemény összes foglalását",
+		"CANCEL_BOOKING": "Törölje ezt a foglalást",
 		"DETAIL": "Részlet",
 		"EMAIL_ADDRESS": "Email cím",
 		"EVENT": "Esemény",
@@ -57,7 +78,8 @@
 		"MENU": "Menü",
 		"OK": "OK",
 		"PWD": "Jelszó",
-		"RESERVATION": "Foglalás"
+		"RESERVATION": "Foglalás",
+		"RESERVATIONS": "Fenntartások"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Résztvevő hozzáadása",
@@ -70,6 +92,7 @@
 		"BY_ENTERING_NB_OF_PEOPLE": "Az emberek számának megadásával",
 		"BY_GIVING_ALL_NAMES": "Az összes nevet megadva",
 		"DESCRIPTION": "Leríás",
+		"DISCOUNT_AMOUNT": "Kedvezmény mértéke",
 		"DR": "Dr.",
 		"EMAIL": "Email cím",
 		"EVENT_SUB_TOTAL": "Esemény részösszeg",
@@ -94,6 +117,7 @@
 		"REMOVE_MEMBER": "Résztvevő eltávolítása",
 		"TAXES_AND_FEES": "Adók és díjak",
 		"TITLE": "Title",
-		"TO": "Eddig"
+		"TO": "Eddig",
+		"VALIDATE_COUPON": "Érvényes kupon"
 	}
 }

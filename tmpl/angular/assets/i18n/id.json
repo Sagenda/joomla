@@ -14,24 +14,37 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Otentikasi gagal",
 		"BAD_LOGIN_OR_PWD": "Login atau kata sandi salah",
+		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Pengidentifikasi parameter yang dapat dipesan ini tidak ditautkan dengan salah satu item yang dapat Anda pesan!",
+		"COUPON_CODE_INVALID": "Kode Kupon Tidak Valid",
 		"DIFFERENT_CURRENCIES": "Anda tidak dapat melakukan reservasi beberapa acara yang mempunyai mata uang pembayaran yang berbeda secara sekaligus",
 		"MAXIMUM_QUOTA": "Anda tidak dapat memesan lebih dari {{value}} slot",
 		"MINIMUM_QUOTA": "Anda harus memesan minimal {{value}} slot",
 		"NO_BOOKABLE_ITEM": "Silahkan buat minimal 1 item reservasi di akun Sagenda mu!",
 		"NO_TOKEN": "Masukkan kode autentikasi (token) dari akun Sagenda mu!",
-		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Tidak ada cukup tempat yang tersedia untuk jumlah anggota yang anda ingin lakukan reservasi"
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Tidak ada cukup tempat yang tersedia untuk jumlah anggota yang anda ingin lakukan reservasi",
+		"PAYMENT_MODULE_NOT_PAID": "Modul pembayaran tidak diaktifkan lagi, silakan berlangganan dari pusat modul Anda!"
 	},
 	"EVENT": {
 		"ALL_DAY": "Seharian",
-		"DATE": "Tanggal"
+		"BLOCK": "Blok",
+		"BLOCKED": "Dicekal",
+		"DATE": "Tanggal",
+		"STATE_BOOKED": "Memesan",
+		"STATE_FREE": "Bebas",
+		"STATE_PARTIALLY_BOOKED": "Sebagian sudah dipesan",
+		"UNBLOCK": "Buka blokir"
 	},
 	"MESSAGE": {
+		"ARE_YOU_SURE_ACTION_CANT_BE_UNDONE": "Apakah kamu yakin Tindakan ini tidak dapat diurungkan!",
+		"ARE_YOU_SURE_BLOCK_EVENT": "Apakah Anda yakin ingin memblokir acara ini? Reservasi tidak akan mungkin sampai Anda membuka blokir acara.",
+		"COUPON_CODE_VALID": "Kode Kupon Berlaku",
 		"DISABLE_MULTIPLE_SELECTION": "Non aktifkan pemilihan multipel",
 		"DONT_HAVE_A_SAGENDA_ACCOUNT": "Belum punya akun?",
 		"ENABLE_MULTIPLE_SELECTION": "Aktifkan pemilihan multipel",
 		"NO_EVENT": "Tidak ada event pada jangka waktu yang dipilih!",
 		"PLEASE_CREATE_ONE_HERE": "Silakan buat satu di sini!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Masukkan alamat email dengan benar!",
+		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "Silakan masukkan nomor telepon yang valid dengan kode negara internasional agar bisa mendapatkan notifikasi SMS.",
 		"PLEASE_LOGIN": "Silahkan masuk",
 		"PLEASE_SELECT": "Silahkan pilih...",
 		"VALUE_IS_REQUIRED": "Dibutuhkan nilai!",
@@ -40,6 +53,12 @@
 		"YOU_HAVE_SUCCESSFULLY_BOOKED": "Reservasi anda telah berhasil!",
 		"YOU_WILL_GET_NOTIFICATION": "Kamu akan menerima pemberitahuan melalui email dan mungkin juga SMS"
 	},
+	"MESSAGE_TYPE": {
+		"CONFIRMATION": "Konfirmasi",
+		"ERROR": "Kesalahan",
+		"INFO": "Info",
+		"WARNING": "Peringatan"
+	},
 	"MULTIPLE": {
 		"CLEAR_SELECTION": "Hapus pilihan",
 		"NO_SELECTED_EVENTS": "Belum ada acara yang dipilih. Silahkan klik setiap acara satu per satu atau gunakan pemilih rentang dengan memilih beberapa hari",
@@ -47,6 +66,8 @@
 	},
 	"STANDARD": {
 		"AGENDA": "Jadwal acara",
+		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Batalkan semua reservasi untuk acara ini",
+		"CANCEL_BOOKING": "Batalkan pemesanan ini",
 		"DETAIL": "Detail",
 		"EMAIL_ADDRESS": "Alamat email",
 		"EVENT": "Peristiwa",
@@ -57,7 +78,8 @@
 		"MENU": "Menu",
 		"OK": "Ya",
 		"PWD": "Kata sandi",
-		"RESERVATION": "Reservasi"
+		"RESERVATION": "Reservasi",
+		"RESERVATIONS": "Pemesanan"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Tambahkan anggota",
@@ -70,6 +92,7 @@
 		"BY_ENTERING_NB_OF_PEOPLE": "Dengan memasukkan jumlah orang",
 		"BY_GIVING_ALL_NAMES": "Dengan memberikan semua nama",
 		"DESCRIPTION": "Penjelasan",
+		"DISCOUNT_AMOUNT": "Jumlah diskon",
 		"DR": "Dr.",
 		"EMAIL": "Alamat email",
 		"EVENT_SUB_TOTAL": "Sub Total Peristiwa",
@@ -87,13 +110,14 @@
 		"MR": "Tn.",
 		"MRS": "Ny.",
 		"NOTE": "Catatan",
-		"NUMBER_OF_PEOPLE": "Number of people to book under this participant",
+		"NUMBER_OF_PEOPLE": "Jumlah orang yang dipesan",
 		"PAYMENT_MESSAGE": "Anda akan dialihkan ke web paypal untuk menyelesaikan pembayaran dan reservasimu",
 		"PERCENTAGE_FEES": "Persentase",
 		"PHONE": "Telepon",
 		"REMOVE_MEMBER": "Keluarkan anggota",
 		"TAXES_AND_FEES": "Pajak dan biaya",
 		"TITLE": "Titel",
-		"TO": "Kepada"
+		"TO": "Kepada",
+		"VALIDATE_COUPON": "Kupon Validasi"
 	}
 }

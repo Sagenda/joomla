@@ -14,25 +14,37 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "المصادقة فشلت",
 		"BAD_LOGIN_OR_PWD": "تسجيل الدخول سيئة أو كلمة المرور",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
+		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "معرف المعلمة القابل للحجز غير مرتبط بأحد العناصر القابلة للحجز!",
+		"COUPON_CODE_INVALID": "رمز القسيمة غير صالح",
 		"DIFFERENT_CURRENCIES": "لا يمكنك حجز العديد من الأحداث التي لها عملات دفع مختلفة.",
 		"MAXIMUM_QUOTA": "لا يمكنك حجز أكثر من {{value}} فتحات",
 		"MINIMUM_QUOTA": "تحتاج إلى حجز ما لا يقل عن {{value}} فتحات",
-		"NO_BOOKABLE_ITEM": "الرجاء إنشاء عنصر قابل للحجز على الأقل في حساب Sagenda الخاص بك!\n",
+		"NO_BOOKABLE_ITEM": "الرجاء إنشاء عنصر قابل للحجز على الأقل في حساب Sagenda الخاص بك!",
 		"NO_TOKEN": "يرجى نسخ رمز التوثيق (توكن) من حساب Sagenda الخاص بك!",
-		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "لا توجد فتحات كافية لعدد الأعضاء الذين ترغب في حجزهم."
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "لا توجد فتحات كافية لعدد الأعضاء الذين ترغب في حجزهم.",
+		"PAYMENT_MODULE_NOT_PAID": "لم تعد وحدة الدفع نشطة ، يرجى الاشتراك من مركز الوحدة الخاص بك!"
 	},
 	"EVENT": {
 		"ALL_DAY": "طوال اليوم",
-		"DATE": "يوم"
+		"BLOCK": "منع",
+		"BLOCKED": "محظور",
+		"DATE": "يوم",
+		"STATE_BOOKED": "حجز",
+		"STATE_FREE": "حر",
+		"STATE_PARTIALLY_BOOKED": "تم الحجز جزئيًا",
+		"UNBLOCK": "رفع الحظر"
 	},
 	"MESSAGE": {
+		"ARE_YOU_SURE_ACTION_CANT_BE_UNDONE": "هل أنت واثق؟ لا يمكن التراجع عن هذا الإجراء!",
+		"ARE_YOU_SURE_BLOCK_EVENT": "هل أنت متأكد أنك تريد منع هذا الحدث؟ لن يكون الحجز ممكنًا حتى تقوم بإلغاء حظر الحدث.",
+		"COUPON_CODE_VALID": "كود الكوبون صالح",
 		"DISABLE_MULTIPLE_SELECTION": "وقف اختيارات متعددة",
 		"DONT_HAVE_A_SAGENDA_ACCOUNT": "ليس لديك حساب؟",
 		"ENABLE_MULTIPLE_SELECTION": "تفعيل اختيارات متعددة",
 		"NO_EVENT": "لم يتم العثور على حدث للفترة المعطاه!",
 		"PLEASE_CREATE_ONE_HERE": "يرجى إنشاء واحد هنا!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "الرجاء قم بإدخال البريد الالكتروني المعتمد!",
+		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "يرجى إدخال رقم هاتف صالح مع رمز البلد الدولي حتى تتمكن من الحصول على إشعارات الرسائل القصيرة.",
 		"PLEASE_LOGIN": "الرجاء تسجيل الدخول",
 		"PLEASE_SELECT": "يرجى الاختيار...",
 		"VALUE_IS_REQUIRED": "مطلوب اضافة قيمة!",
@@ -41,6 +53,12 @@
 		"YOU_HAVE_SUCCESSFULLY_BOOKED": "لقد قمت بالحجز بنجاح!",
 		"YOU_WILL_GET_NOTIFICATION": "ستحصل قريبًا على إشعار عبر البريد الإلكتروني وبشكل اختياري عبر الرسائل القصيرة."
 	},
+	"MESSAGE_TYPE": {
+		"CONFIRMATION": "التأكيد",
+		"ERROR": "خطأ",
+		"INFO": "معلومات",
+		"WARNING": "تحذير"
+	},
 	"MULTIPLE": {
 		"CLEAR_SELECTION": "مسح الاختيارات",
 		"NO_SELECTED_EVENTS": "لم يتم أختيار حدث. يرجى النقر على كل حدث على حدة أو استخدام تحديد النطاق من خلال تحديد عدة أيام.",
@@ -48,6 +66,8 @@
 	},
 	"STANDARD": {
 		"AGENDA": "جدول أعمال",
+		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "إلغاء جميع الحجوزات لهذا الحدث",
+		"CANCEL_BOOKING": "إلغاء هذا الحجز",
 		"DETAIL": "التفاصيل",
 		"EMAIL_ADDRESS": "عنوان بريد الكتروني",
 		"EVENT": "هدف",
@@ -58,7 +78,8 @@
 		"MENU": "قائمة طعام",
 		"OK": "حسناً",
 		"PWD": "كلمه السر",
-		"RESERVATION": "حجز"
+		"RESERVATION": "حجز",
+		"RESERVATIONS": "الحجز"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "إضافة عضو",
@@ -71,6 +92,7 @@
 		"BY_ENTERING_NB_OF_PEOPLE": "عن طريق إدخال عدد من الناس",
 		"BY_GIVING_ALL_NAMES": "من خلال إعطاء جميع الأسماء",
 		"DESCRIPTION": "الوصف",
+		"DISCOUNT_AMOUNT": "مقدار الخصم",
 		"DR": "دكتور.",
 		"EMAIL": "البريد الالكتروني",
 		"EVENT_SUB_TOTAL": "مجموع الأحداث الفرعية",
@@ -95,6 +117,7 @@
 		"REMOVE_MEMBER": "حذف عضو",
 		"TAXES_AND_FEES": "الضرائب والرسوم",
 		"TITLE": "اللقب الوظيفى",
-		"TO": "الى"
+		"TO": "الى",
+		"VALIDATE_COUPON": "التحقق من قسيمة"
 	}
 }

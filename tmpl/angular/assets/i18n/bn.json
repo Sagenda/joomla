@@ -14,24 +14,37 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "প্রমাণীকরণ ব্যর্থ হয়েছে",
 		"BAD_LOGIN_OR_PWD": "খারাপ লগইন বা পাসওয়ার্ড",
+		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "এই বুকিংযোগ্য প্যারামিটার শনাক্তকারী আপনার কোনও বুকিংযোগ্য আইটেমের সাথে লিঙ্কযুক্ত নয়!",
+		"COUPON_CODE_INVALID": "কুপন কোড অবৈধ",
 		"DIFFERENT_CURRENCIES": "আপনি বিভিন্ন পেমেন্ট মুদ্রা আছে একাধিক ইভেন্ট বুক করতে পারবেন না।",
 		"MAXIMUM_QUOTA": "আপনি {{value}} স্লটগুলির চেয়ে বেশি বুক করতে পারবেন না",
 		"MINIMUM_QUOTA": "আপনাকে সর্বনিম্ন {{value}} স্লট বুক করতে হবে",
 		"NO_BOOKABLE_ITEM": "আপনার Sagenda এর অ্যাকাউন্টে কমপক্ষে 1 বুকযোগ্য আইটেম তৈরি করুন!",
 		"NO_TOKEN": "আপনার Sagenda এর অ্যাকাউন্ট থেকে আপনার প্রমাণীকরণ কোড (টোকেন) অনুলিপি করুন!",
-		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "আপনি বুক করতে চান সদস্যদের সংখ্যা জন্য যথেষ্ট খোলা নেই।"
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "আপনি বুক করতে চান সদস্যদের সংখ্যা জন্য যথেষ্ট খোলা নেই।",
+		"PAYMENT_MODULE_NOT_PAID": "পেমেন্ট মডিউলটি আর সক্রিয় করা হয়নি, দয়া করে আপনার মডিউল কেন্দ্র থেকে সাবস্ক্রাইব করুন!"
 	},
 	"EVENT": {
 		"ALL_DAY": "সারাদিন",
-		"DATE": "তারিখ"
+		"BLOCK": "বাধা",
+		"BLOCKED": "অবরুদ্ধ",
+		"DATE": "তারিখ",
+		"STATE_BOOKED": "কাজে ব্যস্ত",
+		"STATE_FREE": "বিনামূল্যে",
+		"STATE_PARTIALLY_BOOKED": "আংশিক বুকড",
+		"UNBLOCK": "অবরোধ মুক্ত"
 	},
 	"MESSAGE": {
+		"ARE_YOU_SURE_ACTION_CANT_BE_UNDONE": "তুমি কি নিশ্চিত? এই ক্রিয়াটি পূর্বাবস্থায় ফেরা যায় না!",
+		"ARE_YOU_SURE_BLOCK_EVENT": "আপনি কি নিশ্চিত যে আপনি এই ইভেন্টটি ব্লক করতে চান? আপনি ইভেন্টটি অবরোধ মুক্ত না করা পর্যন্ত সংরক্ষণ সম্ভব হবে না।",
+		"COUPON_CODE_VALID": "কুপন কোড বৈধ",
 		"DISABLE_MULTIPLE_SELECTION": "একাধিক নির্বাচন নিষ্ক্রিয় করুন",
 		"DONT_HAVE_A_SAGENDA_ACCOUNT": "একটি অ্যাকাউন্ট আছে না?",
 		"ENABLE_MULTIPLE_SELECTION": "একাধিক নির্বাচন সক্রিয় করুন",
 		"NO_EVENT": "প্রদত্ত সময়ের জন্য কোন ঘটনা খুঁজে পাওয়া যায় নি!",
 		"PLEASE_CREATE_ONE_HERE": "এখানে একটি তৈরি করুন দয়া করে!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "একটি বৈধ ইমেইল ঠিকানা লিখুন!",
+		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "এসএমএস বিজ্ঞপ্তি পেতে সক্ষম হতে দয়া করে আন্তর্জাতিক দেশের কোড সহ একটি বৈধ ফোন নম্বর প্রবেশ করুন।",
 		"PLEASE_LOGIN": "দয়া করে লগইন করুন",
 		"PLEASE_SELECT": "অনুগ্রহ করে নির্বাচন করুন...",
 		"VALUE_IS_REQUIRED": "মূল্য প্রয়োজন!",
@@ -40,6 +53,12 @@
 		"YOU_HAVE_SUCCESSFULLY_BOOKED": "আপনি সফলভাবে বুক করেছেন!",
 		"YOU_WILL_GET_NOTIFICATION": "আপনি শীঘ্রই ইমেল দ্বারা এবং বিকল্পভাবে এসএমএস দ্বারা একটি বিজ্ঞপ্তি পাবেন।"
 	},
+	"MESSAGE_TYPE": {
+		"CONFIRMATION": "অনুমোদন",
+		"ERROR": "ত্রুটি",
+		"INFO": "তথ্য",
+		"WARNING": "সতর্কতা"
+	},
 	"MULTIPLE": {
 		"CLEAR_SELECTION": "নির্বাচন সাফ করুন",
 		"NO_SELECTED_EVENTS": "কোন ইভেন্ট নির্বাচিত। প্রতিটি ইভেন্ট পৃথকভাবে ক্লিক করুন অথবা কয়েক দিন নির্বাচন করে পরিসীমা নির্বাচন ব্যবহার করুন।",
@@ -47,6 +66,8 @@
 	},
 	"STANDARD": {
 		"AGENDA": "বিষয়সূচি",
+		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "এই ইভেন্টের জন্য সমস্ত সংরক্ষণ বাতিল করুন",
+		"CANCEL_BOOKING": "এই রিজার্ভেশন বাতিল করুন",
 		"DETAIL": "বিস্তারিত",
 		"EMAIL_ADDRESS": "ইমেল ঠিকানা",
 		"EVENT": "ঘটনা",
@@ -57,7 +78,8 @@
 		"MENU": "মেনু",
 		"OK": "ঠিক আছে",
 		"PWD": "পাসওয়ার্ড",
-		"RESERVATION": "সংরক্ষণ"
+		"RESERVATION": "সংরক্ষণ",
+		"RESERVATIONS": "রিজার্ভেশন"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "অংশগ্রহণকারী যোগ করুন",
@@ -70,6 +92,7 @@
 		"BY_ENTERING_NB_OF_PEOPLE": "মানুষের সংখ্যা প্রবেশ করে",
 		"BY_GIVING_ALL_NAMES": "সব নাম দিয়ে",
 		"DESCRIPTION": "বিবরণ",
+		"DISCOUNT_AMOUNT": "হ্রাসকৃত মুল্য",
 		"DR": "ডাঃ.",
 		"EMAIL": "ইমেল ঠিকানা",
 		"EVENT_SUB_TOTAL": "ইভেন্ট সাব মোট",
@@ -94,6 +117,7 @@
 		"REMOVE_MEMBER": "অংশগ্রহণকারী সরান",
 		"TAXES_AND_FEES": "কর ও মূল্য",
 		"TITLE": "খেতাব",
-		"TO": "থেকে"
+		"TO": "থেকে",
+		"VALIDATE_COUPON": "বৈধতা কুপন"
 	}
 }

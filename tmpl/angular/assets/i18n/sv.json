@@ -14,24 +14,37 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Autentisering misslyckades",
 		"BAD_LOGIN_OR_PWD": "Dålig inloggning eller lösenord",
+		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Den här bokningsbara parameteridentifieraren är inte länkad till en av dina bokningsbara objekt!",
+		"COUPON_CODE_INVALID": "Kupongkoden ogiltig",
 		"DIFFERENT_CURRENCIES": "Du kan inte boka flera evenemanger som har olika betalningsvalutor.",
 		"MAXIMUM_QUOTA": "Du kan inte boka mer än {{value}} slots",
 		"MINIMUM_QUOTA": "Du måste boka minst {{value}} slots",
 		"NO_BOOKABLE_ITEM": "Vänliga välj minst en bokningsbar artikel under din profil!",
 		"NO_TOKEN": "Kopiera autentiseringskoden (token) från din Sagenda konto!",
-		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Det finns inte tillräckligt plats för antalet medlemmar du vill boka."
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Det finns inte tillräckligt plats för antalet medlemmar du vill boka.",
+		"PAYMENT_MODULE_NOT_PAID": "Betalningsmodulen är inte aktiverad längre, prenumerera på ditt modulcenter!"
 	},
 	"EVENT": {
 		"ALL_DAY": "Hela dagen",
-		"DATE": "Datum"
+		"BLOCK": "Blockera",
+		"BLOCKED": "Blockerad",
+		"DATE": "Datum",
+		"STATE_BOOKED": "Bokade",
+		"STATE_FREE": "Fri",
+		"STATE_PARTIALLY_BOOKED": "Delvis bokad",
+		"UNBLOCK": "Häv"
 	},
 	"MESSAGE": {
+		"ARE_YOU_SURE_ACTION_CANT_BE_UNDONE": "Är du säker? Den här åtgärden kan inte ångras!",
+		"ARE_YOU_SURE_BLOCK_EVENT": "Är du säker på att du vill blockera detta evenemang? Det går inte att boka förrän du har blockerat händelsen.",
+		"COUPON_CODE_VALID": "Kupongkod giltig",
 		"DISABLE_MULTIPLE_SELECTION": "Inaktivera flera val",
 		"DONT_HAVE_A_SAGENDA_ACCOUNT": "Har du inget konto?",
 		"ENABLE_MULTIPLE_SELECTION": "Aktivera flera val",
 		"NO_EVENT": "Inga evenemang hittades för den angivna tidsperioden!",
 		"PLEASE_CREATE_ONE_HERE": "Vänligen skapa en här!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Vänligen skriv in en korrekt e-postadress",
+		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "Ange ett giltigt telefonnummer med internationell landskod för att kunna få SMS-aviseringar.",
 		"PLEASE_LOGIN": "Vänligen logga in",
 		"PLEASE_SELECT": "Vänliga välj...",
 		"VALUE_IS_REQUIRED": "Obligatoriskt fält!",
@@ -40,6 +53,12 @@
 		"YOU_HAVE_SUCCESSFULLY_BOOKED": "Du har nu bokat!",
 		"YOU_WILL_GET_NOTIFICATION": "Du kommer snart få en bekräftelse på e-post eller SMS."
 	},
+	"MESSAGE_TYPE": {
+		"CONFIRMATION": "Bekräftelse",
+		"ERROR": "Fel",
+		"INFO": "Info",
+		"WARNING": "Varning"
+	},
 	"MULTIPLE": {
 		"CLEAR_SELECTION": "Rensa val",
 		"NO_SELECTED_EVENTS": "Ingen evenemang vald. Vänligen klicka på varje evenemang individuellt eller använd intervallval genom att välja flera dagar.",
@@ -47,6 +66,8 @@
 	},
 	"STANDARD": {
 		"AGENDA": "Dagordning",
+		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Avbryt alla reservationer för detta evenemang",
+		"CANCEL_BOOKING": "Avbryt denna reservation",
 		"DETAIL": "Detalj",
 		"EMAIL_ADDRESS": "E-postadress",
 		"EVENT": "Händelse",
@@ -57,7 +78,8 @@
 		"MENU": "Meny",
 		"OK": "OK",
 		"PWD": "Lösenord",
-		"RESERVATION": "reservation"
+		"RESERVATION": "Reservation",
+		"RESERVATIONS": "Bokningar"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Lägg till deltagaren",
@@ -70,9 +92,10 @@
 		"BY_ENTERING_NB_OF_PEOPLE": "Genom att ange antal personer",
 		"BY_GIVING_ALL_NAMES": "Genom att ge alla namn",
 		"DESCRIPTION": "Beskrivning",
+		"DISCOUNT_AMOUNT": "Rabattbelopp",
 		"DR": "Dr.",
 		"EMAIL": "E-postadress",
-		"EVENT_SUB_TOTAL": "Event Sub Total",
+		"EVENT_SUB_TOTAL": "Händelses sub totalt",
 		"FEES_FIELD_AMOUNT": "Belopp",
 		"FEES_FIELD_CALC_PERCENTAGE_ON": "Beräkna procentandel på",
 		"FEES_FIELD_GRAND_TOTAL": "Totalsumma",
@@ -94,6 +117,7 @@
 		"REMOVE_MEMBER": "Ta bort deltagaren",
 		"TAXES_AND_FEES": "Skatter och avgifter",
 		"TITLE": "Titel",
-		"TO": "Till"
+		"TO": "Till",
+		"VALIDATE_COUPON": "Validera kupongen"
 	}
 }

@@ -14,24 +14,37 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "인증 실패",
 		"BAD_LOGIN_OR_PWD": "잘못된 로그인 또는 비밀번호",
+		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "이 예약 가능 매개 변수 식별자는 예약 가능한 항목 중 하나와 연결되어 있지 않습니다!",
+		"COUPON_CODE_INVALID": "쿠폰 코드가 유효하지 않습니다",
 		"DIFFERENT_CURRENCIES": "지불 통화가 다른 여러 이벤트를 예약 할 수 없습니다.",
 		"MAXIMUM_QUOTA": " {{value}} 개 이상의 슬롯을 예약 할 수 없습니다.",
 		"MINIMUM_QUOTA": "최소 {{value}} 슬롯을 예약해야합니다.",
 		"NO_BOOKABLE_ITEM": "Sagenda의 계정에 최소 1 개의 예약 가능 항목을 만드십시오!",
 		"NO_TOKEN": "Sagenda의 계정에서 인증 코드 (토큰)를 복사하십시오!",
-		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "예약하고 싶은 회원 수만큼의 출입구가 없습니다."
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "예약하고 싶은 회원 수만큼의 출입구가 없습니다.",
+		"PAYMENT_MODULE_NOT_PAID": "결제 모듈이 더 이상 활성화되지 않았습니다. 모듈 센터에서 구독하십시오!"
 	},
 	"EVENT": {
 		"ALL_DAY": "하루 종일",
-		"DATE": "날짜"
+		"BLOCK": "블록",
+		"BLOCKED": "막힌",
+		"DATE": "날짜",
+		"STATE_BOOKED": "예약 됨",
+		"STATE_FREE": "비어 있는",
+		"STATE_PARTIALLY_BOOKED": "부분적으로 예약",
+		"UNBLOCK": "차단 해제"
 	},
 	"MESSAGE": {
+		"ARE_YOU_SURE_ACTION_CANT_BE_UNDONE": "확실해? 이 작업은 취소 할 수 없습니다!",
+		"ARE_YOU_SURE_BLOCK_EVENT": "이 이벤트를 차단 하시겠습니까? 이벤트 차단을 해제 할 때까지 예약을 할 수 없습니다.",
+		"COUPON_CODE_VALID": "유효한 쿠폰 코드",
 		"DISABLE_MULTIPLE_SELECTION": "다중 선택 사용 안함",
 		"DONT_HAVE_A_SAGENDA_ACCOUNT": "계정이 없습니까?",
 		"ENABLE_MULTIPLE_SELECTION": "다중 선택 사용",
 		"NO_EVENT": "주어진 기간 동안 이벤트가 없습니다!",
 		"PLEASE_CREATE_ONE_HERE": "여기에 하나 만드십시오!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "유효한 이메일 주소를 입력하세요!",
+		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "SMS 알림을 받으려면 국제 국가 코드로 유효한 전화 번호를 입력하십시오.",
 		"PLEASE_LOGIN": "로그인 해주세요",
 		"PLEASE_SELECT": "선택 해주세요...",
 		"VALUE_IS_REQUIRED": "가치가 필요합니다!",
@@ -40,6 +53,12 @@
 		"YOU_HAVE_SUCCESSFULLY_BOOKED": "성공적으로 예약하셨습니다!",
 		"YOU_WILL_GET_NOTIFICATION": "당신은 곧 이메일과 선택적으로 SMS로 통보를 받게 될 것입니다."
 	},
+	"MESSAGE_TYPE": {
+		"CONFIRMATION": "확인",
+		"ERROR": "오류",
+		"INFO": "정보",
+		"WARNING": "경고"
+	},
 	"MULTIPLE": {
 		"CLEAR_SELECTION": "명확한 선택",
 		"NO_SELECTED_EVENTS": "이벤트가 선택되지 않았습니다. 각 이벤트를 개별적으로 클릭하거나 며칠을 선택하여 범위 선택을 사용하십시오.",
@@ -47,6 +66,8 @@
 	},
 	"STANDARD": {
 		"AGENDA": "비망록",
+		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "이 이벤트에 대한 모든 예약을 취소",
+		"CANCEL_BOOKING": "이 예약을 취소",
 		"DETAIL": "세부 묘사",
 		"EMAIL_ADDRESS": "이메일 주소",
 		"EVENT": "행사",
@@ -57,7 +78,8 @@
 		"MENU": "메뉴",
 		"OK": "승인",
 		"PWD": "암호",
-		"RESERVATION": "예약"
+		"RESERVATION": "예약",
+		"RESERVATIONS": "전세"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "참가자 추가",
@@ -70,6 +92,7 @@
 		"BY_ENTERING_NB_OF_PEOPLE": "인원수를 입력하여",
 		"BY_GIVING_ALL_NAMES": "모든 이름을 부여함으로써",
 		"DESCRIPTION": "기술",
+		"DISCOUNT_AMOUNT": "할인 량",
 		"DR": "박사.",
 		"EMAIL": "이메일 주소",
 		"EVENT_SUB_TOTAL": "이벤트 하위 합계 ",
@@ -94,6 +117,7 @@
 		"REMOVE_MEMBER": "참가자 제거",
 		"TAXES_AND_FEES": "세금 및 수수료",
 		"TITLE": "표제",
-		"TO": "에"
+		"TO": "에",
+		"VALIDATE_COUPON": "쿠폰 확인"
 	}
 }

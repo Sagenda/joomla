@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="fr">
+
+<head>
+    <meta charset="utf-8">
+    <title>Sagenda's frontend calendar</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="dx-theme" data-theme="generic.light" href="https://cdn3.devexpress.com/jslib/20.1.3/css/dx.light.css"
+        data-active="true">
+    <link rel="dx-theme" data-theme="generic.dark" href="https://cdn3.devexpress.com/jslib/20.1.3/css/dx.dark.css"
+        data-active="false">
+
+<link rel="stylesheet" href="styles.css"></head>
+
+<body>
+    <!-- Enable bootstrap 4 theme -->
+    <!-- <script>window.__theme = 'bs4';</script>
+<link href="https://toert.github.io/Isolated-Bootstrap/versions/4.0.0-beta/iso_bootstrap4.0.0min.css" rel="stylesheet">
+ -->
+    <div class="bootstap">
+        <!--  <script>window.__theme = 'bs4';</script> -->
+        <!--         <link href="https://toert.github.io/Isolated-Bootstrap/versions/4.0.0-beta/iso_bootstrap4.0.0min.css" rel="stylesheet"> -->
+        <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+ -->
+        <app-root>Sagenda is loading...</app-root>
+
+        <!--    TODO : actual i18n system of Angular4 build a different website pro language, what is not acceptable. We will use this workaround of injecting translations. We will check if  Angular5 introduce a better i18n system.
+// window.sagendaToken = '1a93439dd5d74c3fad6d7b334235f089'; // test & prod
+// window.sagendaToken = 'c8c49993b8814a99bb494a3f2420d277'; // dev
+-->
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" rel="stylesheet">
+        <script>
+            window.sagendaIntegration = 'WordPress';
+            // window.sagendaFixedBookableItem = '5b4655b2f2098d09d037d5e3'; //5b4655b2f2098d09d037d5e3
+            // window.sagendaFixedBookableItem = '5c0c2b95d6b9327ab868cc0b'; //5b4655b2f2098d09d037d5e3
+            window.sagendaDefaultView = 'month'; // month, week, day or agenda
+            window.sagendaRemoveMonthViewButton = 'false'; // false or true
+            window.sagendaRemoveWeekViewButton = 'false'; // false or true
+            window.sagendaRemoveDayViewButton = 'false'; // false or true
+            window.sagendaRemoveAgendaViewButton = 'false'; // false or true 
+
+            window.sagendaToken = 'c8c49993b8814a99bb494a3f2420d277'; // prod david.imboden@iteration.info
+            // window.sagendaToken = '9de8d987520c4a23a88d50046939c683'; // prod testdavid@test.com
+            // window.sagendaToken = 'fd68191903a54aa78b93f760e1992f2e'; // prod testdavid@test.com
+            // window.sagendaToken = 'deeb47882d624375a35c38dc8882132e'; // prod test12@test.com
+            // window.sagendaToken = '7f33b23599e1460084347698c7b4d0db'; // PROD david.imboden@me.com
+            // window.sagendaToken = 'ce573a0d5e754e7ebc47362ca6696955';  // prod p@synergie-consulting.com
+            // window.sagendaToken = '1a93439dd5d74c3fad6d7b334235f089';
+            // window.sagendaToken = 'c8c49993b8814a99bb494a3f2420d277'; // dev david.imboden@iteration.info
+            // window.sagendaToken = '613971f84f5b49fb99f492852a710c1d'; // dev
+            // window.sagendaToken = '4cc305cc1b1a42d590348adc14986c42'; // dev a.v.slesarenko@mail.ru
+            // baseUrl = 'https://sagenda-dev.apphb.com/api/v3/'; // dev
+            // baseUrl = 'https://sagenda-test.apphb.com/api/v3'; // test
+            baseUrl = 'https://sagenda.net/api/v3/'; // PROD//
+            window.sagendaWeekStartsOn = '1';
+            // window.sagendaLanguageCultureShortName = 'es';
+            // window.sagendaLanguageCultureShortName = 'pt_PT';
+            window.sagendaLanguageCultureShortName = 'en';
+            window.sagendaDateFormat = 'DD MMMM YYYY';
+            // window.sagendaDateFormat = 'YYYY-MM-DD';
+            window.sagendaTimeFormat = 'HH:mm';
+            //window.sagendaTimeFormat = 'hh:mm A'; // 'hh:mm A'  or 'HH:mm'
+            window.sagendaAngularPath = './';
+        </script>
+    </div>
+<script src="runtime.js" defer></script><script src="polyfills-es5.js" nomodule defer></script><script src="polyfills.js" defer></script><script src="main.js" defer></script></body>
+
+</html>

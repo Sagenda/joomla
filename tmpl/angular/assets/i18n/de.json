@@ -14,24 +14,37 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Authentifizierung fehlgeschlagen",
 		"BAD_LOGIN_OR_PWD": "Falsches Login oder Passwort",
+		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Diese buchbare Parameter-ID ist nicht mit einem Ihrer buchbaren Artikel verknüpft!",
+		"COUPON_CODE_INVALID": "Gutscheincode ungültig",
 		"DIFFERENT_CURRENCIES": "Sie können nicht mehrere Veranstaltungen mit unterschiedlichen Währungen buchen.",
 		"MAXIMUM_QUOTA": "Sie können nicht mehr als {{value}} Slots buchen",
-		"MINIMUM_QUOTA": "You need to book a minimum of {{value}} slots",
+		"MINIMUM_QUOTA": "Sie müssen mindestens {{value}} Slots buchen",
 		"NO_BOOKABLE_ITEM": "Bitte erstellen Sie mindestens ein buchbares Ereignis in Ihrem Sagenda-Konto!",
 		"NO_TOKEN": "Bitte kopieren Sie Ihren Authentifizierungscode (Token) aus dem Sagenda-Konto!",
-		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Es gibt nicht genügend Plätze für die Anzahl der Teilnehmer, die Sie buchen möchten."
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Es gibt nicht genügend Plätze für die Anzahl der Teilnehmer, die Sie buchen möchten.",
+		"PAYMENT_MODULE_NOT_PAID": "Das Zahlungsmodul ist nicht mehr aktiviert, bitte abonnieren Sie Ihr Modulcenter!"
 	},
 	"EVENT": {
 		"ALL_DAY": "Den ganzen Tag",
-		"DATE": "Datum"
+		"BLOCK": "Blockieren",
+		"BLOCKED": "verstopft",
+		"DATE": "Datum",
+		"STATE_BOOKED": "Gebucht",
+		"STATE_FREE": "Kostenlos",
+		"STATE_PARTIALLY_BOOKED": "teilweise gebucht",
+		"UNBLOCK": "Entsperren"
 	},
 	"MESSAGE": {
+		"ARE_YOU_SURE_ACTION_CANT_BE_UNDONE": "Bist du sicher? Diese Aktion kann nicht rückgängig gemacht werden!",
+		"ARE_YOU_SURE_BLOCK_EVENT": "Möchten Sie dieses Ereignis wirklich blockieren? Eine Reservierung ist erst möglich, wenn Sie die Veranstaltung entsperren.",
+		"COUPON_CODE_VALID": "Gutscheincode gültig",
 		"DISABLE_MULTIPLE_SELECTION": "Mehrfachauswahl deaktivieren",
 		"DONT_HAVE_A_SAGENDA_ACCOUNT": "Ich habe noch kein Konto",
 		"ENABLE_MULTIPLE_SELECTION": "Mehrfachauswahl aktivieren",
 		"NO_EVENT": "Keine Veranstaltung für den angegebenen Zeitraum gefunden!",
 		"PLEASE_CREATE_ONE_HERE": "Bitte erstellen Sie hier einen!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Bitte geben Sie eine gültige E-Mail-Adresse ein!",
+		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "Bitte geben Sie eine gültige Telefonnummer mit internationaler Landesvorwahl ein, um SMS-Benachrichtigungen zu erhalten.",
 		"PLEASE_LOGIN": "Bitte loggen Sie sich ein",
 		"PLEASE_SELECT": "Bitte auswählen...",
 		"VALUE_IS_REQUIRED": "Wert ist erforderlich!",
@@ -40,6 +53,12 @@
 		"YOU_HAVE_SUCCESSFULLY_BOOKED": "Ihre Buchung war erfolgreich!",
 		"YOU_WILL_GET_NOTIFICATION": "Sie werden in Kürze eine Benachrichtigung per E-Mail und optional per SMS erhalten."
 	},
+	"MESSAGE_TYPE": {
+		"CONFIRMATION": "Bestätigung",
+		"ERROR": "Error",
+		"INFO": "Info",
+		"WARNING": "Warnung"
+	},
 	"MULTIPLE": {
 		"CLEAR_SELECTION": "Auswahl aufheben",
 		"NO_SELECTED_EVENTS": "Kein Ereignis ausgewählt. Bitte klicken Sie auf jede Veranstaltung einzeln oder nutzen Sie die Sortimentsauswahl durch Auswahl mehrerer Tage.",
@@ -47,6 +66,8 @@
 	},
 	"STANDARD": {
 		"AGENDA": "Agenda",
+		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Stornieren Sie alle Reservierungen für diese Veranstaltung",
+		"CANCEL_BOOKING": "Stornieren Sie diese Reservierung",
 		"DETAIL": "Detail",
 		"EMAIL_ADDRESS": "E-Mail-Addresse",
 		"EVENT": "Veranstaltung",
@@ -57,7 +78,8 @@
 		"MENU": "Speisekarte",
 		"OK": "OK",
 		"PWD": "Passwort",
-		"RESERVATION": "Reservierung"
+		"RESERVATION": "Reservierung",
+		"RESERVATIONS": "Reservierungen"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Teilnehmer hinzufügen",
@@ -65,22 +87,23 @@
 		"BACK": "Zurück",
 		"BOOK": "Buchen",
 		"BOOKINGS_AND_FIXED_FEES": "Bookings + Fixed fees",
-		"BOOKINGS_ONLY": "Bookings only",
+		"BOOKINGS_ONLY": "Nur Buchungen",
 		"BOOK_MULTIPLE_PEOPLE": "Für mehrere Personen buchen",
 		"BY_ENTERING_NB_OF_PEOPLE": "Durch Eingabe der Personenzahl",
 		"BY_GIVING_ALL_NAMES": "Indem Sie alle Namen angeben",
 		"DESCRIPTION": "Beschreibung",
+		"DISCOUNT_AMOUNT": "Rabattbetrag",
 		"DR": "Dr.",
 		"EMAIL": "E-Mail-Adresse",
-		"EVENT_SUB_TOTAL": "Event Sub Total",
-		"FEES_FIELD_AMOUNT": "Amount",
+		"EVENT_SUB_TOTAL": "Ereignis Zwischensumme",
+		"FEES_FIELD_AMOUNT": "Menge",
 		"FEES_FIELD_CALC_PERCENTAGE_ON": "Prozent berechnen am",
-		"FEES_FIELD_GRAND_TOTAL": "Grand Total",
+		"FEES_FIELD_GRAND_TOTAL": "Gesamtsumme",
 		"FEES_FIELD_NAME": "Name",
-		"FEES_FIELD_PERCENTAGE": "Percentage",
+		"FEES_FIELD_PERCENTAGE": "Prozentsatz",
 		"FEES_FIELD_SUB_TOTAL": "Zwischensumme",
 		"FIRST_NAME": "Vorname",
-		"FIXED_FEES": "Fixed",
+		"FIXED_FEES": "fest",
 		"FROM": "Von",
 		"LAST_NAME": "Nachname",
 		"MISS": "Frau",
@@ -89,11 +112,12 @@
 		"NOTE": "Hinweis",
 		"NUMBER_OF_PEOPLE": "Anzahl der Personen, die unter diesem Teilnehmernamen gebucht werden sollen",
 		"PAYMENT_MESSAGE": "Sie werden auf die Paypal-Website weitergeleitet, um Ihre Zahlung und Buchung abzuschließen.",
-		"PERCENTAGE_FEES": "Percentage",
+		"PERCENTAGE_FEES": "Prozentsatz",
 		"PHONE": "Telefon",
 		"REMOVE_MEMBER": "Teilnehmer entfernen",
-		"TAXES_AND_FEES": "Taxes and Fees",
+		"TAXES_AND_FEES": "Steuern und Gebühren",
 		"TITLE": "Titel",
-		"TO": "An"
+		"TO": "An",
+		"VALIDATE_COUPON": "Gutschein validieren"
 	}
 }

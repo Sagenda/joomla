@@ -14,24 +14,37 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Uthibitishaji umeshindwa",
 		"BAD_LOGIN_OR_PWD": "Ingia sahihi au nenosiri",
+		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Kitambulisho cha parameta inayoweza kuwekewa haijaunganishwa na moja ya kitu chako kisichowezekana!",
+		"COUPON_CODE_INVALID": "Nambari ya Coupon haitumiki",
 		"DIFFERENT_CURRENCIES": "Huwezi kuandika matukio mengi ambayo yana sarafu tofauti za malipo.",
 		"MAXIMUM_QUOTA": "Huwezi kuandika zaidi ya {{value}} slots",
 		"MINIMUM_QUOTA": "Unahitaji kutengeneza kiwango cha chini cha {{value}} ",
 		"NO_BOOKABLE_ITEM": "Tafadhali tengeneza angalau kipengee 1 kilichokoshwa kwenye akaunti yako ya Sagenda!",
 		"NO_TOKEN": "Tafadhali nakala nakala yako ya kuthibitisha (token) kutoka akaunti yako ya Sagenda!",
-		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Hakuna fursa za kutosha kwa idadi ya wanachama ungependa kuandika."
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Hakuna fursa za kutosha kwa idadi ya wanachama ungependa kuandika.",
+		"PAYMENT_MODULE_NOT_PAID": "Moduli ya malipo haijamilishwa tena, tafadhali jiandikishe kutoka kituo chako cha moduli!"
 	},
 	"EVENT": {
 		"ALL_DAY": "Siku nzima",
-		"DATE": "Tarehe"
+		"BLOCK": "Zuia",
+		"BLOCKED": "Imezuiliwa",
+		"DATE": "Tarehe",
+		"STATE_BOOKED": "Imehifadhiwa",
+		"STATE_FREE": "Bure",
+		"STATE_PARTIALLY_BOOKED": "Sehemu imehifadhiwa",
+		"UNBLOCK": "Zuia"
 	},
 	"MESSAGE": {
+		"ARE_YOU_SURE_ACTION_CANT_BE_UNDONE": "Una uhakika? Kitendo hiki hakiwezi kutekelezwa!",
+		"ARE_YOU_SURE_BLOCK_EVENT": "Je! Una uhakika unataka kuzuia tukio hili? Uhifadhi hautawezekana hadi ufungue hafla hiyo.",
+		"COUPON_CODE_VALID": "Nambari ya Coupon Inayotumika",
 		"DISABLE_MULTIPLE_SELECTION": "Zima uteuzi nyingi",
 		"DONT_HAVE_A_SAGENDA_ACCOUNT": "Hauna akaunti?",
 		"ENABLE_MULTIPLE_SELECTION": "Wezesha uteuzi nyingi",
 		"NO_EVENT": "Hakuna tukio lililopatikana kwa kipindi kilichopewa!",
 		"PLEASE_CREATE_ONE_HERE": "Tafadhali fanya moja hapa!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Tafadhali ingiza anwani ya barua pepe halali!",
+		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "Tafadhali weka nambari halali ya simu na nambari ya nchi ya kimataifa ili uweze kupata arifa za SMS.",
 		"PLEASE_LOGIN": "Tafadhali ingia",
 		"PLEASE_SELECT": "Tafadhali chagua...",
 		"VALUE_IS_REQUIRED": "Thamani inahitajika!",
@@ -40,6 +53,12 @@
 		"YOU_HAVE_SUCCESSFULLY_BOOKED": "Umeweka kwa mafanikio!",
 		"YOU_WILL_GET_NOTIFICATION": "Utapata taarifa kwa barua pepe na hiari kwa SMS."
 	},
+	"MESSAGE_TYPE": {
+		"CONFIRMATION": "Uthibitisho",
+		"ERROR": "Kosa",
+		"INFO": "HABARI",
+		"WARNING": "Onyo"
+	},
 	"MULTIPLE": {
 		"CLEAR_SELECTION": "Futa uteuzi",
 		"NO_SELECTED_EVENTS": "Hakuna tukio lililochaguliwa. Tafadhali bonyeza kila tukio moja kwa moja au kutumia uteuzi wa vipindi kwa kuchagua siku kadhaa.",
@@ -47,6 +66,8 @@
 	},
 	"STANDARD": {
 		"AGENDA": "Ajenda",
+		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Ghairi kutoridhishwa kwa tukio hili",
+		"CANCEL_BOOKING": "Ghairi uhifadhi huu",
 		"DETAIL": "Maelezo",
 		"EMAIL_ADDRESS": "Barua pepe",
 		"EVENT": "Tukio",
@@ -55,9 +76,10 @@
 		"LOGIN": "Ingia",
 		"LOGOUT": "Ingia",
 		"MENU": "Menyu",
-		"OK": "sawa",
+		"OK": "Sawa",
 		"PWD": "Nenosiri",
-		"RESERVATION": "Uhifadhi"
+		"RESERVATION": "Uhifadhi",
+		"RESERVATIONS": "Kutoridhishwa"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Ongeza Mshiriki",
@@ -70,6 +92,7 @@
 		"BY_ENTERING_NB_OF_PEOPLE": "Kwa kuingia idadi ya watu",
 		"BY_GIVING_ALL_NAMES": "Kwa kutoa majina yote",
 		"DESCRIPTION": "Maelezo",
+		"DISCOUNT_AMOUNT": "Kiwango cha Punguzo",
 		"DR": "Dk.",
 		"EMAIL": "Barua pepe",
 		"EVENT_SUB_TOTAL": "Jumla ya Tukio la Jumla",
@@ -94,6 +117,7 @@
 		"REMOVE_MEMBER": "Ondoa Mshiriki",
 		"TAXES_AND_FEES": "Kodi na Malipo",
 		"TITLE": "Kichwa",
-		"TO": "Kwa"
+		"TO": "Kwa",
+		"VALIDATE_COUPON": "Kuhakikisha Coupon"
 	}
 }

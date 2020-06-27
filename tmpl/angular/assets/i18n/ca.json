@@ -1,6 +1,6 @@
 {
 	"CALENDAR": {
-		"BOOKABLE_ITEM": "Element reservable",
+		"BOOKABLE_ITEM": "Article per reservar",
 		"DAY": "Dia",
 		"DESCRIPTION": "Descripció",
 		"LOCATION": "Ubicació",
@@ -14,24 +14,37 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "L'autenticació ha fallat",
 		"BAD_LOGIN_OR_PWD": "Entrada o contrasenya incorrecta",
+		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Aquest identificador de paràmetres reservable no està enllaçat amb un element que es pot reservar.",
+		"COUPON_CODE_INVALID": "El codi de cupó no és vàlid",
 		"DIFFERENT_CURRENCIES": "No podeu reservar diversos esdeveniments que tinguin divises de pagament diferents.",
 		"MAXIMUM_QUOTA": "No es poden reservar més de {{value}} ranures",
 		"MINIMUM_QUOTA": "Heu de reservar un mínim de {{value}} ranures",
-		"NO_BOOKABLE_ITEM": "Per favor, crea com a mínim un element reservable al teu compte de sagenda.",
+		"NO_BOOKABLE_ITEM": "Per favor, crea com a mínim un article per reservar al teu compte de sagenda.",
 		"NO_TOKEN": "Copieu el vostre codi d’autenticació (token) del vostre compte de Sagenda.",
-		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "No hi ha prou obertures per al nombre de membres que voleu reservar."
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "No hi ha prou obertures per al nombre de membres que voleu reservar.",
+		"PAYMENT_MODULE_NOT_PAID": "El mòdul de pagament ja no està activat. Subscriviu-vos del vostre centre."
 	},
 	"EVENT": {
 		"ALL_DAY": "Tot el dia",
-		"DATE": "Data"
+		"BLOCK": "Bloc",
+		"BLOCKED": "Bloquejat",
+		"DATE": "Data",
+		"STATE_BOOKED": "reservat",
+		"STATE_FREE": "lliure",
+		"STATE_PARTIALLY_BOOKED": "Reserva parcial",
+		"UNBLOCK": "desbloquejar"
 	},
 	"MESSAGE": {
+		"ARE_YOU_SURE_ACTION_CANT_BE_UNDONE": "Estàs segur? Aquesta acció no es pot desfer!",
+		"ARE_YOU_SURE_BLOCK_EVENT": "Esteu segur que voleu bloquejar aquest esdeveniment? No es podrà fer la reserva fins que no desbloquegeu l’esdeveniment.",
+		"COUPON_CODE_VALID": "Codi de cupó vàlid",
 		"DISABLE_MULTIPLE_SELECTION": "Desactiva la selecció múltiple",
 		"DONT_HAVE_A_SAGENDA_ACCOUNT": "No teniu un compte?",
 		"ENABLE_MULTIPLE_SELECTION": "Activa la selecció múltiple",
 		"NO_EVENT": "No s’ha trobat cap esdeveniment per al període donat.",
 		"PLEASE_CREATE_ONE_HERE": "Si us plau, creeu-ne un aquí!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Per favor, escriu una adreça de correu electrònic correcta.",
+		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "Introduïu un número de telèfon vàlid amb codi de país internacional per poder rebre notificacions per SMS.",
 		"PLEASE_LOGIN": "Si us plau inicieu sessió",
 		"PLEASE_SELECT": "Per favor escull...",
 		"VALUE_IS_REQUIRED": "Un valor és obligatori.",
@@ -40,6 +53,12 @@
 		"YOU_HAVE_SUCCESSFULLY_BOOKED": "T'has subscrit exitosament.",
 		"YOU_WILL_GET_NOTIFICATION": "Aviat rebràs una notificació per correu electrònic i opcionalment per SMS."
 	},
+	"MESSAGE_TYPE": {
+		"CONFIRMATION": "confirmació",
+		"ERROR": "error",
+		"INFO": "Informació",
+		"WARNING": "Avís"
+	},
 	"MULTIPLE": {
 		"CLEAR_SELECTION": "Neteja la selecció",
 		"NO_SELECTED_EVENTS": "No s'ha seleccionat cap esdeveniment. Feu clic a cada esdeveniment de manera individual o utilitzeu la selecció de rang seleccionant diversos dies.",
@@ -47,6 +66,8 @@
 	},
 	"STANDARD": {
 		"AGENDA": "Agenda",
+		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Cancel·la totes les reserves d’aquest esdeveniment",
+		"CANCEL_BOOKING": "Cancel·la aquesta reserva",
 		"DETAIL": "Detall",
 		"EMAIL_ADDRESS": "correu electrònic",
 		"EVENT": "Esdeveniment",
@@ -57,7 +78,8 @@
 		"MENU": "Menú",
 		"OK": "D'acord",
 		"PWD": "contrasenya",
-		"RESERVATION": "Reserva"
+		"RESERVATION": "Reserva",
+		"RESERVATIONS": "Reserves"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Afegeix un participant",
@@ -70,6 +92,7 @@
 		"BY_ENTERING_NB_OF_PEOPLE": "Introduint el nombre de persones",
 		"BY_GIVING_ALL_NAMES": "Donant tots els noms",
 		"DESCRIPTION": "Descripció",
+		"DISCOUNT_AMOUNT": "Import del descompte",
 		"DR": "Dr.",
 		"EMAIL": "Adreça de correu-e",
 		"EVENT_SUB_TOTAL": "Sub total d'esdeveniments",
@@ -94,6 +117,7 @@
 		"REMOVE_MEMBER": "Elimina el participant",
 		"TAXES_AND_FEES": "Impostos i taxes",
 		"TITLE": "Títol",
-		"TO": "A"
+		"TO": "A",
+		"VALIDATE_COUPON": "Validar el cupó"
 	}
 }

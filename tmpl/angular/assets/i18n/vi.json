@@ -14,24 +14,37 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "Quá trình xác thực đã thất bại",
 		"BAD_LOGIN_OR_PWD": "tên đăng nhập hoặc mật khẩu sai",
+		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Mã định danh tham số có thể đặt này không được liên kết với một trong những mục có thể đặt được của bạn!",
+		"COUPON_CODE_INVALID": "Mã phiếu giảm giá không hợp lệ",
 		"DIFFERENT_CURRENCIES": "Bạn không thể đặt nhiều sự kiện có các loại tiền thanh toán khác nhau.",
 		"MAXIMUM_QUOTA": "Bạn không thể đặt nhiều hơn {{value}} vị trí",
 		"MINIMUM_QUOTA": "Bạn cần đặt tối thiểu {{value}} vị trí",
 		"NO_BOOKABLE_ITEM": "Vui lòng tạo ít nhất 1 mục có thể đặt trong tài khoản của Sagenda!",
 		"NO_TOKEN": "Vui lòng sao chép mã xác thực (mã thông báo) từ tài khoản của Sagenda!",
-		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Không có đủ số lượng mở cho số lượng thành viên bạn muốn đặt."
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "Không có đủ số lượng mở cho số lượng thành viên bạn muốn đặt.",
+		"PAYMENT_MODULE_NOT_PAID": "Mô-đun thanh toán không được kích hoạt nữa, vui lòng đăng ký từ trung tâm mô-đun của bạn!"
 	},
 	"EVENT": {
 		"ALL_DAY": "Cả ngày",
-		"DATE": "Ngày"
+		"BLOCK": "Khối",
+		"BLOCKED": "Bắt đầu",
+		"DATE": "Ngày",
+		"STATE_BOOKED": "ĐẶT",
+		"STATE_FREE": "Miễn phí",
+		"STATE_PARTIALLY_BOOKED": "Đặt một phần",
+		"UNBLOCK": "Mở khóa"
 	},
 	"MESSAGE": {
+		"ARE_YOU_SURE_ACTION_CANT_BE_UNDONE": "Bạn có chắc không? Hành động này không thể được hoàn tác!",
+		"ARE_YOU_SURE_BLOCK_EVENT": "Bạn có chắc chắn muốn chặn sự kiện này? Đặt phòng sẽ không thể thực hiện cho đến khi bạn bỏ chặn sự kiện.",
+		"COUPON_CODE_VALID": "Mã phiếu giảm giá hợp lệ",
 		"DISABLE_MULTIPLE_SELECTION": "Vô hiệu hóa nhiều lựa chọn",
 		"DONT_HAVE_A_SAGENDA_ACCOUNT": "Không có tài khoản?",
 		"ENABLE_MULTIPLE_SELECTION": "Cho phép nhiều lựa chọn",
 		"NO_EVENT": "Không tìm thấy sự kiện trong khoảng thời gian nhất định!",
 		"PLEASE_CREATE_ONE_HERE": "Vui lòng tạo một cái ở đây!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Vui lòng nhập một địa chỉ email hợp lệ!",
+		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "Vui lòng nhập số điện thoại hợp lệ với mã quốc gia để có thể nhận thông báo SMS.",
 		"PLEASE_LOGIN": "Xin vui lòng đăng nhập",
 		"PLEASE_SELECT": "Xin hãy lựa chọn...",
 		"VALUE_IS_REQUIRED": "Giá trị là bắt buộc!",
@@ -40,6 +53,12 @@
 		"YOU_HAVE_SUCCESSFULLY_BOOKED": "Bạn đã đặt thành công!",
 		"YOU_WILL_GET_NOTIFICATION": "Bạn sẽ sớm nhận được thông báo qua email và tùy chọn bằng SMS."
 	},
+	"MESSAGE_TYPE": {
+		"CONFIRMATION": "Xác nhận",
+		"ERROR": "lời",
+		"INFO": "Thông tin",
+		"WARNING": "Cảnh báo"
+	},
 	"MULTIPLE": {
 		"CLEAR_SELECTION": "Xóa lựa chọn",
 		"NO_SELECTED_EVENTS": "Không có sự kiện được chọn. Vui lòng nhấp vào từng sự kiện riêng lẻ hoặc sử dụng lựa chọn phạm vi bằng cách chọn vài ngày.",
@@ -47,6 +66,8 @@
 	},
 	"STANDARD": {
 		"AGENDA": "Chương trình nghị sự",
+		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Hủy tất cả các đặt phòng cho sự kiện này",
+		"CANCEL_BOOKING": "Hủy đặt phòng này",
 		"DETAIL": "Chi tiết",
 		"EMAIL_ADDRESS": "Địa chỉ email",
 		"EVENT": "Biến cố",
@@ -57,7 +78,8 @@
 		"MENU": "Thực đơn",
 		"OK": "Được",
 		"PWD": "mật khẩu",
-		"RESERVATION": "Đặt chỗ"
+		"RESERVATION": "Đặt chỗ",
+		"RESERVATIONS": "Đặt phòng"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Thêm người tham gia",
@@ -70,6 +92,7 @@
 		"BY_ENTERING_NB_OF_PEOPLE": "Bằng cách nhập số người",
 		"BY_GIVING_ALL_NAMES": "Bằng cách cho tất cả các tên",
 		"DESCRIPTION": "Sự miêu tả",
+		"DISCOUNT_AMOUNT": "Số tiền chiết khấu",
 		"DR": "Tiến sĩ",
 		"EMAIL": "Địa chỉ email",
 		"EVENT_SUB_TOTAL": "Tổng số sự kiện",
@@ -94,6 +117,7 @@
 		"REMOVE_MEMBER": "Xóa người tham gia",
 		"TAXES_AND_FEES": "Thuế và phí",
 		"TITLE": "Chức vụ",
-		"TO": "Đến"
+		"TO": "Đến",
+		"VALIDATE_COUPON": "Xác thực phiếu giảm giá"
 	}
 }

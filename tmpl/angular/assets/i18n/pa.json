@@ -14,24 +14,37 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "ਪ੍ਰਮਾਣੀਕਰਨ ਅਸਫਲ",
 		"BAD_LOGIN_OR_PWD": "ਗਲਤ ਲਾਗਇਨ ਜਾਂ ਪਾਸਵਰਡ",
+		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "ਇਹ ਬੁੱਕ ਕਰਨ ਯੋਗ ਪੈਰਾਮੀਟਰ ਪਛਾਣਕਰਤਾ ਤੁਹਾਡੀ ਕਿਸੇ ਬੁੱਕ ਕਰਨ ਯੋਗ ਆਈਟਮ ਨਾਲ ਲਿੰਕ ਨਹੀਂ ਹੈ!",
+		"COUPON_CODE_INVALID": "ਕੂਪਨ ਕੋਡ ਅਵੈਧ ਹੈ",
 		"DIFFERENT_CURRENCIES": "ਤੁਸੀਂ ਕਈ ਇਵੈਂਟਸ ਬੁੱਕ ਨਹੀਂ ਕਰ ਸਕਦੇ ਜੋ ਵੱਖਰੇ ਭੁਗਤਾਨ ਮੁਦਰਾਵਾਂ ਹਨ.",
 		"MAXIMUM_QUOTA": "ਤੁਸੀਂ {{value}} ਸਲਾਟ ਤੋਂ ਵੱਧ ਬੁੱਕ ਨਹੀਂ ਕਰ ਸਕਦੇ",
 		"MINIMUM_QUOTA": "ਤੁਹਾਨੂੰ ਘੱਟੋ ਘੱਟ {{value}} ਸਲਾਟ ਬੁੱਕ ਕਰਵਾਉਣ ਦੀ ਜ਼ਰੂਰਤ ਹੈ",
 		"NO_BOOKABLE_ITEM": "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ Sagenda ਖਾਤੇ ਵਿੱਚ ਘੱਟੋ ਘੱਟ 1 ਬੁਕਾਨਾ ਬਣਾਉਣ ਵਾਲੀ ਆਈਟਮ ਬਣਾਉ!",
 		"NO_TOKEN": "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ Sagenda ਖਾਤੇ ਤੋਂ ਆਪਣੀ ਪ੍ਰਮਾਣਿਕਤਾ ਕੋਡ (ਟੋਕਨ) ਕਾਪੀ ਕਰੋ!",
-		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "ਜਿਨ੍ਹਾਂ ਮੈਂਬਰਾਂ ਨੂੰ ਤੁਸੀਂ ਬੁੱਕ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ ਉਹਨਾਂ ਦੀ ਗਿਣਤੀ ਲਈ ਕਾਫ਼ੀ ਖੁੱਲ੍ਹਣ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ"
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "ਜਿਨ੍ਹਾਂ ਮੈਂਬਰਾਂ ਨੂੰ ਤੁਸੀਂ ਬੁੱਕ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ ਉਹਨਾਂ ਦੀ ਗਿਣਤੀ ਲਈ ਕਾਫ਼ੀ ਖੁੱਲ੍ਹਣ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ",
+		"PAYMENT_MODULE_NOT_PAID": "ਭੁਗਤਾਨ ਮੋਡੀ moduleਲ ਹੁਣ ਸਰਗਰਮ ਨਹੀਂ ਹੋਇਆ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਮੋਡੀ moduleਲ ਸੈਂਟਰ ਤੋਂ ਸਬਸਕ੍ਰਾਈਬ ਕਰੋ!"
 	},
 	"EVENT": {
 		"ALL_DAY": "ਸਾਰਾ ਦਿਨ",
-		"DATE": "ਤਾਰੀਖ"
+		"BLOCK": "ਬਲਾਕ",
+		"BLOCKED": "ਬਲੌਕ ਕੀਤਾ",
+		"DATE": "ਤਾਰੀਖ",
+		"STATE_BOOKED": "ਬੁੱਕ ਕੀਤੀ",
+		"STATE_FREE": "ਮੁਫਤ",
+		"STATE_PARTIALLY_BOOKED": "ਅੰਸ਼ਕ ਤੌਰ ਤੇ ਬੁੱਕ ਕੀਤੀ ਗਈ",
+		"UNBLOCK": "ਅਨਬਲੌਕ ਕਰੋ"
 	},
 	"MESSAGE": {
+		"ARE_YOU_SURE_ACTION_CANT_BE_UNDONE": "ਤੁਹਾਨੂੰ ਪੂਰਾ ਵਿਸ਼ਵਾਸ ਹੈ? ਇਸ ਕਿਰਿਆ ਨੂੰ ਵਾਪਸ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ!",
+		"ARE_YOU_SURE_BLOCK_EVENT": "ਕੀ ਤੁਸੀਂ ਪੱਕਾ ਇਸ ਪ੍ਰੋਗਰਾਮ ਨੂੰ ਬਲੌਕ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ? ਰਿਜ਼ਰਵੇਸ਼ਨ ਉਦੋਂ ਤੱਕ ਸੰਭਵ ਨਹੀਂ ਹੋਏਗੀ ਜਦੋਂ ਤੱਕ ਤੁਸੀਂ ਪ੍ਰੋਗਰਾਮ ਨੂੰ ਅਨਬਲੌਕ ਨਹੀਂ ਕਰਦੇ ਹੋ.",
+		"COUPON_CODE_VALID": "ਕੂਪਨ ਕੋਡ",
 		"DISABLE_MULTIPLE_SELECTION": "ਬਹੁ ਚੋਣ ਨੂੰ ਅਯੋਗ ਕਰੋ",
 		"DONT_HAVE_A_SAGENDA_ACCOUNT": "ਕੀ ਖਾਤਾ ਨਹੀਂ ਹੈ?",
 		"ENABLE_MULTIPLE_SELECTION": "ਮਲਟੀਪਲ ਚੋਣ ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ",
 		"NO_EVENT": "ਦਿੱਤੇ ਗਏ ਸਮੇਂ ਲਈ ਕੋਈ ਘਟਨਾ ਨਹੀਂ ਮਿਲੀ!",
 		"PLEASE_CREATE_ONE_HERE": "ਕਿਰਪਾ ਕਰਕੇ ਇੱਥੇ ਇੱਕ ਬਣਾਓ!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "ਇੱਕ ਜਾਇਜ ਈਮੇਲ ਪਤਾ ਦਰਜ ਕਰੋ!",
+		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "ਐਸ ਐਮ ਐਸ ਸੂਚਨਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰਨ ਦੇ ਯੋਗ ਹੋਣ ਲਈ ਕਿਰਪਾ ਕਰਕੇ ਅੰਤਰਰਾਸ਼ਟਰੀ ਦੇਸ਼ ਕੋਡ ਦੇ ਨਾਲ ਇੱਕ ਵੈਧ ਫੋਨ ਨੰਬਰ ਦਾਖਲ ਕਰੋ.",
 		"PLEASE_LOGIN": "ਕਿਰਪਾ ਕਰਕੇ ਲੌਗਇਨ ਕਰੋ",
 		"PLEASE_SELECT": "ਚੁਣੋ ਜੀ ...",
 		"VALUE_IS_REQUIRED": "ਮੁੱਲ ਲੋੜੀਂਦਾ ਹੈ!",
@@ -40,6 +53,12 @@
 		"YOU_HAVE_SUCCESSFULLY_BOOKED": "ਤੁਸੀਂ ਸਫਲਤਾ ਨਾਲ ਰਾਜ਼ੀਨਾਮਾ ਕਰ ਲਿਆ ਹੈ!",
 		"YOU_WILL_GET_NOTIFICATION": "ਤੁਹਾਨੂੰ ਛੇਤੀ ਹੀ ਈਮੇਲ ਦੁਆਰਾ ਅਤੇ ਐਸਐਮਐਸ ਦੁਆਰਾ ਵਿਕਲਪਿਕ ਸੂਚਨਾ ਪ੍ਰਾਪਤ ਹੋਵੇਗੀ."
 	},
+	"MESSAGE_TYPE": {
+		"CONFIRMATION": "ਪੁਸ਼ਟੀ",
+		"ERROR": "ਗਲਤੀ",
+		"INFO": "ਜਾਣਕਾਰੀ",
+		"WARNING": "ਚੇਤਾਵਨੀ"
+	},
 	"MULTIPLE": {
 		"CLEAR_SELECTION": "ਚੋਣ ਸਾਫ਼ ਕਰੋ",
 		"NO_SELECTED_EVENTS": "ਕੋਈ ਇਵੈਂਟ ਚੁਣਿਆ ਨਹੀਂ. ਕਿਰਪਾ ਕਰਕੇ ਹਰੇਕ ਇਵੈਂਟ ਨੂੰ ਵੱਖਰੇ ਤੌਰ 'ਤੇ ਕਲਿਕ ਕਰੋ ਜਾਂ ਕਈ ਦਿਨਾਂ ਦੀ ਚੋਣ ਕਰਕੇ ਸੀਮਾ ਚੋਣ ਦੀ ਵਰਤੋਂ ਕਰੋ.",
@@ -47,6 +66,8 @@
 	},
 	"STANDARD": {
 		"AGENDA": "ਏਜੰਡਾ",
+		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "ਇਸ ਇਵੈਂਟ ਲਈ ਸਾਰੇ ਰਾਖਵੇਂਕਰਨ ਰੱਦ ਕਰੋ",
+		"CANCEL_BOOKING": "ਇਸ ਰਿਜ਼ਰਵੇਸ਼ਨ ਨੂੰ ਰੱਦ ਕਰੋ",
 		"DETAIL": "ਵੇਰਵੇ",
 		"EMAIL_ADDRESS": "ਈਮੇਲ ਖਾਤਾ",
 		"EVENT": "ਘਟਨਾ",
@@ -57,7 +78,8 @@
 		"MENU": "ਮੀਨੂ",
 		"OK": "ਠੀਕ ਹੈ",
 		"PWD": "ਪਾਸਵਰਡ",
-		"RESERVATION": "ਰਿਜ਼ਰਵੇਸ਼ਨ"
+		"RESERVATION": "ਰਿਜ਼ਰਵੇਸ਼ਨ",
+		"RESERVATIONS": "ਰਿਜ਼ਰਵੇਸ਼ਨ"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "ਹਿੱਸਾ ਸ਼ਾਮਲ ਕਰੋ",
@@ -70,6 +92,7 @@
 		"BY_ENTERING_NB_OF_PEOPLE": "ਬਹੁਤ ਸਾਰੇ ਲੋਕ ਦਾਖਲ ਕਰਕੇ",
 		"BY_GIVING_ALL_NAMES": "ਸਾਰੇ ਨਾਂ ਦੇ ਕੇ",
 		"DESCRIPTION": "ਵਰਣਨ",
+		"DISCOUNT_AMOUNT": "ਛੂਟ ਦੀ ਰਕਮ",
 		"DR": "ਡਾ.",
 		"EMAIL": "ਈਮੇਲ ਖਾਤਾ",
 		"EVENT_SUB_TOTAL": "ਇਵੈਂਟ ਸਬ ਕੁੱਲ",
@@ -94,6 +117,7 @@
 		"REMOVE_MEMBER": "ਭਾਗ ਲੈਣ ਵਾਲੇ ਨੂੰ ਹਟਾਓ",
 		"TAXES_AND_FEES": "ਟੈਕਸ ਅਤੇ ਫੀਸ",
 		"TITLE": "ਸਿਰਲੇਖ",
-		"TO": "ਪ੍ਰਤੀ"
+		"TO": "ਪ੍ਰਤੀ",
+		"VALIDATE_COUPON": "ਪ੍ਰਮਾਣਿਕ ਕੂਪਨ"
 	}
 }

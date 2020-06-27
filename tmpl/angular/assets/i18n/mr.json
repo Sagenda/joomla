@@ -14,25 +14,37 @@
 	"ERROR": {
 		"AUTHENTICATION_FAILED": "प्रमाणीकरण अयशस्वी",
 		"BAD_LOGIN_OR_PWD": "खराब लॉगिन किंवा संकेतशब्द",
-		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "",
+		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "हा बुक करण्यायोग्य पॅरामीटर अभिज्ञापक आपल्या एका बुक करण्यायोग्य आयटमशी दुवा साधलेला नाही!",
+		"COUPON_CODE_INVALID": "कूपन कोड अवैध",
 		"DIFFERENT_CURRENCIES": "आपण भिन्न पेमेंट चलन असलेल्या एकाधिक इव्हेंट बुक करू शकत नाही.",
 		"MAXIMUM_QUOTA": "आपण {{value}} पेक्षा अधिक स्लॉट्स बुक करू शकत नाही",
 		"MINIMUM_QUOTA": "आपल्याला किमान {{value}} स्लॉट्स बुक करणे आवश्यक आहे",
 		"NO_BOOKABLE_ITEM": "कृपया आपल्या सॅगेन्डाच्या खात्यात कमीतकमी 1 बुक करण्यायोग्य आयटम तयार करा!",
 		"NO_TOKEN": "कृपया आपल्या सॅगेंडाच्या खात्यातून आपला प्रमाणीकरण कोड (टोकन) कॉपी करा!",
-		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "आपण ज्या सदस्यांकडे पुस्तक वाचू इच्छिता त्यांची संख्या खुली नाही."
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "आपण ज्या सदस्यांकडे पुस्तक वाचू इच्छिता त्यांची संख्या खुली नाही.",
+		"PAYMENT_MODULE_NOT_PAID": "देयक मॉड्यूल यापुढे सक्रिय केलेले नाही, कृपया आपल्या मॉड्यूल केंद्रातून सदस्यता घ्या!"
 	},
 	"EVENT": {
 		"ALL_DAY": "संपूर्ण दिवस",
-		"DATE": "तारीख"
+		"BLOCK": "ब्लॉक करा",
+		"BLOCKED": "अवरोधित",
+		"DATE": "तारीख",
+		"STATE_BOOKED": "बुक केले",
+		"STATE_FREE": "फुकट",
+		"STATE_PARTIALLY_BOOKED": "अर्धवट बुक केले",
+		"UNBLOCK": "अवरोधित करा"
 	},
 	"MESSAGE": {
+		"ARE_YOU_SURE_ACTION_CANT_BE_UNDONE": "तुला खात्री आहे? ही क्रिया पूर्ववत करणे शक्य नाही!",
+		"ARE_YOU_SURE_BLOCK_EVENT": "आपली खात्री आहे की आपण हा कार्यक्रम अवरोधित करू इच्छिता? जोपर्यंत आपण कार्यक्रम रद्द करत नाही तोपर्यंत आरक्षण शक्य होणार नाही.",
+		"COUPON_CODE_VALID": "कूपन कोड वैध",
 		"DISABLE_MULTIPLE_SELECTION": "एकाधिक निवड अक्षम करा",
 		"DONT_HAVE_A_SAGENDA_ACCOUNT": "खाते नाही?",
 		"ENABLE_MULTIPLE_SELECTION": "एकाधिक निवड सक्षम करा",
 		"NO_EVENT": "दिलेल्या कालावधीसाठी कोणताही कार्यक्रम आढळला नाही!",
 		"PLEASE_CREATE_ONE_HERE": "कृपया येथे एक तयार करा!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "कृपया एक वैध ईमेल पत्ता प्रविष्ट करा!",
+		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "एसएमएस सूचना प्राप्त करण्यासाठी कृपया आंतरराष्ट्रीय देश कोडसह एक वैध फोन नंबर प्रविष्ट करा.",
 		"PLEASE_LOGIN": "कृपया लॉगिन करा",
 		"PLEASE_SELECT": "कृपया निवडा...",
 		"VALUE_IS_REQUIRED": "मूल्य आवश्यक आहे!",
@@ -41,6 +53,12 @@
 		"YOU_HAVE_SUCCESSFULLY_BOOKED": "आपण यशस्वीरित्या बुक केले आहे!",
 		"YOU_WILL_GET_NOTIFICATION": "आपल्याला लवकरच ईमेलद्वारे आणि वैकल्पिकरित्या SMS द्वारे अधिसूचना मिळेल."
 	},
+	"MESSAGE_TYPE": {
+		"CONFIRMATION": "पुष्टीकरण",
+		"ERROR": "त्रुटी",
+		"INFO": "माहिती",
+		"WARNING": "चेतावणी"
+	},
 	"MULTIPLE": {
 		"CLEAR_SELECTION": "निवड साफ करा",
 		"NO_SELECTED_EVENTS": "कोणताही कार्यक्रम निवडला नाही. कृपया प्रत्येक इव्हेंटवर वैयक्तिकरित्या क्लिक करा किंवा श्रेणी निवडून अनेक दिवस निवडून वापरा.",
@@ -48,6 +66,8 @@
 	},
 	"STANDARD": {
 		"AGENDA": "अजेंडा",
+		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "या कार्यक्रमासाठी सर्व आरक्षणे रद्द करा",
+		"CANCEL_BOOKING": "हे आरक्षण रद्द करा",
 		"DETAIL": "तपशील",
 		"EMAIL_ADDRESS": "ईमेल पत्ताः",
 		"EVENT": "कार्यक्रम",
@@ -58,7 +78,8 @@
 		"MENU": "मेनू",
 		"OK": "ठीक आहे",
 		"PWD": "पासवर्ड",
-		"RESERVATION": "आरक्षण"
+		"RESERVATION": "आरक्षण",
+		"RESERVATIONS": "आरक्षणे"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "सहभागी जोडा",
@@ -71,19 +92,20 @@
 		"BY_ENTERING_NB_OF_PEOPLE": "लोकांची संख्या प्रविष्ट करून",
 		"BY_GIVING_ALL_NAMES": "सर्व नावे देऊन",
 		"DESCRIPTION": "वर्णनः",
+		"DISCOUNT_AMOUNT": "सवलत रक्कम",
 		"DR": "डॉ.",
 		"EMAIL": "ईमेल पत्ताः",
-		"EVENT_SUB_TOTAL": "कार्यक्रम उप एकूण:",
+		"EVENT_SUB_TOTAL": "कार्यक्रम उप एकूण",
 		"FEES_FIELD_AMOUNT": "रक्कमः",
 		"FEES_FIELD_CALC_PERCENTAGE_ON": "टक्केवारीची गणना करा",
 		"FEES_FIELD_GRAND_TOTAL": "ग्रँड टोटल",
 		"FEES_FIELD_NAME": "नाव",
 		"FEES_FIELD_PERCENTAGE": "टक्केवारी",
 		"FEES_FIELD_SUB_TOTAL": "उप एकूण",
-		"FIRST_NAME": "पहिले नाव:",
+		"FIRST_NAME": "पहिले नाव",
 		"FIXED_FEES": "निश्चित",
-		"FROM": "कडून:",
-		"LAST_NAME": "आडनाव:",
+		"FROM": "कडून",
+		"LAST_NAME": "आडनाव",
 		"MISS": "मिस",
 		"MR": "श्री.",
 		"MRS": "सौ.",
@@ -95,6 +117,7 @@
 		"REMOVE_MEMBER": "सहभागी काढा",
 		"TAXES_AND_FEES": "कर आणि शुल्क",
 		"TITLE": "शीर्षकः",
-		"TO": "प्रतिः"
+		"TO": "प्रतिः",
+		"VALIDATE_COUPON": "प्रमाणित कूपन"
 	}
 }
