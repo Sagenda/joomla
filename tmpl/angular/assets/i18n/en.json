@@ -30,7 +30,7 @@
 		"BLOCKED": "Blocked",
 		"DATE": "Date",
 		"STATE_BOOKED": "Booked",
-		"STATE_FREE": "Free",
+		"STATE_FREE": "Open reservation(s)",
 		"STATE_PARTIALLY_BOOKED": "Partially booked",
 		"UNBLOCK": "Unblock"
 	},
@@ -45,6 +45,7 @@
 		"PLEASE_CREATE_ONE_HERE": "Please create one here!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Please enter a valid email address!",
 		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "Please enter a valid phone number with international country code in order to be able to get SMS notifications.",
+		"PLEASE_INDICATE_READ_AGREE_TERMS_AND_CONDITIONS": "Please indicate that you have read and agree to the Terms and Conditions",
 		"PLEASE_LOGIN": "Please login",
 		"PLEASE_SELECT": "Please select...",
 		"VALUE_IS_REQUIRED": "Value is required!",

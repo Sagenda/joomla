@@ -30,7 +30,7 @@
 		"BLOCKED": "막힌",
 		"DATE": "날짜",
 		"STATE_BOOKED": "예약 됨",
-		"STATE_FREE": "비어 있는",
+		"STATE_FREE": "오픈 예약",
 		"STATE_PARTIALLY_BOOKED": "부분적으로 예약",
 		"UNBLOCK": "차단 해제"
 	},
@@ -45,6 +45,7 @@
 		"PLEASE_CREATE_ONE_HERE": "여기에 하나 만드십시오!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "유효한 이메일 주소를 입력하세요!",
 		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "SMS 알림을 받으려면 국제 국가 코드로 유효한 전화 번호를 입력하십시오.",
+		"PLEASE_INDICATE_READ_AGREE_TERMS_AND_CONDITIONS": "이용 약관을 읽고 동의했음을 표시하십시오.",
 		"PLEASE_LOGIN": "로그인 해주세요",
 		"PLEASE_SELECT": "선택 해주세요...",
 		"VALUE_IS_REQUIRED": "가치가 필요합니다!",

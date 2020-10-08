@@ -30,7 +30,7 @@
 		"BLOCKED": "Zárolt",
 		"DATE": "Dátum",
 		"STATE_BOOKED": "Foglalt",
-		"STATE_FREE": "Ingyenes",
+		"STATE_FREE": "Nyitott foglalás",
 		"STATE_PARTIALLY_BOOKED": "Részben lefoglalva",
 		"UNBLOCK": "Tiltásának feloldása"
 	},
@@ -45,6 +45,7 @@
 		"PLEASE_CREATE_ONE_HERE": "Kérjük, hozzon létre egyet itt!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Adjon meg valódi email címet!",
 		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "Kérjük, adjon meg egy érvényes telefonszámot a nemzetközi országkóddal, hogy SMS-értesítéseket kapjon.",
+		"PLEASE_INDICATE_READ_AGREE_TERMS_AND_CONDITIONS": "Kérjük, jelezze, hogy elolvasta és elfogadja az Általános Szerződési Feltételeket",
 		"PLEASE_LOGIN": "Kérjük jelentkezzen be",
 		"PLEASE_SELECT": "Válasszon...",
 		"VALUE_IS_REQUIRED": "Kötelelző mező!",

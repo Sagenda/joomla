@@ -30,7 +30,7 @@
 		"BLOCKED": "blokeret",
 		"DATE": "Dato",
 		"STATE_BOOKED": "Booket",
-		"STATE_FREE": "Gratis",
+		"STATE_FREE": "Åben reservation(r)",
 		"STATE_PARTIALLY_BOOKED": "Delvis booket",
 		"UNBLOCK": "Fjern blokering"
 	},
@@ -45,6 +45,7 @@
 		"PLEASE_CREATE_ONE_HERE": "Opret en her!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Indtast venligst en gyldig e-mailadresse",
 		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "Indtast et gyldigt telefonnummer med international landekode for at kunne få SMS-underretninger.",
+		"PLEASE_INDICATE_READ_AGREE_TERMS_AND_CONDITIONS": "Angiv venligst, at du har læst og accepterer vilkårene og betingelserne",
 		"PLEASE_LOGIN": "Log venligst ind",
 		"PLEASE_SELECT": "Vælg venligst...",
 		"VALUE_IS_REQUIRED": "Skal udfyldes",

@@ -30,7 +30,7 @@
 		"BLOCKED": "блокиран",
 		"DATE": "Дата",
 		"STATE_BOOKED": "Резервирано",
-		"STATE_FREE": "Безплатно",
+		"STATE_FREE": "Отворена резервация(и)",
 		"STATE_PARTIALLY_BOOKED": "Частично резервиран",
 		"UNBLOCK": "Отблокиране"
 	},
@@ -45,6 +45,7 @@
 		"PLEASE_CREATE_ONE_HERE": "Моля, създайте го тук!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Моля въведете валиден имейл адрес!",
 		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "Моля, въведете валиден телефонен номер с международен код на държавата, за да можете да получавате SMS известия.",
+		"PLEASE_INDICATE_READ_AGREE_TERMS_AND_CONDITIONS": "Моля, посочете, че сте прочели и приемате Общите условия",
 		"PLEASE_LOGIN": "Моля влезте",
 		"PLEASE_SELECT": "Моля изберете...",
 		"VALUE_IS_REQUIRED": "Необходима е стойност!",

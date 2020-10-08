@@ -30,7 +30,7 @@
 		"BLOCKED": "Μπλοκαρισμένο",
 		"DATE": "Ημερομηνία",
 		"STATE_BOOKED": "Έγινε κράτηση",
-		"STATE_FREE": "Δωρεάν",
+		"STATE_FREE": "Άνοιγμα κράτησης",
 		"STATE_PARTIALLY_BOOKED": "Έχει γίνει επιμέρους κράτηση",
 		"UNBLOCK": "Ξεμπλοκάρισμα"
 	},
@@ -45,6 +45,7 @@
 		"PLEASE_CREATE_ONE_HERE": "Παρακαλώ δημιουργείστε ένα εδώ!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Παρακαλώ εισάγετε μια έγκυρη διεύθυνση ηλεκτρονικού ταχυδρομείου!",
 		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "Εισαγάγετε έναν έγκυρο αριθμό τηλεφώνου με διεθνή κωδικό χώρας για να μπορείτε να λαμβάνετε ειδοποιήσεις μέσω SMS.",
+		"PLEASE_INDICATE_READ_AGREE_TERMS_AND_CONDITIONS": "Σημειώστε ότι έχετε διαβάσει και αποδέχεστε τους Όρους και Προϋποθέσεις",
 		"PLEASE_LOGIN": "Συνδεθείτε παρακαλώ",
 		"PLEASE_SELECT": "Παρακαλώ επιλέξτε...",
 		"VALUE_IS_REQUIRED": "Απαιτείται μια τιμή!",

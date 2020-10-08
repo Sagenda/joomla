@@ -30,7 +30,7 @@
 		"BLOCKED": "Tukossa",
 		"DATE": "Päivämäärä",
 		"STATE_BOOKED": "Varattu",
-		"STATE_FREE": "Vapaa",
+		"STATE_FREE": "Avoin varaus",
 		"STATE_PARTIALLY_BOOKED": "Osittain varattu",
 		"UNBLOCK": "Määritelmät"
 	},
@@ -45,6 +45,7 @@
 		"PLEASE_CREATE_ONE_HERE": "Luo yksi tästä!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Syötä kelvollinen sähköpostiosoite!",
 		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "Anna kelvollinen puhelinnumero kansainvälisellä maakoodilla, jotta voit saada tekstiviesti-ilmoituksia.",
+		"PLEASE_INDICATE_READ_AGREE_TERMS_AND_CONDITIONS": "Ilmoita, että olet lukenut ja hyväksynyt käyttöehdot",
 		"PLEASE_LOGIN": "Kirjaudu sisään, ole hyvä",
 		"PLEASE_SELECT": "Valitse...",
 		"VALUE_IS_REQUIRED": "Pakollinen tieto!",

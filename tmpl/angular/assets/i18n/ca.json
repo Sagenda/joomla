@@ -30,7 +30,7 @@
 		"BLOCKED": "Bloquejat",
 		"DATE": "Data",
 		"STATE_BOOKED": "reservat",
-		"STATE_FREE": "lliure",
+		"STATE_FREE": "Reserva oberta(s)",
 		"STATE_PARTIALLY_BOOKED": "Reserva parcial",
 		"UNBLOCK": "desbloquejar"
 	},
@@ -45,6 +45,7 @@
 		"PLEASE_CREATE_ONE_HERE": "Si us plau, creeu-ne un aquí!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Per favor, escriu una adreça de correu electrònic correcta.",
 		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "Introduïu un número de telèfon vàlid amb codi de país internacional per poder rebre notificacions per SMS.",
+		"PLEASE_INDICATE_READ_AGREE_TERMS_AND_CONDITIONS": "Indiqueu que heu llegit i accepteu els Termes i condicions",
 		"PLEASE_LOGIN": "Si us plau inicieu sessió",
 		"PLEASE_SELECT": "Per favor escull...",
 		"VALUE_IS_REQUIRED": "Un valor és obligatori.",

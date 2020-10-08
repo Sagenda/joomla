@@ -30,7 +30,7 @@
 		"BLOCKED": "Imezuiliwa",
 		"DATE": "Tarehe",
 		"STATE_BOOKED": "Imehifadhiwa",
-		"STATE_FREE": "Bure",
+		"STATE_FREE": "Hifadhi wazi(s)",
 		"STATE_PARTIALLY_BOOKED": "Sehemu imehifadhiwa",
 		"UNBLOCK": "Zuia"
 	},
@@ -45,6 +45,7 @@
 		"PLEASE_CREATE_ONE_HERE": "Tafadhali fanya moja hapa!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Tafadhali ingiza anwani ya barua pepe halali!",
 		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "Tafadhali weka nambari halali ya simu na nambari ya nchi ya kimataifa ili uweze kupata arifa za SMS.",
+		"PLEASE_INDICATE_READ_AGREE_TERMS_AND_CONDITIONS": "Tafadhali onyesha kuwa umesoma na unakubali Sheria na Masharti",
 		"PLEASE_LOGIN": "Tafadhali ingia",
 		"PLEASE_SELECT": "Tafadhali chagua...",
 		"VALUE_IS_REQUIRED": "Thamani inahitajika!",

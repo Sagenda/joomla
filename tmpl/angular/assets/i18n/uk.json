@@ -30,7 +30,7 @@
 		"BLOCKED": "заблоковано",
 		"DATE": "Дата",
 		"STATE_BOOKED": "Забронювали",
-		"STATE_FREE": "Безкоштовно",
+		"STATE_FREE": "Відкрити бронювання",
 		"STATE_PARTIALLY_BOOKED": "Частково забронювали",
 		"UNBLOCK": "розблокувати"
 	},
@@ -45,6 +45,7 @@
 		"PLEASE_CREATE_ONE_HERE": "Будь ласка, створіть його тут!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Будь ласка, введіть дійсну адресу електронної пошти!",
 		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "Введіть дійсний номер телефону з міжнародним кодом країни, щоб мати можливість отримувати SMS-повідомлення.",
+		"PLEASE_INDICATE_READ_AGREE_TERMS_AND_CONDITIONS": "Будь ласка, зазначте, що Ви прочитали та приймаєте Загальні положення та умови",
 		"PLEASE_LOGIN": "Увійдіть у систему",
 		"PLEASE_SELECT": "Будь ласка, виберіть...",
 		"VALUE_IS_REQUIRED": "Поле обов'язкове!",

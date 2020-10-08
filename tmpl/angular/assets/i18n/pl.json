@@ -30,7 +30,7 @@
 		"BLOCKED": "Zablokowane",
 		"DATE": "Data",
 		"STATE_BOOKED": "Zarezerwowane",
-		"STATE_FREE": "Wolne",
+		"STATE_FREE": "Otwarta rezerwacja",
 		"STATE_PARTIALLY_BOOKED": "Częściowo zarezerwowane",
 		"UNBLOCK": "Odblokuj"
 	},
@@ -45,6 +45,7 @@
 		"PLEASE_CREATE_ONE_HERE": "Utwórz go tutaj!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Proszę podać poprawny adres e-mail!",
 		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "Wprowadź prawidłowy numer telefonu z międzynarodowym kodem kraju, aby otrzymywać powiadomienia SMS.",
+		"PLEASE_INDICATE_READ_AGREE_TERMS_AND_CONDITIONS": "Zaznacz, że przeczytałeś i zgadzasz się z Regulaminem",
 		"PLEASE_LOGIN": "Proszę się zalogować",
 		"PLEASE_SELECT": "Wybierz ...",
 		"VALUE_IS_REQUIRED": "Wymagane podanie wartości!",

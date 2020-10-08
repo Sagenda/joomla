@@ -30,7 +30,7 @@
 		"BLOCKED": "חסום",
 		"DATE": "תאריך",
 		"STATE_BOOKED": "הוזמן",
-		"STATE_FREE": "חופשי",
+		"STATE_FREE": "הזמנות פתוחות",
 		"STATE_PARTIALLY_BOOKED": "הוזמן חלקית",
 		"UNBLOCK": "בטל את החסימה"
 	},
@@ -45,6 +45,7 @@
 		"PLEASE_CREATE_ONE_HERE": "אנא צור אחד כאן!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "נא לרשום כתובת אימייל תקינה !",
 		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "אנא הזן מספר טלפון חוקי עם קוד מדינה בינלאומי כדי שתוכל לקבל התראות SMS.",
+		"PLEASE_INDICATE_READ_AGREE_TERMS_AND_CONDITIONS": "אנא ציין שקראת את התנאים וההגבלות ומסכים להם",
 		"PLEASE_LOGIN": "אנא התחבר",
 		"PLEASE_SELECT": "נא לבחור...",
 		"VALUE_IS_REQUIRED": "יש צורך לרשום ערך !",

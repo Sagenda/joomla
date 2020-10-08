@@ -30,7 +30,7 @@
 		"BLOCKED": "受阻",
 		"DATE": "日期",
 		"STATE_BOOKED": "预订",
-		"STATE_FREE": "自由",
+		"STATE_FREE": "公开预订",
 		"STATE_PARTIALLY_BOOKED": "部分预定",
 		"UNBLOCK": "解除封锁"
 	},
@@ -45,6 +45,7 @@
 		"PLEASE_CREATE_ONE_HERE": "請在這裡創建一個！",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "請輸入有效的電子郵件地址！",
 		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "请输入带有国际国家代码的有效电话号码，以便能够收到SMS通知。",
+		"PLEASE_INDICATE_READ_AGREE_TERMS_AND_CONDITIONS": "请表明您已阅读并同意条款和条件",
 		"PLEASE_LOGIN": "請登入",
 		"PLEASE_SELECT": "請選擇...",
 		"VALUE_IS_REQUIRED": "請提供資料！",

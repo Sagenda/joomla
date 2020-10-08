@@ -30,7 +30,7 @@
 		"BLOCKED": "బ్లాక్ చేయబడ్డారు",
 		"DATE": "తేదీ",
 		"STATE_BOOKED": "బుక్",
-		"STATE_FREE": "ఉచిత",
+		"STATE_FREE": "ఓపెన్ రిజర్వేషన్(లు)",
 		"STATE_PARTIALLY_BOOKED": "పాక్షికంగా బుక్ చేయబడింది",
 		"UNBLOCK": "అనుమతించు"
 	},
@@ -45,6 +45,7 @@
 		"PLEASE_CREATE_ONE_HERE": "దయచేసి ఇక్కడ ఒకదాన్ని సృష్టించండి!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "దయచేసి చెల్లుబాటు అయ్యే ఇమెయిల్ చిరునామాను నమోదు చేయండి!",
 		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "SMS నోటిఫికేషన్‌లను పొందడానికి అంతర్జాతీయ దేశ కోడ్‌తో చెల్లుబాటు అయ్యే ఫోన్ నంబర్‌ను నమోదు చేయండి.",
+		"PLEASE_INDICATE_READ_AGREE_TERMS_AND_CONDITIONS": "దయచేసి మీరు నిబంధనలు మరియు షరతులను చదివి అంగీకరించారని సూచించండి",
 		"PLEASE_LOGIN": "దయచేసి లాగిన్ చేయండి",
 		"PLEASE_SELECT": "దయచేసి ఎంచుకోండి...",
 		"VALUE_IS_REQUIRED": "విలువ అవసరం!",

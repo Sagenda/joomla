@@ -30,7 +30,7 @@
 		"BLOCKED": "ਬਲੌਕ ਕੀਤਾ",
 		"DATE": "ਤਾਰੀਖ",
 		"STATE_BOOKED": "ਬੁੱਕ ਕੀਤੀ",
-		"STATE_FREE": "ਮੁਫਤ",
+		"STATE_FREE": "ਖੁੱਲਾ ਰਾਖਵਾਂਕਰਨ",
 		"STATE_PARTIALLY_BOOKED": "ਅੰਸ਼ਕ ਤੌਰ ਤੇ ਬੁੱਕ ਕੀਤੀ ਗਈ",
 		"UNBLOCK": "ਅਨਬਲੌਕ ਕਰੋ"
 	},
@@ -45,6 +45,7 @@
 		"PLEASE_CREATE_ONE_HERE": "ਕਿਰਪਾ ਕਰਕੇ ਇੱਥੇ ਇੱਕ ਬਣਾਓ!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "ਇੱਕ ਜਾਇਜ ਈਮੇਲ ਪਤਾ ਦਰਜ ਕਰੋ!",
 		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "ਐਸ ਐਮ ਐਸ ਸੂਚਨਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰਨ ਦੇ ਯੋਗ ਹੋਣ ਲਈ ਕਿਰਪਾ ਕਰਕੇ ਅੰਤਰਰਾਸ਼ਟਰੀ ਦੇਸ਼ ਕੋਡ ਦੇ ਨਾਲ ਇੱਕ ਵੈਧ ਫੋਨ ਨੰਬਰ ਦਾਖਲ ਕਰੋ.",
+		"PLEASE_INDICATE_READ_AGREE_TERMS_AND_CONDITIONS": "ਕਿਰਪਾ ਕਰਕੇ ਦੱਸੋ ਕਿ ਤੁਸੀਂ ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ ਨੂੰ ਪੜ੍ਹ ਲਿਆ ਹੈ ਅਤੇ ਸਹਿਮਤ ਹੋ",
 		"PLEASE_LOGIN": "ਕਿਰਪਾ ਕਰਕੇ ਲੌਗਇਨ ਕਰੋ",
 		"PLEASE_SELECT": "ਚੁਣੋ ਜੀ ...",
 		"VALUE_IS_REQUIRED": "ਮੁੱਲ ਲੋੜੀਂਦਾ ਹੈ!",

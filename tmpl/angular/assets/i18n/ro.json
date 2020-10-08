@@ -30,7 +30,7 @@
 		"BLOCKED": "Blocat",
 		"DATE": "Dată",
 		"STATE_BOOKED": "Rezervat",
-		"STATE_FREE": "Liber",
+		"STATE_FREE": "Deschide rezervare(rezerve)",
 		"STATE_PARTIALLY_BOOKED": "Rezervat parțial",
 		"UNBLOCK": "Deblocați"
 	},
@@ -45,6 +45,7 @@
 		"PLEASE_CREATE_ONE_HERE": "Vă rugăm să creați unul aici!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Vă rugăm să introduceţi o adresă de email validă!",
 		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "Vă rugăm să introduceți un număr de telefon valid cu cod de țară internațional pentru a putea primi notificări prin SMS.",
+		"PLEASE_INDICATE_READ_AGREE_TERMS_AND_CONDITIONS": "Vă rugăm să indicați că ați citit și sunteți de acord cu Termenii și condițiile",
 		"PLEASE_LOGIN": "Va rugam sa va logati",
 		"PLEASE_SELECT": "Te rog alege...",
 		"VALUE_IS_REQUIRED": "Vă rugăm să introduceţi o valoare!",

@@ -30,7 +30,7 @@
 		"BLOCKED": "مسدود",
 		"DATE": "تاریخ",
 		"STATE_BOOKED": "رزرو",
-		"STATE_FREE": "رایگان",
+		"STATE_FREE": "رزرو (های) باز",
 		"STATE_PARTIALLY_BOOKED": "تا حدی رزرو شده",
 		"UNBLOCK": "رفع انسداد"
 	},
@@ -45,6 +45,7 @@
 		"PLEASE_CREATE_ONE_HERE": "لطفا اینجا را اینجا بنویسید",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "لطفا نشانی ایمیل صحیح وارد نمایید",
 		"PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "برای اینکه بتوانید اعلان های پیامکی را دریافت کنید ، یک شماره تلفن معتبر را با کد کشور بین المللی وارد کنید.",
+		"PLEASE_INDICATE_READ_AGREE_TERMS_AND_CONDITIONS": "لطفاً اعلام کنید که شرایط و ضوابط را خوانده و با آنها موافق هستید",
 		"PLEASE_LOGIN": "لطفا وارد شوید",
 		"PLEASE_SELECT": "لطفا انتخاب کنید...",
 		"VALUE_IS_REQUIRED": "وارد کردن مقدار اجباری است!",
