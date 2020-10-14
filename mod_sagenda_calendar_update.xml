@@ -2,6 +2,10 @@
 	<update>
 		<name>Sagenda Calendar</name>
 		<description>This is the lastest version of Sagenda booking calendar.
+= 2.1.1 =
+* FIXED : Compilation problem.
+* FIXED : When displaying calendar in adaptive mode, after a click events are displayed in the center of the screen also for mobile (not in the bottom).
+
 = 2.1.0 =
 * ADDED : Now you can add a "Terms and conditions" checkbox with URL.
 * FIXED : A lot, really a lot.
@@ -38,10 +42,10 @@ Biggest Sagenda update ever.
 		</description>
 		<element>mod_sagenda_calendar</element>
 		<type>module</type>
-		<version>2.1.0</version>
-		<infourl title="Weblinks Extension Package">https://github.com/Sagenda/joomla/releases/tag/2.1.0</infourl>
+		<version>2.1.1</version>
+		<infourl title="Weblinks Extension Package">https://github.com/Sagenda/joomla/releases/tag/2.1.1</infourl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/Sagenda/joomla/archive/2.1.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/Sagenda/joomla/archive/2.1.1.zip</downloadurl>
 		</downloads>
 		<maintainer>Joomla</maintainer>
 		<maintainerurl>https://github.com/Sagenda/joomla/releases</maintainerurl>
