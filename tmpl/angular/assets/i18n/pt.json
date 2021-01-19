@@ -17,6 +17,7 @@
 		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Este identificador de parâmetro que pode ser reservado não está vinculado a um item de reserva!",
 		"COUPON_CODE_INVALID": "Código do cupom inválido",
 		"DIFFERENT_CURRENCIES": "Você não pode reservar vários eventos com moedas de pagamento diferentes.",
+		"EVENT_ALREADY_SELECTED": "Este evento já está selecionado.",
 		"MAXIMUM_QUOTA": "Você não pode reservar mais que {{value}} slots",
 		"MINIMUM_QUOTA": "Você precisa reservar um mínimo de {{value}} slots",
 		"NO_BOOKABLE_ITEM": "Por favor, crie pelo menos 1 item reservado na sua conta Sagenda!",

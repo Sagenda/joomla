@@ -17,6 +17,7 @@
 		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Tento identifikátor parametru, který lze rezervovat, není propojen s žádnou z položek, které lze rezervovat!",
 		"COUPON_CODE_INVALID": "Kód kupónu je neplatný",
 		"DIFFERENT_CURRENCIES": "Nelze rezervovat více událostí, které mají různé platební měny.",
+		"EVENT_ALREADY_SELECTED": "Tato událost je již vybrána.",
 		"MAXIMUM_QUOTA": "Nelze rezervovat více než {{value}} slotů",
 		"MINIMUM_QUOTA": "Musíte si rezervovat minimálně {{value}} slotů",
 		"NO_BOOKABLE_ITEM": "Prosím, založte alespoň jeden objekt k rezervaci ve vašem Sagenda účtu.",

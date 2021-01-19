@@ -17,6 +17,7 @@
 		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Mã định danh tham số có thể đặt này không được liên kết với một trong những mục có thể đặt được của bạn!",
 		"COUPON_CODE_INVALID": "Mã phiếu giảm giá không hợp lệ",
 		"DIFFERENT_CURRENCIES": "Bạn không thể đặt nhiều sự kiện có các loại tiền thanh toán khác nhau.",
+		"EVENT_ALREADY_SELECTED": "Sự kiện này đã được chọn.",
 		"MAXIMUM_QUOTA": "Bạn không thể đặt nhiều hơn {{value}} vị trí",
 		"MINIMUM_QUOTA": "Bạn cần đặt tối thiểu {{value}} vị trí",
 		"NO_BOOKABLE_ITEM": "Vui lòng tạo ít nhất 1 mục có thể đặt trong tài khoản của Sagenda!",

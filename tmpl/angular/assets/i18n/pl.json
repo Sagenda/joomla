@@ -17,6 +17,7 @@
 		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Ten identyfikator rezerwacji nie jest powiązany z żadnym z twoich przedmiotów rezerwacji!",
 		"COUPON_CODE_INVALID": "Niepoprawny kod kuponu",
 		"DIFFERENT_CURRENCIES": "Nie możesz zarezerwować wielu wydarzeń, które mają różne waluty płatności.",
+		"EVENT_ALREADY_SELECTED": "To wydarzenie jest już wybrane.",
 		"MAXIMUM_QUOTA": "Nie możesz zarezerwować więcej niż {{value}}",
 		"MINIMUM_QUOTA": "Musisz zarezerwować minimum {{value}} ",
 		"NO_BOOKABLE_ITEM": "Proszę stworzyć przynajmniej jeden obiekt w Sagenda",

@@ -17,6 +17,7 @@
 		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "이 예약 가능 매개 변수 식별자는 예약 가능한 항목 중 하나와 연결되어 있지 않습니다!",
 		"COUPON_CODE_INVALID": "쿠폰 코드가 유효하지 않습니다",
 		"DIFFERENT_CURRENCIES": "지불 통화가 다른 여러 이벤트를 예약 할 수 없습니다.",
+		"EVENT_ALREADY_SELECTED": "이 이벤트는 이미 선택되었습니다.",
 		"MAXIMUM_QUOTA": " {{value}} 개 이상의 슬롯을 예약 할 수 없습니다.",
 		"MINIMUM_QUOTA": "최소 {{value}} 슬롯을 예약해야합니다.",
 		"NO_BOOKABLE_ITEM": "Sagenda의 계정에 최소 1 개의 예약 가능 항목을 만드십시오!",

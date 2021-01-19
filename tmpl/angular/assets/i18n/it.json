@@ -17,6 +17,7 @@
 		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Questo identificatore di parametro prenotabile non è collegato a uno dei tuoi articoli prenotabili!",
 		"COUPON_CODE_INVALID": "Codice coupon non valido",
 		"DIFFERENT_CURRENCIES": "Ora puoi prenotare più eventi che hanno differenti valute di pagamento.",
+		"EVENT_ALREADY_SELECTED": "Questo evento è già selezionato.",
 		"MAXIMUM_QUOTA": "Non puoi prenotare più di {{value}} slot",
 		"MINIMUM_QUOTA": "Devi prenotare un minimo di {{value}} slot",
 		"NO_BOOKABLE_ITEM": "Crea un elemento prenotabile nel tuo account sagenda!",
@@ -30,7 +31,7 @@
 		"BLOCKED": "Bloccato",
 		"DATE": "Data",
 		"STATE_BOOKED": "prenotato",
-		"STATE_FREE": "Libero",
+		"STATE_FREE": "Prenotazioni aperte",
 		"STATE_PARTIALLY_BOOKED": "Parzialmente prenotato",
 		"UNBLOCK": "Sbloccare"
 	},

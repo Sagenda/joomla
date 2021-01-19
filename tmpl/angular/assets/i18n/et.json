@@ -17,6 +17,7 @@
 		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Seda broneeritavat parameetri identifikaatorit ei seostata ühe teie broneeritava üksusega!",
 		"COUPON_CODE_INVALID": "Coupon Code Invalid",
 		"DIFFERENT_CURRENCIES": "Te ei saa broneerida mitut sündmust, millel on erinevad maksevaluutad.",
+		"EVENT_ALREADY_SELECTED": "See sündmus on juba valitud.",
 		"MAXIMUM_QUOTA": "Te ei saa broneerida rohkem kui {{value}}",
 		"MINIMUM_QUOTA": "Peate broneerima vähemalt {{value}}",
 		"NO_BOOKABLE_ITEM": "Palun looge oma Sagenda kontole vähemalt 1 broneeritav toode!",

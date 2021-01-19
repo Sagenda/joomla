@@ -17,6 +17,7 @@
 		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Šis rezervējamā parametra identifikators nav saistīts ar vienu no jūsu rezervējamiem vienumiem.",
 		"COUPON_CODE_INVALID": "Kupona kods nav derīgs",
 		"DIFFERENT_CURRENCIES": "Jūs nevarat rezervēt vairākus notikumus, kuriem ir dažādas maksājumu valūtas.",
+		"EVENT_ALREADY_SELECTED": "Šis notikums jau ir atlasīts.",
 		"MAXIMUM_QUOTA": "Nevar rezervēt vairāk par {{value}} slotiem",
 		"MINIMUM_QUOTA": "Jārezervē vismaz {{value}} sloti",
 		"NO_BOOKABLE_ITEM": "Lūdzu izveidojiet vismaz 1 rezervējumu objektu Jūsu Sagenda's kontā!",

@@ -17,6 +17,7 @@
 		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "此可预订参数标识符未与您的可预订项之一关联！",
 		"COUPON_CODE_INVALID": "优惠券代码无效",
 		"DIFFERENT_CURRENCIES": "因付款貨幣不同, 您無法同一時間預訂多個活動。",
+		"EVENT_ALREADY_SELECTED": "此事件已被选择。",
 		"MAXIMUM_QUOTA": "您不能預訂超過{{value}}項目/位。",
 		"MINIMUM_QUOTA": "您需要預訂至少{{value}}項目/位。",
 		"NO_BOOKABLE_ITEM": "請在您的Sagenda帳戶中創建至少1個可預訂項目/商品！",

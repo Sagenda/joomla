@@ -17,6 +17,7 @@
 		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Pengidentifikasi parameter yang dapat dipesan ini tidak ditautkan dengan salah satu item yang dapat Anda pesan!",
 		"COUPON_CODE_INVALID": "Kode Kupon Tidak Valid",
 		"DIFFERENT_CURRENCIES": "Anda tidak dapat melakukan reservasi beberapa acara yang mempunyai mata uang pembayaran yang berbeda secara sekaligus",
+		"EVENT_ALREADY_SELECTED": "Acara ini sudah dipilih.",
 		"MAXIMUM_QUOTA": "Anda tidak dapat memesan lebih dari {{value}} slot",
 		"MINIMUM_QUOTA": "Anda harus memesan minimal {{value}} slot",
 		"NO_BOOKABLE_ITEM": "Silahkan buat minimal 1 item reservasi di akun Sagenda mu!",

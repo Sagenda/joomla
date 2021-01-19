@@ -17,6 +17,7 @@
 		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Kitambulisho cha parameta inayoweza kuwekewa haijaunganishwa na moja ya kitu chako kisichowezekana!",
 		"COUPON_CODE_INVALID": "Nambari ya Coupon haitumiki",
 		"DIFFERENT_CURRENCIES": "Huwezi kuandika matukio mengi ambayo yana sarafu tofauti za malipo.",
+		"EVENT_ALREADY_SELECTED": "Tukio hili tayari limechaguliwa.",
 		"MAXIMUM_QUOTA": "Huwezi kuandika zaidi ya {{value}} slots",
 		"MINIMUM_QUOTA": "Unahitaji kutengeneza kiwango cha chini cha {{value}} ",
 		"NO_BOOKABLE_ITEM": "Tafadhali tengeneza angalau kipengee 1 kilichokoshwa kwenye akaunti yako ya Sagenda!",

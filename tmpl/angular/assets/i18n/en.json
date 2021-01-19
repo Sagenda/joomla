@@ -17,6 +17,7 @@
 		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "This bookable parameter identifier isn't linked with one of your bookable item!",
 		"COUPON_CODE_INVALID": "Coupon Code Invalid",
 		"DIFFERENT_CURRENCIES": "You can not book multiple events that have different payment currencies.",
+		"EVENT_ALREADY_SELECTED": "This event is already selected.",
 		"MAXIMUM_QUOTA": "You can't book more than {{value}} slots",
 		"MINIMUM_QUOTA": "You need to book a minimum of {{value}} slots",
 		"NO_BOOKABLE_ITEM": "Please create at least 1 bookable item in your Sagenda's account!",

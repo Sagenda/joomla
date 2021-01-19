@@ -17,6 +17,7 @@
 		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "זיהוי פרמטר זה ניתן לספירה לא מקושר לאחד מהפריטים הניתנים לספירה!",
 		"COUPON_CODE_INVALID": "קוד השובר לא חוקי",
 		"DIFFERENT_CURRENCIES": "לא ניתן להירשם למספר אירועים אשר נבדלים בסוג המטבע",
+		"EVENT_ALREADY_SELECTED": "אירוע זה כבר נבחר.",
 		"MAXIMUM_QUOTA": "לא ניתן להזמין יותר מחריצים {{value}}",
 		"MINIMUM_QUOTA": "עליך להזמין מינימום {{value}} משבצות",
 		"NO_BOOKABLE_ITEM": "נא ליצור מוצר רישום אחד לפחות בחשבון Sagenda שלך !",

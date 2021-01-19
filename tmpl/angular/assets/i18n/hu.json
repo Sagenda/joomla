@@ -17,6 +17,7 @@
 		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Ez a lefoglalható paraméter-azonosító nem kapcsolódik egyik lefoglalható eleméhez!",
 		"COUPON_CODE_INVALID": "Érvénytelen a kuponkód",
 		"DIFFERENT_CURRENCIES": "Különböző pénznem van megadva az eseményekhez, így nem foglalhatsz egyszerre többet.",
+		"EVENT_ALREADY_SELECTED": "Ez az esemény már ki van jelölve.",
 		"MAXIMUM_QUOTA": "Nem lehet több, mint {{value}} résidőt foglalni",
 		"MINIMUM_QUOTA": "Legalább {{value}} résidőt kell foglalnia",
 		"NO_BOOKABLE_ITEM": "Legalább egy foglalható elemnek léteznie kell!",

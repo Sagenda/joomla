@@ -17,6 +17,7 @@
 		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "この予約可能なパラメータ識別子は、予約可能なアイテムの1つにリンクされていません！",
 		"COUPON_CODE_INVALID": "クーポンコードが無効です",
 		"DIFFERENT_CURRENCIES": "支払い通貨が異なる複数のイベントを予約することはできません。",
+		"EVENT_ALREADY_SELECTED": "このイベントはすでに選択されています。",
 		"MAXIMUM_QUOTA": " {{value}} スロットを超えて予約することはできません",
 		"MINIMUM_QUOTA": "最低 {{value}} スロットを予約する必要があります",
 		"NO_BOOKABLE_ITEM": "予約可能アイテムを少なくともひとつは登録する必要があります。",

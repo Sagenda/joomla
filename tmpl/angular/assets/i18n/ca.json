@@ -17,6 +17,7 @@
 		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Aquest identificador de paràmetres reservable no està enllaçat amb un element que es pot reservar.",
 		"COUPON_CODE_INVALID": "El codi de cupó no és vàlid",
 		"DIFFERENT_CURRENCIES": "No podeu reservar diversos esdeveniments que tinguin divises de pagament diferents.",
+		"EVENT_ALREADY_SELECTED": "Aquest esdeveniment ja està seleccionat.",
 		"MAXIMUM_QUOTA": "No es poden reservar més de {{value}} ranures",
 		"MINIMUM_QUOTA": "Heu de reservar un mínim de {{value}} ranures",
 		"NO_BOOKABLE_ITEM": "Per favor, crea com a mínim un article per reservar al teu compte de sagenda.",

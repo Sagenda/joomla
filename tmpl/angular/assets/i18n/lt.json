@@ -17,6 +17,7 @@
 		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Šis užsakomas parametro identifikatorius nėra susietas su vienu iš jūsų užsakomų prekių!",
 		"COUPON_CODE_INVALID": "Netinkamas kupono kodas",
 		"DIFFERENT_CURRENCIES": "Jūs negalite užsisakyti kelių įvykių, kuriuose yra skirtingos mokėjimo valiutos.",
+		"EVENT_ALREADY_SELECTED": "Šis įvykis jau pasirinktas.",
 		"MAXIMUM_QUOTA": "Negalite užsisakyti daugiau nei {{value}} laiko tarpsnių",
 		"MINIMUM_QUOTA": "Turite rezervuoti mažiausiai {{value}} laiko tarpsnių",
 		"NO_BOOKABLE_ITEM": "Sukurkite bent vieną rezervuotiną elementą savo „Sagenda“ paskyroje!",

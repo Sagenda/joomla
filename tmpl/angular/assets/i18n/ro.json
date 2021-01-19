@@ -17,6 +17,7 @@
 		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Acest identificator de parametru rezervabil nu este asociat cu unul dintre elementele dvs. rezervabile!",
 		"COUPON_CODE_INVALID": "Codul promoțional este nevalid",
 		"DIFFERENT_CURRENCIES": "Acum poti face rezervare pentru mai multe evenimente, fiecare cu plata intr-o valută diferită.",
+		"EVENT_ALREADY_SELECTED": "Acest eveniment este deja selectat.",
 		"MAXIMUM_QUOTA": "Nu puteți rezerva mai mult de {{value}} sloturi",
 		"MINIMUM_QUOTA": "Trebuie să rezervați minimum {{value}} sloturi",
 		"NO_BOOKABLE_ITEM": "Te rog crează cel putin un item pentru care se pot face rezervări in contul tău de Sagenda!",

@@ -17,6 +17,7 @@
 		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Deze boekbare parameter-ID is niet gekoppeld aan een van uw boekbare items!",
 		"COUPON_CODE_INVALID": "Couponcode ongeldig",
 		"DIFFERENT_CURRENCIES": "U kunt niet meerdere evenementen boeken die verschillende betalingsvaluta's hebben.",
+		"EVENT_ALREADY_SELECTED": "Dit evenement is al geselecteerd.",
 		"MAXIMUM_QUOTA": "U kunt niet meer dan {{value}} slots reserveren",
 		"MINIMUM_QUOTA": "U moet minimaal {{value}} slots reserveren",
 		"NO_BOOKABLE_ITEM": "Maak alstublieft een boekbaar item aan in het account van je Sagenda!",

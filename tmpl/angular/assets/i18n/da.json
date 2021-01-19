@@ -17,6 +17,7 @@
 		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Denne identificerbare parameteridentifikation er ikke knyttet til en af dit reserverbare element!",
 		"COUPON_CODE_INVALID": "Kuponkode ugyldig",
 		"DIFFERENT_CURRENCIES": "Du kan ikke booke flere begivenheder, der betales med forskellige valuta.",
+		"EVENT_ALREADY_SELECTED": "Denne begivenhed er allerede valgt.",
 		"MAXIMUM_QUOTA": "Du kan maksimalt lave {{value}} bookinger",
 		"MINIMUM_QUOTA": "Du skal lave minimum {{value}} bookinger",
 		"NO_BOOKABLE_ITEM": "Opret venligst mindst 1 bookable item i din Sagenda konto",

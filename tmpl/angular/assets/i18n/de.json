@@ -17,6 +17,7 @@
 		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Diese buchbare Parameter-ID ist nicht mit einem Ihrer buchbaren Artikel verknüpft!",
 		"COUPON_CODE_INVALID": "Gutscheincode ungültig",
 		"DIFFERENT_CURRENCIES": "Sie können nicht mehrere Veranstaltungen mit unterschiedlichen Währungen buchen.",
+		"EVENT_ALREADY_SELECTED": "Dieses Ereignis ist bereits ausgewählt.",
 		"MAXIMUM_QUOTA": "Sie können nicht mehr als {{value}} Slots buchen",
 		"MINIMUM_QUOTA": "Sie müssen mindestens {{value}} Slots buchen",
 		"NO_BOOKABLE_ITEM": "Bitte erstellen Sie mindestens ein buchbares Ereignis in Ihrem Sagenda-Konto!",

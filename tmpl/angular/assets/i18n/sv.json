@@ -17,6 +17,7 @@
 		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Den här bokningsbara parameteridentifieraren är inte länkad till en av dina bokningsbara objekt!",
 		"COUPON_CODE_INVALID": "Kupongkoden ogiltig",
 		"DIFFERENT_CURRENCIES": "Du kan inte boka flera evenemanger som har olika betalningsvalutor.",
+		"EVENT_ALREADY_SELECTED": "Denna händelse är redan vald.",
 		"MAXIMUM_QUOTA": "Du kan inte boka mer än {{value}} slots",
 		"MINIMUM_QUOTA": "Du måste boka minst {{value}} slots",
 		"NO_BOOKABLE_ITEM": "Vänliga välj minst en bokningsbar artikel under din profil!",

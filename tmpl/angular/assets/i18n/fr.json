@@ -17,6 +17,7 @@
 		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Cet identifiant de paramètre réservable n'est pas lié à un de vos éléments réservables !",
 		"COUPON_CODE_INVALID": "Code de coupon non valable",
 		"DIFFERENT_CURRENCIES": "Vous ne pouvez pas réserver plusieurs événements ayant différentes monnaies de paiement.",
+		"EVENT_ALREADY_SELECTED": "Cet événement est déjà sélectionné.",
 		"MAXIMUM_QUOTA": "Vous ne pouvez pas réserver plus de {{value}} créneaux",
 		"MINIMUM_QUOTA": "Vous devez réserver un minimum de {{value}} créneaux",
 		"NO_BOOKABLE_ITEM": "Merci de créer au moins un élément réservable dans votre compte Sagenda!",
@@ -30,7 +31,7 @@
 		"BLOCKED": "Bloqué",
 		"DATE": "Date",
 		"STATE_BOOKED": "Réservé",
-		"STATE_FREE": "Libre",
+		"STATE_FREE": "Réservation(s) ouverte(s)",
 		"STATE_PARTIALLY_BOOKED": "Partiellement réservé",
 		"UNBLOCK": "Débloquer"
 	},

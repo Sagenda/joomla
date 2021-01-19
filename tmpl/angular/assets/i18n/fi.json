@@ -17,6 +17,7 @@
 		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Tätä varattavaa parametritunnistetta ei ole linkitetty yhteen varattavissa olevaan tuotteeseesi!",
 		"COUPON_CODE_INVALID": "Kupongikoodi ei kelpaa",
 		"DIFFERENT_CURRENCIES": "Tapahtumia joilla on eri maksuvaluutat, ei voi varata kerralla.",
+		"EVENT_ALREADY_SELECTED": "Tämä tapahtuma on jo valittu.",
 		"MAXIMUM_QUOTA": "Et voi varata enemmän kuin {{value}} aikaväliä",
 		"MINIMUM_QUOTA": "Sinun täytyy varata vähintään {{value}} aikaväliä",
 		"NO_BOOKABLE_ITEM": "Luo ainakin yksi varattava tuote sagenda- tiliisi!",

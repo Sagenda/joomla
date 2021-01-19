@@ -17,6 +17,7 @@
 		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Ky identifikues i prerjes së parametrave nuk është i lidhur me një nga artikujt tuaj të prenotueshëm!",
 		"COUPON_CODE_INVALID": "Kodi i kuponit është i pavlefshëm",
 		"DIFFERENT_CURRENCIES": "Ju nuk mund të rezervoni ngjarje të shumta që kanë monedha të ndryshme të pagesave.",
+		"EVENT_ALREADY_SELECTED": "Kjo ngjarje është zgjedhur tashmë.",
 		"MAXIMUM_QUOTA": "Ju nuk mund të rezervoni më shumë se {{value}} lojëra elektronike",
 		"MINIMUM_QUOTA": "Ju duhet të rezervoni një minimum prej {{value}} lojëra elektronike",
 		"NO_BOOKABLE_ITEM": "Ju lutemi të krijoni të paktën 1 artikull të rezervueshëm në llogarinë tuaj të Sagenda!",
