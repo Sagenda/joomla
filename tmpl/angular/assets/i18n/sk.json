@@ -32,6 +32,7 @@
 		"DATE": "Dátum",
 		"STATE_BOOKED": "Rezervovaný",
 		"STATE_FREE": "Otvorená rezervácia",
+		"STATE_FREE_OPEN": "",
 		"STATE_PARTIALLY_BOOKED": "čiastočne rezervované",
 		"UNBLOCK": "odblokovanie"
 	},
@@ -78,10 +79,12 @@
 		"LOGIN": "Prihlásiť sa",
 		"LOGOUT": "Odhlásiť sa",
 		"MENU": "ponuka",
+		"NUMBER_OF_SLOTS": "Počet slotov",
 		"OK": "OK",
 		"PWD": "heslo",
 		"RESERVATION": "Výhrada",
-		"RESERVATIONS": "Výhrady"
+		"RESERVATIONS": "Výhrady",
+		"RESERVATION_STATUS": "Stav rezervácie"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Pridať účastníka",

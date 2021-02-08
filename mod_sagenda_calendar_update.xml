@@ -3,6 +3,9 @@
 		<name>Sagenda Calendar</name>
 		<description>This is the lastest version of Sagenda booking calendar.
 
+= 2.3.0 =
+* ADDED : Calendar can open at first at a specified date.
+
 = 2.2.2 =
 * FIXED : Layout problem.
 * IMPROVED : Notifications.
@@ -47,10 +50,10 @@ Biggest Sagenda update ever.
 		</description>
 		<element>mod_sagenda_calendar</element>
 		<type>module</type>
-		<version>2.2.2</version>
-		<infourl title="Weblinks Extension Package">https://github.com/Sagenda/joomla/releases/tag/2.2.2</infourl>
+		<version>2.3.0</version>
+		<infourl title="Weblinks Extension Package">https://github.com/Sagenda/joomla/releases/tag/2.3.0</infourl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/Sagenda/joomla/archive/2.2.2.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/Sagenda/joomla/archive/2.3.0.zip</downloadurl>
 		</downloads>
 		<maintainer>Joomla</maintainer>
 		<maintainerurl>https://github.com/Sagenda/joomla/releases</maintainerurl>

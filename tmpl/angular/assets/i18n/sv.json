@@ -32,6 +32,7 @@
 		"DATE": "Datum",
 		"STATE_BOOKED": "Bokade",
 		"STATE_FREE": "Öppen bokning(er)",
+		"STATE_FREE_OPEN": "",
 		"STATE_PARTIALLY_BOOKED": "Delvis bokad",
 		"UNBLOCK": "Häv"
 	},
@@ -78,10 +79,12 @@
 		"LOGIN": "Logga in",
 		"LOGOUT": "Logga ut",
 		"MENU": "Meny",
+		"NUMBER_OF_SLOTS": "Antal kortplatser",
 		"OK": "OK",
 		"PWD": "Lösenord",
 		"RESERVATION": "Reservation",
-		"RESERVATIONS": "Bokningar"
+		"RESERVATIONS": "Bokningar",
+		"RESERVATION_STATUS": "Bokningsstatus"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Lägg till deltagaren",

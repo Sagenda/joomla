@@ -32,6 +32,7 @@
 		"DATE": "Дата",
 		"STATE_BOOKED": "Забронювали",
 		"STATE_FREE": "Відкрити бронювання",
+		"STATE_FREE_OPEN": "",
 		"STATE_PARTIALLY_BOOKED": "Частково забронювали",
 		"UNBLOCK": "розблокувати"
 	},
@@ -78,10 +79,12 @@
 		"LOGIN": "Вхід",
 		"LOGOUT": "вийти",
 		"MENU": "меню",
+		"NUMBER_OF_SLOTS": "Кількість слотів",
 		"OK": "Ок",
 		"PWD": "пароль",
 		"RESERVATION": "Бронювання",
-		"RESERVATIONS": "Бронювання"
+		"RESERVATIONS": "Бронювання",
+		"RESERVATION_STATUS": "Статус резервації"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Додати учасника",

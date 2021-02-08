@@ -32,6 +32,7 @@
 		"DATE": "Дата",
 		"STATE_BOOKED": "бронирования",
 		"STATE_FREE": "Открыть резервацию",
+		"STATE_FREE_OPEN": "",
 		"STATE_PARTIALLY_BOOKED": "Частично забронированы",
 		"UNBLOCK": "Открыть"
 	},
@@ -78,10 +79,12 @@
 		"LOGIN": "Авторизоваться",
 		"LOGOUT": "Выйти",
 		"MENU": "меню",
+		"NUMBER_OF_SLOTS": "Количество слотов",
 		"OK": "Хорошо",
 		"PWD": "пароль",
 		"RESERVATION": "БРОНИРОВАНИЕ",
-		"RESERVATIONS": "БРОНИРОВАНИЕ"
+		"RESERVATIONS": "БРОНИРОВАНИЕ",
+		"RESERVATION_STATUS": "Статус бронирования"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Добавить участника",

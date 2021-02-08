@@ -32,6 +32,7 @@
 		"DATE": "Datums",
 		"STATE_BOOKED": "Rezervēts",
 		"STATE_FREE": "Atklāta rezervācija",
+		"STATE_FREE_OPEN": "",
 		"STATE_PARTIALLY_BOOKED": "Daļēji rezervēts",
 		"UNBLOCK": "Atbloķēt"
 	},
@@ -78,10 +79,12 @@
 		"LOGIN": "Lietotājvārds",
 		"LOGOUT": "Izlogoties",
 		"MENU": "Izvelne",
+		"NUMBER_OF_SLOTS": "Slota (-u) skaits",
 		"OK": "Labi",
 		"PWD": "Parole",
 		"RESERVATION": "Rezervēšana",
-		"RESERVATIONS": "Atrunas"
+		"RESERVATIONS": "Atrunas",
+		"RESERVATION_STATUS": "Rezervācijas statuss"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Pievienot Dalībnieku",

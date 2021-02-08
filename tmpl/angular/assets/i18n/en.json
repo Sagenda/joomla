@@ -32,6 +32,7 @@
 		"DATE": "Date",
 		"STATE_BOOKED": "Booked",
 		"STATE_FREE": "Open reservation(s)",
+		"STATE_FREE_OPEN": "Open",
 		"STATE_PARTIALLY_BOOKED": "Partially booked",
 		"UNBLOCK": "Unblock"
 	},
@@ -78,10 +79,12 @@
 		"LOGIN": "Login",
 		"LOGOUT": "Logout",
 		"MENU": "Menu",
+		"NUMBER_OF_SLOTS": "Number of slot(s)",
 		"OK": "OK",
 		"PWD": "Password",
 		"RESERVATION": "Reservation",
-		"RESERVATIONS": "Reservations"
+		"RESERVATIONS": "Reservations",
+		"RESERVATION_STATUS": "Reservation status"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Add Participant",

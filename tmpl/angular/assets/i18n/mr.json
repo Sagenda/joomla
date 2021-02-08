@@ -32,6 +32,7 @@
 		"DATE": "तारीख",
 		"STATE_BOOKED": "बुक केले",
 		"STATE_FREE": "मुक्त आरक्षण",
+		"STATE_FREE_OPEN": "",
 		"STATE_PARTIALLY_BOOKED": "अर्धवट बुक केले",
 		"UNBLOCK": "अवरोधित करा"
 	},
@@ -78,10 +79,12 @@
 		"LOGIN": "लॉग इन",
 		"LOGOUT": "बाहेर पडणे",
 		"MENU": "मेनू",
+		"NUMBER_OF_SLOTS": "स्लॉटची संख्या",
 		"OK": "ठीक आहे",
 		"PWD": "पासवर्ड",
 		"RESERVATION": "आरक्षण",
-		"RESERVATIONS": "आरक्षणे"
+		"RESERVATIONS": "आरक्षणे",
+		"RESERVATION_STATUS": "आरक्षणाची स्थिती"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "सहभागी जोडा",

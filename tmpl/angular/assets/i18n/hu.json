@@ -32,6 +32,7 @@
 		"DATE": "Dátum",
 		"STATE_BOOKED": "Foglalt",
 		"STATE_FREE": "Nyitott foglalás",
+		"STATE_FREE_OPEN": "",
 		"STATE_PARTIALLY_BOOKED": "Részben lefoglalva",
 		"UNBLOCK": "Tiltásának feloldása"
 	},
@@ -78,10 +79,12 @@
 		"LOGIN": "Belépés",
 		"LOGOUT": "Kijelentkezés",
 		"MENU": "Menü",
+		"NUMBER_OF_SLOTS": "Rés (ek) száma",
 		"OK": "OK",
 		"PWD": "Jelszó",
 		"RESERVATION": "Foglalás",
-		"RESERVATIONS": "Fenntartások"
+		"RESERVATIONS": "Fenntartások",
+		"RESERVATION_STATUS": "Foglalási állapot"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Résztvevő hozzáadása",

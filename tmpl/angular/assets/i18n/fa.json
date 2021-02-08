@@ -32,6 +32,7 @@
 		"DATE": "تاریخ",
 		"STATE_BOOKED": "رزرو",
 		"STATE_FREE": "رزرو (های) باز",
+		"STATE_FREE_OPEN": "",
 		"STATE_PARTIALLY_BOOKED": "تا حدی رزرو شده",
 		"UNBLOCK": "رفع انسداد"
 	},
@@ -78,10 +79,12 @@
 		"LOGIN": "ورود",
 		"LOGOUT": "خروج",
 		"MENU": "فهرست",
+		"NUMBER_OF_SLOTS": "تعداد شکاف (ها)",
 		"OK": "بسیار خوب",
 		"PWD": "کلمه عبور",
 		"RESERVATION": "رزرو",
-		"RESERVATIONS": "رزرو"
+		"RESERVATIONS": "رزرو",
+		"RESERVATION_STATUS": "وضعیت رزرو"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "اضافه کردن شرکت کننده",

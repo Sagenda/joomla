@@ -32,6 +32,7 @@
 		"DATE": "Ημερομηνία",
 		"STATE_BOOKED": "Έγινε κράτηση",
 		"STATE_FREE": "Άνοιγμα κράτησης",
+		"STATE_FREE_OPEN": "",
 		"STATE_PARTIALLY_BOOKED": "Έχει γίνει επιμέρους κράτηση",
 		"UNBLOCK": "Ξεμπλοκάρισμα"
 	},
@@ -78,10 +79,12 @@
 		"LOGIN": "Σύνδεση",
 		"LOGOUT": "Αποσύνδεση",
 		"MENU": "Μενού",
+		"NUMBER_OF_SLOTS": "Αριθμός υποδοχών",
 		"OK": "OK",
 		"PWD": "Κωδικός πρόσβασης",
 		"RESERVATION": "Κράτηση",
-		"RESERVATIONS": "κρατήσεις"
+		"RESERVATIONS": "κρατήσεις",
+		"RESERVATION_STATUS": "Κατάσταση κράτησης"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Προσθήκη μέλους",

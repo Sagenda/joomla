@@ -32,6 +32,7 @@
 		"DATE": "Tarehe",
 		"STATE_BOOKED": "Imehifadhiwa",
 		"STATE_FREE": "Hifadhi wazi(s)",
+		"STATE_FREE_OPEN": "",
 		"STATE_PARTIALLY_BOOKED": "Sehemu imehifadhiwa",
 		"UNBLOCK": "Zuia"
 	},
@@ -78,10 +79,12 @@
 		"LOGIN": "Ingia",
 		"LOGOUT": "Ingia",
 		"MENU": "Menyu",
+		"NUMBER_OF_SLOTS": "Idadi ya yanayopangwa",
 		"OK": "Sawa",
 		"PWD": "Nenosiri",
 		"RESERVATION": "Uhifadhi",
-		"RESERVATIONS": "Kutoridhishwa"
+		"RESERVATIONS": "Kutoridhishwa",
+		"RESERVATION_STATUS": "Hali ya kuweka nafasi"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Ongeza Mshiriki",

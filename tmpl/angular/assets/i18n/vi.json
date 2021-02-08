@@ -32,6 +32,7 @@
 		"DATE": "Ngày",
 		"STATE_BOOKED": "ĐẶT",
 		"STATE_FREE": "Mở đặt phòng",
+		"STATE_FREE_OPEN": "",
 		"STATE_PARTIALLY_BOOKED": "Đặt một phần",
 		"UNBLOCK": "Mở khóa"
 	},
@@ -78,10 +79,12 @@
 		"LOGIN": "Đăng nhập",
 		"LOGOUT": "Đăng xuất",
 		"MENU": "Thực đơn",
+		"NUMBER_OF_SLOTS": "Số lượng vị trí",
 		"OK": "Được",
 		"PWD": "mật khẩu",
 		"RESERVATION": "Đặt chỗ",
-		"RESERVATIONS": "Đặt phòng"
+		"RESERVATIONS": "Đặt phòng",
+		"RESERVATION_STATUS": "Trạng thái đặt chỗ"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Thêm người tham gia",

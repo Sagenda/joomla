@@ -32,6 +32,7 @@
 		"DATE": "Dată",
 		"STATE_BOOKED": "Rezervat",
 		"STATE_FREE": "Deschide rezervare(rezerve)",
+		"STATE_FREE_OPEN": "",
 		"STATE_PARTIALLY_BOOKED": "Rezervat parțial",
 		"UNBLOCK": "Deblocați"
 	},
@@ -78,10 +79,12 @@
 		"LOGIN": "Logare",
 		"LOGOUT": "Deconectare",
 		"MENU": "Meniul",
+		"NUMBER_OF_SLOTS": "Numărul de sloturi",
 		"OK": "OK",
 		"PWD": "Parola",
 		"RESERVATION": "Rezervare",
-		"RESERVATIONS": "Rezervări"
+		"RESERVATIONS": "Rezervări",
+		"RESERVATION_STATUS": "Starea rezervării"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Adaugă membru",

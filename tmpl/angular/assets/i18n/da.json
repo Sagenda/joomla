@@ -32,6 +32,7 @@
 		"DATE": "Dato",
 		"STATE_BOOKED": "Booket",
 		"STATE_FREE": "Åben reservation(r)",
+		"STATE_FREE_OPEN": "",
 		"STATE_PARTIALLY_BOOKED": "Delvis booket",
 		"UNBLOCK": "Fjern blokering"
 	},
@@ -78,10 +79,12 @@
 		"LOGIN": "Log ind",
 		"LOGOUT": "Log ud",
 		"MENU": "Menu",
+		"NUMBER_OF_SLOTS": "Antal slot (er)",
 		"OK": "OK",
 		"PWD": "Adgangskode",
 		"RESERVATION": "Reservation",
-		"RESERVATIONS": "Reservationer"
+		"RESERVATIONS": "Reservationer",
+		"RESERVATION_STATUS": "Reservation status"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Tilføj deltager",

@@ -32,6 +32,7 @@
 		"DATE": "தேதி",
 		"STATE_BOOKED": "முன்பதிவு செய்யப்பட்டது",
 		"STATE_FREE": "திறந்த இட ஒதுக்கீடு(கள்)",
+		"STATE_FREE_OPEN": "",
 		"STATE_PARTIALLY_BOOKED": "ஓரளவு முன்பதிவு செய்யப்பட்டது",
 		"UNBLOCK": "தடைநீக்கு"
 	},
@@ -78,10 +79,12 @@
 		"LOGIN": "உள் நுழை",
 		"LOGOUT": "வெளியேறு",
 		"MENU": "பட்டி",
+		"NUMBER_OF_SLOTS": "ஸ்லாட் (கள்) எண்ணிக்கை",
 		"OK": "சரி",
 		"PWD": "கடவுச்சொல்",
 		"RESERVATION": "முன்பதிவு",
-		"RESERVATIONS": "முன்பதிவுகள்"
+		"RESERVATIONS": "முன்பதிவுகள்",
+		"RESERVATION_STATUS": "இட ஒதுக்கீடு நிலை"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "பங்கேற்பாளரைச் சேர்க்கவும்",

@@ -32,6 +32,7 @@
 		"DATE": "תאריך",
 		"STATE_BOOKED": "הוזמן",
 		"STATE_FREE": "הזמנות פתוחות",
+		"STATE_FREE_OPEN": "",
 		"STATE_PARTIALLY_BOOKED": "הוזמן חלקית",
 		"UNBLOCK": "בטל את החסימה"
 	},
@@ -78,10 +79,12 @@
 		"LOGIN": "התחברות",
 		"LOGOUT": "להתנתק",
 		"MENU": "תפריט",
+		"NUMBER_OF_SLOTS": "מספר משבצות",
 		"OK": "מתאים",
 		"PWD": "סיסמה",
 		"RESERVATION": "הזמנה",
-		"RESERVATIONS": "הזמנות"
+		"RESERVATIONS": "הזמנות",
+		"RESERVATION_STATUS": "מצב הזמנה"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "הוספת משתתף/ת",

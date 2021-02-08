@@ -32,6 +32,7 @@
 		"DATE": "তারিখ",
 		"STATE_BOOKED": "কাজে ব্যস্ত",
 		"STATE_FREE": "উন্মুক্ত সংরক্ষণ(গুলি)",
+		"STATE_FREE_OPEN": "",
 		"STATE_PARTIALLY_BOOKED": "আংশিক বুকড",
 		"UNBLOCK": "অবরোধ মুক্ত"
 	},
@@ -78,10 +79,12 @@
 		"LOGIN": "লগইন",
 		"LOGOUT": "প্রস্থান",
 		"MENU": "মেনু",
+		"NUMBER_OF_SLOTS": "স্লটের সংখ্যা",
 		"OK": "ঠিক আছে",
 		"PWD": "পাসওয়ার্ড",
 		"RESERVATION": "সংরক্ষণ",
-		"RESERVATIONS": "রিজার্ভেশন"
+		"RESERVATIONS": "রিজার্ভেশন",
+		"RESERVATION_STATUS": "সংরক্ষণের অবস্থা"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "অংশগ্রহণকারী যোগ করুন",

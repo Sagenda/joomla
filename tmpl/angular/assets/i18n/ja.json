@@ -32,6 +32,7 @@
 		"DATE": "日付",
 		"STATE_BOOKED": "予約済み",
 		"STATE_FREE": "オープン予約",
+		"STATE_FREE_OPEN": "",
 		"STATE_PARTIALLY_BOOKED": "一部予約済み",
 		"UNBLOCK": "ブロック解除"
 	},
@@ -78,10 +79,12 @@
 		"LOGIN": "ログイン",
 		"LOGOUT": "ログアウト",
 		"MENU": "メニュー",
+		"NUMBER_OF_SLOTS": "スロットの数",
 		"OK": "OK",
 		"PWD": "パスワード",
 		"RESERVATION": "予約",
-		"RESERVATIONS": "ご予約"
+		"RESERVATIONS": "ご予約",
+		"RESERVATION_STATUS": "予約状況"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "参加者を追加",

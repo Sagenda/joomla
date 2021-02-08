@@ -32,6 +32,7 @@
 		"DATE": "ਤਾਰੀਖ",
 		"STATE_BOOKED": "ਬੁੱਕ ਕੀਤੀ",
 		"STATE_FREE": "ਖੁੱਲਾ ਰਾਖਵਾਂਕਰਨ",
+		"STATE_FREE_OPEN": "",
 		"STATE_PARTIALLY_BOOKED": "ਅੰਸ਼ਕ ਤੌਰ ਤੇ ਬੁੱਕ ਕੀਤੀ ਗਈ",
 		"UNBLOCK": "ਅਨਬਲੌਕ ਕਰੋ"
 	},
@@ -78,10 +79,12 @@
 		"LOGIN": "ਲਾਗਿਨ",
 		"LOGOUT": "ਲਾੱਗ ਆਊਟ, ਬਾਹਰ ਆਉਣਾ",
 		"MENU": "ਮੀਨੂ",
+		"NUMBER_OF_SLOTS": "ਸਲਾਟ ਦੀ ਗਿਣਤੀ",
 		"OK": "ਠੀਕ ਹੈ",
 		"PWD": "ਪਾਸਵਰਡ",
 		"RESERVATION": "ਰਿਜ਼ਰਵੇਸ਼ਨ",
-		"RESERVATIONS": "ਰਿਜ਼ਰਵੇਸ਼ਨ"
+		"RESERVATIONS": "ਰਿਜ਼ਰਵੇਸ਼ਨ",
+		"RESERVATION_STATUS": "ਰਿਜ਼ਰਵੇਸ਼ਨ ਸਥਿਤੀ"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "ਹਿੱਸਾ ਸ਼ਾਮਲ ਕਰੋ",

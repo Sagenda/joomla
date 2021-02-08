@@ -32,6 +32,7 @@
 		"DATE": "Data",
 		"STATE_BOOKED": "i rezervuar",
 		"STATE_FREE": "Rezervime të hapura",
+		"STATE_FREE_OPEN": "",
 		"STATE_PARTIALLY_BOOKED": "Rezervuar pjesërisht",
 		"UNBLOCK": "Hap"
 	},
@@ -78,10 +79,12 @@
 		"LOGIN": "Hyrje",
 		"LOGOUT": "Shkyç",
 		"MENU": "Menu",
+		"NUMBER_OF_SLOTS": "Numri i foleve (sve)",
 		"OK": "Në rregull",
 		"PWD": "Fjalëkalim",
 		"RESERVATION": "Rezervë",
-		"RESERVATIONS": "Rezervimet"
+		"RESERVATIONS": "Rezervimet",
+		"RESERVATION_STATUS": "Statusi i rezervimit"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Shto Pjesëmarrësin",

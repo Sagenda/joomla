@@ -32,6 +32,7 @@
 		"DATE": "Fecha",
 		"STATE_BOOKED": "Reservado",
 		"STATE_FREE": "Reserva(s) abierta(s)",
+		"STATE_FREE_OPEN": "",
 		"STATE_PARTIALLY_BOOKED": "Parcialmente reservado",
 		"UNBLOCK": "Desatascar"
 	},
@@ -78,10 +79,12 @@
 		"LOGIN": "Iniciar sesión",
 		"LOGOUT": "Cerrar sesión",
 		"MENU": "menú",
+		"NUMBER_OF_SLOTS": "Número de ranuras",
 		"OK": "De acuerdo",
 		"PWD": "Contraseña",
 		"RESERVATION": "Reserva",
-		"RESERVATIONS": "Reservas"
+		"RESERVATIONS": "Reservas",
+		"RESERVATION_STATUS": "Estado de la reserva"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Agregar participante.",

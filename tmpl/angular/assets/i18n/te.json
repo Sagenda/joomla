@@ -32,6 +32,7 @@
 		"DATE": "తేదీ",
 		"STATE_BOOKED": "బుక్",
 		"STATE_FREE": "ఓపెన్ రిజర్వేషన్(లు)",
+		"STATE_FREE_OPEN": "",
 		"STATE_PARTIALLY_BOOKED": "పాక్షికంగా బుక్ చేయబడింది",
 		"UNBLOCK": "అనుమతించు"
 	},
@@ -78,10 +79,12 @@
 		"LOGIN": "లాగిన్",
 		"LOGOUT": "లాగౌట్",
 		"MENU": "మెనూ",
+		"NUMBER_OF_SLOTS": "స్లాట్ (ల) సంఖ్య",
 		"OK": "అలాగే",
 		"PWD": "పాస్వర్డ్",
 		"RESERVATION": "రిజర్వేషన్",
-		"RESERVATIONS": "రిజర్వేషన్లు"
+		"RESERVATIONS": "రిజర్వేషన్లు",
+		"RESERVATION_STATUS": "రిజర్వేషన్ స్థితి"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "భాగస్వామిని జోడించండి",

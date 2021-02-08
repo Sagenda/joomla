@@ -31,7 +31,8 @@
 		"BLOCKED": "Bloccato",
 		"DATE": "Data",
 		"STATE_BOOKED": "prenotato",
-		"STATE_FREE": "Prenotazioni aperte",
+		"STATE_FREE": "Libero",
+		"STATE_FREE_OPEN": "Libero",
 		"STATE_PARTIALLY_BOOKED": "Parzialmente prenotato",
 		"UNBLOCK": "Sbloccare"
 	},
@@ -78,10 +79,12 @@
 		"LOGIN": "Accesso",
 		"LOGOUT": "Disconnettersi",
 		"MENU": "Menu",
+		"NUMBER_OF_SLOTS": "Numero di slot",
 		"OK": "OK",
 		"PWD": "Parola d'ordine",
 		"RESERVATION": "Prenotazione",
-		"RESERVATIONS": "Prenotazioni"
+		"RESERVATIONS": "Prenotazioni",
+		"RESERVATION_STATUS": "Stato della prenotazione"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Aggiungi partecipante",

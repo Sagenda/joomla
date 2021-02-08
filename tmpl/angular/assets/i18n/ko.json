@@ -32,6 +32,7 @@
 		"DATE": "날짜",
 		"STATE_BOOKED": "예약 됨",
 		"STATE_FREE": "오픈 예약",
+		"STATE_FREE_OPEN": "",
 		"STATE_PARTIALLY_BOOKED": "부분적으로 예약",
 		"UNBLOCK": "차단 해제"
 	},
@@ -78,10 +79,12 @@
 		"LOGIN": "로그인",
 		"LOGOUT": "로그 아웃",
 		"MENU": "메뉴",
+		"NUMBER_OF_SLOTS": "슬롯 수",
 		"OK": "승인",
 		"PWD": "암호",
 		"RESERVATION": "예약",
-		"RESERVATIONS": "전세"
+		"RESERVATIONS": "전세",
+		"RESERVATION_STATUS": "예약 상태"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "참가자 추가",

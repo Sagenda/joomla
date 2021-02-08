@@ -32,6 +32,7 @@
 		"DATE": "Datum",
 		"STATE_BOOKED": "Geboekt",
 		"STATE_FREE": "Open reservering(en)",
+		"STATE_FREE_OPEN": "",
 		"STATE_PARTIALLY_BOOKED": "Gedeeltelijk geboekt",
 		"UNBLOCK": "Deblokkeren"
 	},
@@ -78,10 +79,12 @@
 		"LOGIN": "Inloggen",
 		"LOGOUT": "Uitloggen",
 		"MENU": "Menu",
+		"NUMBER_OF_SLOTS": "Aantal slot (s)",
 		"OK": "OK",
 		"PWD": "Wachtwoord",
 		"RESERVATION": "Reservatie",
-		"RESERVATIONS": "Reserveringen"
+		"RESERVATIONS": "Reserveringen",
+		"RESERVATION_STATUS": "Reserveringsstatus"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Deelnemer toevoegen",

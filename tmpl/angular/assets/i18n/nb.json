@@ -1,6 +1,7 @@
 {
     "MESSAGE": {
         "PLEASE_ENTER_A_VALID_PHONE_NB_WITH_INTERNATIONAL_COUNTRY_CODE": "Vennligst tast inn et gyldig telefonnummer med internasjonal landskode for \u00e5 kunne motta SMS-varsler.",
+        "PLEASE_INDICATE_READ_AGREE_TERMS_AND_CONDITIONS": "Vennligst bekreft at du har lest og forst\u00e5tt v\u00e5re bestillingsbetingelser",
         "ARE_YOU_SURE_BLOCK_EVENT": "Er du sikker p\u00e5 at du vil blokkere denne begivenheten? Reservasjon vil ikke v\u00e6re mulig f\u00f8r du opphever blokkeringen av arrangementet.",
         "ARE_YOU_SURE_ACTION_CANT_BE_UNDONE": "Er du sikker? Denne handlingen kan ikke reverseres!",
         "DISABLE_MULTIPLE_SELECTION": "Deaktiver flere valg",
@@ -19,7 +20,7 @@
         "COUPON_CODE_VALID": "Kupongkoden er gyldig"
     },
     "STANDARD": {
-        "RESERVATIONS": "Reservations",
+        "RESERVATIONS": "Reservasjoner",
         "AGENDA": "Agenda",
         "DETAIL": "Detaljer",
         "EMAIL_ADDRESS": "Epostadresse",
@@ -113,11 +114,11 @@
         "PAYMENT_MESSAGE": "You will be redirected to the paypal website to complete your payment and booking",
         "PERCENTAGE_FEES": "Percentage",
         "PHONE": "Phone",
-        "REMOVE_MEMBER": "Remove Participant",
-        "TAXES_AND_FEES": "Taxes and Fees",
-        "TITLE": "Title",
-        "TO": "To",
-        "VALIDATE_COUPON": "Validate Coupon",
-        "DISCOUNT_AMOUNT": "Discount Amount"
+        "REMOVE_MEMBER": "Fjern deltager",
+        "TAXES_AND_FEES": "Skatter og avgifter",
+        "TITLE": "Titel",
+        "TO": "Til",
+        "VALIDATE_COUPON": "Valider kupong",
+        "DISCOUNT_AMOUNT": "Rabatt bel\u00f8p"
     }
 }

@@ -17,7 +17,7 @@
 		"BOOKABLE_ITEM_ID_PARAM_NOT_FOUND": "Este identificador de parâmetro que pode ser reservado não está vinculado a um item de reserva!",
 		"COUPON_CODE_INVALID": "Código do cupom inválido",
 		"DIFFERENT_CURRENCIES": "Você não pode reservar vários eventos com moedas de pagamento diferentes.",
-		"EVENT_ALREADY_SELECTED": "Este evento já está selecionado.",
+		"EVENT_ALREADY_SELECTED": "",
 		"MAXIMUM_QUOTA": "Você não pode reservar mais que {{value}} slots",
 		"MINIMUM_QUOTA": "Você precisa reservar um mínimo de {{value}} slots",
 		"NO_BOOKABLE_ITEM": "Por favor, crie pelo menos 1 item reservado na sua conta Sagenda!",
@@ -32,6 +32,7 @@
 		"DATE": "Encontro",
 		"STATE_BOOKED": "Reservado",
 		"STATE_FREE": "Reservas abertas",
+		"STATE_FREE_OPEN": "",
 		"STATE_PARTIALLY_BOOKED": "Parcialmente reservado",
 		"UNBLOCK": "Desbloquear"
 	},
@@ -58,7 +59,7 @@
 	"MESSAGE_TYPE": {
 		"CONFIRMATION": "Confirmação",
 		"ERROR": "Erro",
-		"INFO": "Info",
+		"INFO": "Informações",
 		"WARNING": "Aviso"
 	},
 	"MULTIPLE": {
@@ -78,10 +79,12 @@
 		"LOGIN": "Entrar",
 		"LOGOUT": "Sair",
 		"MENU": "Cardápio",
+		"NUMBER_OF_SLOTS": "",
 		"OK": "Está bem",
 		"PWD": "Senha",
 		"RESERVATION": "Reserva",
-		"RESERVATIONS": "Reservas"
+		"RESERVATIONS": "Reservas",
+		"RESERVATION_STATUS": ""
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Adicionar participante",

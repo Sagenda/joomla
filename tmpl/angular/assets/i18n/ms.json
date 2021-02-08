@@ -31,7 +31,8 @@
 		"BLOCKED": "Disekat",
 		"DATE": "Tarikh",
 		"STATE_BOOKED": "Ditempah",
-		"STATE_FREE": "Buka tempahan",
+		"STATE_FREE": "Percuma",
+		"STATE_FREE_OPEN": "Percuma",
 		"STATE_PARTIALLY_BOOKED": "Sebahagian ditempah",
 		"UNBLOCK": "Nyahsekat"
 	},
@@ -78,10 +79,12 @@
 		"LOGIN": "Log masuk",
 		"LOGOUT": "Log keluar",
 		"MENU": "Menu",
+		"NUMBER_OF_SLOTS": "Bilangan slot",
 		"OK": "OK",
 		"PWD": "Kata laluan",
 		"RESERVATION": "Tempahan",
-		"RESERVATIONS": "Tempahan"
+		"RESERVATIONS": "Tempahan",
+		"RESERVATION_STATUS": "Status tempahan"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Tambah Peserta",

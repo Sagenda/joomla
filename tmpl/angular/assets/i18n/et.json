@@ -32,6 +32,7 @@
 		"DATE": "Kuupäev",
 		"STATE_BOOKED": "Broneeritud",
 		"STATE_FREE": "Avatud broneering(ud)",
+		"STATE_FREE_OPEN": "",
 		"STATE_PARTIALLY_BOOKED": "Poolenesti broneeritud",
 		"UNBLOCK": "Blokeeringu tühistamine"
 	},
@@ -78,10 +79,12 @@
 		"LOGIN": "Logi sisse",
 		"LOGOUT": "Logi välja",
 		"MENU": "Menü",
+		"NUMBER_OF_SLOTS": "Pesa (de) arv",
 		"OK": "Korras",
 		"PWD": "Parool",
 		"RESERVATION": "Broneerimine",
-		"RESERVATIONS": "Reservatsioonid"
+		"RESERVATIONS": "Reservatsioonid",
+		"RESERVATION_STATUS": "Broneeringu olek"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Lisage kaas broneerijat",
