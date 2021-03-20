@@ -71,8 +71,10 @@
 		"AGENDA": "Denní program",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Zrušte všechny rezervace pro tuto událost",
 		"CANCEL_BOOKING": "Zrušte tuto rezervaci",
+		"DATE_RANGE": "Časové období",
 		"DETAIL": "Detail",
 		"EMAIL_ADDRESS": "Emailová adresa",
+		"END_DATE": "Datum ukončení",
 		"EVENT": "událost",
 		"LINK": "Odkaz",
 		"LOGGING_IN": "Přihlášení",
@@ -84,7 +86,8 @@
 		"PWD": "Heslo",
 		"RESERVATION": "Rezervace",
 		"RESERVATIONS": "Rezervace",
-		"RESERVATION_STATUS": "Stav rezervace"
+		"RESERVATION_STATUS": "Stav rezervace",
+		"START_DATE": "Počáteční datum"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Přidat účastníka",

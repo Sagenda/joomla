@@ -71,8 +71,10 @@
 		"AGENDA": "Agendă",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Anulați toate rezervările pentru acest eveniment",
 		"CANCEL_BOOKING": "Anulați această rezervare",
+		"DATE_RANGE": "Interval de date",
 		"DETAIL": "Detaliu",
 		"EMAIL_ADDRESS": "Adresa de email",
+		"END_DATE": "Data de încheiere",
 		"EVENT": "Eveniment",
 		"LINK": "Legătură",
 		"LOGGING_IN": "Autentificare",
@@ -84,7 +86,8 @@
 		"PWD": "Parola",
 		"RESERVATION": "Rezervare",
 		"RESERVATIONS": "Rezervări",
-		"RESERVATION_STATUS": "Starea rezervării"
+		"RESERVATION_STATUS": "Starea rezervării",
+		"START_DATE": "Data de început"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Adaugă membru",

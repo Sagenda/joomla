@@ -71,8 +71,10 @@
 		"AGENDA": "అజెండా",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "ఈ ఈవెంట్ కోసం అన్ని రిజర్వేషన్లను రద్దు చేయండి",
 		"CANCEL_BOOKING": "ఈ రిజర్వేషన్‌ను రద్దు చేయండి",
+		"DATE_RANGE": "తేదీ పరిధి",
 		"DETAIL": "వివరాలు",
 		"EMAIL_ADDRESS": "ఇమెయిల్ చిరునామా",
+		"END_DATE": "ఆఖరి తేది",
 		"EVENT": "ఈవెంట్",
 		"LINK": "లింక్",
 		"LOGGING_IN": "లాగిన్ అవుతోంది",
@@ -84,7 +86,8 @@
 		"PWD": "పాస్వర్డ్",
 		"RESERVATION": "రిజర్వేషన్",
 		"RESERVATIONS": "రిజర్వేషన్లు",
-		"RESERVATION_STATUS": "రిజర్వేషన్ స్థితి"
+		"RESERVATION_STATUS": "రిజర్వేషన్ స్థితి",
+		"START_DATE": "ప్రారంబపు తేది"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "భాగస్వామిని జోడించండి",

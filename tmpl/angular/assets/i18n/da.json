@@ -71,8 +71,10 @@
 		"AGENDA": "Dagsorden",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Annuller alle reservationer til denne begivenhed",
 		"CANCEL_BOOKING": "Annuller denne reservation",
+		"DATE_RANGE": "Datointerval",
 		"DETAIL": "Detaljer",
 		"EMAIL_ADDRESS": "E-mail",
+		"END_DATE": "Slutdato",
 		"EVENT": "Begivenhed",
 		"LINK": "Link",
 		"LOGGING_IN": "Logger ind",
@@ -84,7 +86,8 @@
 		"PWD": "Adgangskode",
 		"RESERVATION": "Reservation",
 		"RESERVATIONS": "Reservationer",
-		"RESERVATION_STATUS": "Reservation status"
+		"RESERVATION_STATUS": "Reservation status",
+		"START_DATE": "Start dato"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Tilføj deltager",

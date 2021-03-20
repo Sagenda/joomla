@@ -71,8 +71,10 @@
 		"AGENDA": "Dagordning",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Avbryt alla reservationer för detta evenemang",
 		"CANCEL_BOOKING": "Avbryt denna reservation",
+		"DATE_RANGE": "Datumintervall",
 		"DETAIL": "Detalj",
 		"EMAIL_ADDRESS": "E-postadress",
+		"END_DATE": "Slutdatum",
 		"EVENT": "Händelse",
 		"LINK": "Länk",
 		"LOGGING_IN": "Loggar in",
@@ -84,7 +86,8 @@
 		"PWD": "Lösenord",
 		"RESERVATION": "Reservation",
 		"RESERVATIONS": "Bokningar",
-		"RESERVATION_STATUS": "Bokningsstatus"
+		"RESERVATION_STATUS": "Bokningsstatus",
+		"START_DATE": "Start datum"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Lägg till deltagaren",

@@ -71,8 +71,10 @@
 		"AGENDA": "Πρόγραμμα",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Ακυρώστε όλες τις κρατήσεις για αυτό το συμβάν",
 		"CANCEL_BOOKING": "Ακυρώστε αυτή την κράτηση",
+		"DATE_RANGE": "Εύρος ημερομηνιών",
 		"DETAIL": "Λεπτομέρεια",
 		"EMAIL_ADDRESS": "Διεύθυνση Email",
+		"END_DATE": "Ημερομηνία λήξης",
 		"EVENT": "Συμβάν",
 		"LINK": "Σύνδεσμος",
 		"LOGGING_IN": "Γίνεται σύνδεση",
@@ -84,7 +86,8 @@
 		"PWD": "Κωδικός πρόσβασης",
 		"RESERVATION": "Κράτηση",
 		"RESERVATIONS": "κρατήσεις",
-		"RESERVATION_STATUS": "Κατάσταση κράτησης"
+		"RESERVATION_STATUS": "Κατάσταση κράτησης",
+		"START_DATE": "ημερομηνία έναρξης"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Προσθήκη μέλους",

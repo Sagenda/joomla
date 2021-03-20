@@ -71,8 +71,10 @@
 		"AGENDA": "дневен ред",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Отменете всички резервации за това събитие",
 		"CANCEL_BOOKING": "Отменете тази резервация",
+		"DATE_RANGE": "Период от време",
 		"DETAIL": "детайл",
 		"EMAIL_ADDRESS": "Имейл адрес",
+		"END_DATE": "Крайна дата",
 		"EVENT": "събитие",
 		"LINK": "Линк",
 		"LOGGING_IN": "влизане",
@@ -84,7 +86,8 @@
 		"PWD": "парола",
 		"RESERVATION": "резервация",
 		"RESERVATIONS": "рЕЗЕРВАЦИИ",
-		"RESERVATION_STATUS": "Статус на резервацията"
+		"RESERVATION_STATUS": "Статус на резервацията",
+		"START_DATE": "Начална дата"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Добавяне на член",

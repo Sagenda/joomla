@@ -71,8 +71,10 @@
 		"AGENDA": "ਏਜੰਡਾ",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "ਇਸ ਇਵੈਂਟ ਲਈ ਸਾਰੇ ਰਾਖਵੇਂਕਰਨ ਰੱਦ ਕਰੋ",
 		"CANCEL_BOOKING": "ਇਸ ਰਿਜ਼ਰਵੇਸ਼ਨ ਨੂੰ ਰੱਦ ਕਰੋ",
+		"DATE_RANGE": "ਤਾਰੀਖ ਦੀ ਰੇਂਜ",
 		"DETAIL": "ਵੇਰਵੇ",
 		"EMAIL_ADDRESS": "ਈਮੇਲ ਖਾਤਾ",
+		"END_DATE": "ਅੰਤ ਦੀ ਮਿਤੀ",
 		"EVENT": "ਘਟਨਾ",
 		"LINK": "ਲਿੰਕ",
 		"LOGGING_IN": "ਲਾਗਇਨ ਕਰਨਾ",
@@ -84,7 +86,8 @@
 		"PWD": "ਪਾਸਵਰਡ",
 		"RESERVATION": "ਰਿਜ਼ਰਵੇਸ਼ਨ",
 		"RESERVATIONS": "ਰਿਜ਼ਰਵੇਸ਼ਨ",
-		"RESERVATION_STATUS": "ਰਿਜ਼ਰਵੇਸ਼ਨ ਸਥਿਤੀ"
+		"RESERVATION_STATUS": "ਰਿਜ਼ਰਵੇਸ਼ਨ ਸਥਿਤੀ",
+		"START_DATE": "ਤਾਰੀਖ ਸ਼ੁਰੂ"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "ਹਿੱਸਾ ਸ਼ਾਮਲ ਕਰੋ",

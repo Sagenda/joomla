@@ -71,8 +71,10 @@
 		"AGENDA": "कार्यसूची",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "इस घटना के लिए सभी आरक्षण रद्द करें",
 		"CANCEL_BOOKING": "इस आरक्षण को रद्द करें",
+		"DATE_RANGE": "तिथि सीमा",
 		"DETAIL": "विस्तार",
 		"EMAIL_ADDRESS": "ईमेल पता",
+		"END_DATE": "समाप्ति तिथि",
 		"EVENT": "घटना",
 		"LINK": "संपर्क",
 		"LOGGING_IN": "प्रवेश किया",
@@ -84,7 +86,8 @@
 		"PWD": "पारण शब्द",
 		"RESERVATION": "आरक्षण",
 		"RESERVATIONS": "आरक्षण",
-		"RESERVATION_STATUS": "आरक्षण की स्थिति"
+		"RESERVATION_STATUS": "आरक्षण की स्थिति",
+		"START_DATE": "आरंभ करने की तिथि"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "प्रतिभागी जोड़ें",

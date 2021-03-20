@@ -71,8 +71,10 @@
 		"AGENDA": "비망록",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "이 이벤트에 대한 모든 예약을 취소",
 		"CANCEL_BOOKING": "이 예약을 취소",
+		"DATE_RANGE": "날짜 범위",
 		"DETAIL": "세부 묘사",
 		"EMAIL_ADDRESS": "이메일 주소",
+		"END_DATE": "종료일",
 		"EVENT": "행사",
 		"LINK": "링크",
 		"LOGGING_IN": "로그인 중",
@@ -84,7 +86,8 @@
 		"PWD": "암호",
 		"RESERVATION": "예약",
 		"RESERVATIONS": "전세",
-		"RESERVATION_STATUS": "예약 상태"
+		"RESERVATION_STATUS": "예약 상태",
+		"START_DATE": "시작일"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "참가자 추가",

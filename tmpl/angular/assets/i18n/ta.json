@@ -71,8 +71,10 @@
 		"AGENDA": "நிகழ்ச்சி நிரல்",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "இந்த நிகழ்விற்கான அனைத்து முன்பதிவுகளையும் ரத்துசெய்",
 		"CANCEL_BOOKING": "இந்த முன்பதிவை ரத்துசெய்",
+		"DATE_RANGE": "தேதி வரம்பு",
 		"DETAIL": "விவரம்",
 		"EMAIL_ADDRESS": "மின்னஞ்சல் முகவரி",
+		"END_DATE": "கடைசி தேதி",
 		"EVENT": "நிகழ்வு",
 		"LINK": "இணைப்பு",
 		"LOGGING_IN": "உள்நுழைதல்",
@@ -84,7 +86,8 @@
 		"PWD": "கடவுச்சொல்",
 		"RESERVATION": "முன்பதிவு",
 		"RESERVATIONS": "முன்பதிவுகள்",
-		"RESERVATION_STATUS": "இட ஒதுக்கீடு நிலை"
+		"RESERVATION_STATUS": "இட ஒதுக்கீடு நிலை",
+		"START_DATE": "தொடக்க தேதி"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "பங்கேற்பாளரைச் சேர்க்கவும்",

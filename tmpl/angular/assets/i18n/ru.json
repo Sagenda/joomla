@@ -71,8 +71,10 @@
 		"AGENDA": "Повестка дня",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Отменить все бронирования для этого события",
 		"CANCEL_BOOKING": "Отменить это бронирование",
+		"DATE_RANGE": "диапазон дат",
 		"DETAIL": "подробность",
 		"EMAIL_ADDRESS": "Адрес электронной почты",
+		"END_DATE": "Дата окончания",
 		"EVENT": "Событие",
 		"LINK": "Ссылка",
 		"LOGGING_IN": "Вход в систему",
@@ -84,7 +86,8 @@
 		"PWD": "пароль",
 		"RESERVATION": "БРОНИРОВАНИЕ",
 		"RESERVATIONS": "БРОНИРОВАНИЕ",
-		"RESERVATION_STATUS": "Статус бронирования"
+		"RESERVATION_STATUS": "Статус бронирования",
+		"START_DATE": "Дата начала"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Добавить участника",

@@ -71,8 +71,10 @@
 		"AGENDA": "دستور جلسه",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "همه رزرو برای این رویداد را لغو کنید",
 		"CANCEL_BOOKING": "این رزرو را لغو کنید",
+		"DATE_RANGE": "محدوده زمانی",
 		"DETAIL": "جزئیات",
 		"EMAIL_ADDRESS": "آدرس ایمیل",
+		"END_DATE": "تاریخ پایان",
 		"EVENT": "رویداد",
 		"LINK": "لینک",
 		"LOGGING_IN": "ورود به سیستم در",
@@ -84,7 +86,8 @@
 		"PWD": "کلمه عبور",
 		"RESERVATION": "رزرو",
 		"RESERVATIONS": "رزرو",
-		"RESERVATION_STATUS": "وضعیت رزرو"
+		"RESERVATION_STATUS": "وضعیت رزرو",
+		"START_DATE": "تاریخ شروع"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "اضافه کردن شرکت کننده",

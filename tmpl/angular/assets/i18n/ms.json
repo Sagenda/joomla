@@ -71,8 +71,10 @@
 		"AGENDA": "Agenda",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Batalkan semua tempahan untuk acara ini",
 		"CANCEL_BOOKING": "Batalkan tempahan ini",
+		"DATE_RANGE": "Julat Tarikh",
 		"DETAIL": "Terperinci",
 		"EMAIL_ADDRESS": "Alamat E-mel",
+		"END_DATE": "Tarikh tamat",
 		"EVENT": "Acara",
 		"LINK": "Pautan",
 		"LOGGING_IN": "Melog masuk",
@@ -84,7 +86,8 @@
 		"PWD": "Kata laluan",
 		"RESERVATION": "Tempahan",
 		"RESERVATIONS": "Tempahan",
-		"RESERVATION_STATUS": "Status tempahan"
+		"RESERVATION_STATUS": "Status tempahan",
+		"START_DATE": "Tarikh mula"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Tambah Peserta",

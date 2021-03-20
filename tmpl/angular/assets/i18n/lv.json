@@ -71,8 +71,10 @@
 		"AGENDA": "Dienas kārtība",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Atcelt visas rezervācijas šim notikumam",
 		"CANCEL_BOOKING": "Atcelt šo rezervāciju",
+		"DATE_RANGE": "Datumu diapazons",
 		"DETAIL": "Detalizēta informācija",
 		"EMAIL_ADDRESS": "E-pasta adrese",
+		"END_DATE": "Beigu datums",
 		"EVENT": "Notikums",
 		"LINK": "Saite",
 		"LOGGING_IN": "Ielogoties",
@@ -84,7 +86,8 @@
 		"PWD": "Parole",
 		"RESERVATION": "Rezervēšana",
 		"RESERVATIONS": "Atrunas",
-		"RESERVATION_STATUS": "Rezervācijas statuss"
+		"RESERVATION_STATUS": "Rezervācijas statuss",
+		"START_DATE": "Sākuma datums"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Pievienot Dalībnieku",

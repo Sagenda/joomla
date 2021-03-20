@@ -71,8 +71,10 @@
 		"AGENDA": "Agenda",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Annuleer alle reserveringen voor dit evenement",
 		"CANCEL_BOOKING": "Annuleer deze reservering",
+		"DATE_RANGE": "Datumbereik",
 		"DETAIL": "Detail",
 		"EMAIL_ADDRESS": "Emailadres",
+		"END_DATE": "Einddatum",
 		"EVENT": "Evenement",
 		"LINK": "Verbinden",
 		"LOGGING_IN": "Inloggen",
@@ -84,7 +86,8 @@
 		"PWD": "Wachtwoord",
 		"RESERVATION": "Reservatie",
 		"RESERVATIONS": "Reserveringen",
-		"RESERVATION_STATUS": "Reserveringsstatus"
+		"RESERVATION_STATUS": "Reserveringsstatus",
+		"START_DATE": "Begin datum"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Deelnemer toevoegen",

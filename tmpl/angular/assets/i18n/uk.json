@@ -71,8 +71,10 @@
 		"AGENDA": "Порядок денний",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Скасуйте всі бронювання на цю подію",
 		"CANCEL_BOOKING": "Скасуйте це бронювання",
+		"DATE_RANGE": "Проміжок часу",
 		"DETAIL": "Докладно",
 		"EMAIL_ADDRESS": "Адреса електронної пошти",
+		"END_DATE": "Дата закінчення",
 		"EVENT": "Подія",
 		"LINK": "Посилання",
 		"LOGGING_IN": "Увійти",
@@ -84,7 +86,8 @@
 		"PWD": "пароль",
 		"RESERVATION": "Бронювання",
 		"RESERVATIONS": "Бронювання",
-		"RESERVATION_STATUS": "Статус резервації"
+		"RESERVATION_STATUS": "Статус резервації",
+		"START_DATE": "дата початку"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Додати учасника",

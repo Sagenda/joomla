@@ -71,8 +71,10 @@
 		"AGENDA": "বিষয়সূচি",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "এই ইভেন্টের জন্য সমস্ত সংরক্ষণ বাতিল করুন",
 		"CANCEL_BOOKING": "এই রিজার্ভেশন বাতিল করুন",
+		"DATE_RANGE": "তারিখের পরিসীমা",
 		"DETAIL": "বিস্তারিত",
 		"EMAIL_ADDRESS": "ইমেল ঠিকানা",
+		"END_DATE": "শেষ তারিখ",
 		"EVENT": "ঘটনা",
 		"LINK": "লিংক",
 		"LOGGING_IN": "লগ ইন",
@@ -84,7 +86,8 @@
 		"PWD": "পাসওয়ার্ড",
 		"RESERVATION": "সংরক্ষণ",
 		"RESERVATIONS": "রিজার্ভেশন",
-		"RESERVATION_STATUS": "সংরক্ষণের অবস্থা"
+		"RESERVATION_STATUS": "সংরক্ষণের অবস্থা",
+		"START_DATE": "শুরুর তারিখ"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "অংশগ্রহণকারী যোগ করুন",

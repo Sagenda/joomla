@@ -71,8 +71,10 @@
 		"AGENDA": "Päevakord",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Tühista kõik selle sündmuse broneeringud",
 		"CANCEL_BOOKING": "Tühista see broneering",
+		"DATE_RANGE": "Kuupäevavahemik",
 		"DETAIL": "Üksikasjad",
 		"EMAIL_ADDRESS": "E-post",
+		"END_DATE": "Lõppkuupäev",
 		"EVENT": "Sündmus",
 		"LINK": "Viide",
 		"LOGGING_IN": "Sisse logima",
@@ -84,7 +86,8 @@
 		"PWD": "Parool",
 		"RESERVATION": "Broneerimine",
 		"RESERVATIONS": "Reservatsioonid",
-		"RESERVATION_STATUS": "Broneeringu olek"
+		"RESERVATION_STATUS": "Broneeringu olek",
+		"START_DATE": "Algus kuupäev"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Lisage kaas broneerijat",

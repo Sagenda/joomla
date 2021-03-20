@@ -3,6 +3,11 @@
 		<name>Sagenda Calendar</name>
 		<description>This is the lastest version of Sagenda booking calendar.
 
+= 2.3.1 =
+* FIXED : Correct a date format bug in FireFox.
+* FIXED : Correct a bug with scoll only happening in macOS and iOS devices when having a lots of events and using the "adaptive" mode with monthly view.
+* FIXED : Correct a bug in the list of bookable items where special chars where pushed at the end. Now special chars are listed in the alphabetical order. BEFORE : a, b, c, d, z, à. NOW : a, à, b, c, d, z.  
+
 = 2.3.0 =
 * ADDED : Calendar can open at first at a specified date.
 
@@ -50,10 +55,10 @@ Biggest Sagenda update ever.
 		</description>
 		<element>mod_sagenda_calendar</element>
 		<type>module</type>
-		<version>2.3.0</version>
-		<infourl title="Weblinks Extension Package">https://github.com/Sagenda/joomla/releases/tag/2.3.0</infourl>
+		<version>2.3.1</version>
+		<infourl title="Weblinks Extension Package">https://github.com/Sagenda/joomla/releases/tag/2.3.1</infourl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/Sagenda/joomla/archive/2.3.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/Sagenda/joomla/archive/2.3.1.zip</downloadurl>
 		</downloads>
 		<maintainer>Joomla</maintainer>
 		<maintainerurl>https://github.com/Sagenda/joomla/releases</maintainerurl>

@@ -71,8 +71,10 @@
 		"AGENDA": "Ordine del giorno",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Annulla tutte le prenotazioni per questo evento",
 		"CANCEL_BOOKING": "Cancella questa prenotazione",
+		"DATE_RANGE": "Intervallo di date",
 		"DETAIL": "Dettaglio",
 		"EMAIL_ADDRESS": "Indirizzo email",
+		"END_DATE": "Data di fine",
 		"EVENT": "Evento",
 		"LINK": "Collegamento",
 		"LOGGING_IN": "Entrando",
@@ -84,7 +86,8 @@
 		"PWD": "Parola d'ordine",
 		"RESERVATION": "Prenotazione",
 		"RESERVATIONS": "Prenotazioni",
-		"RESERVATION_STATUS": "Stato della prenotazione"
+		"RESERVATION_STATUS": "Stato della prenotazione",
+		"START_DATE": "Data d'inizio"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Aggiungi partecipante",

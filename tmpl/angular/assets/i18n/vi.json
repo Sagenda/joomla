@@ -71,8 +71,10 @@
 		"AGENDA": "Chương trình nghị sự",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Hủy tất cả các đặt phòng cho sự kiện này",
 		"CANCEL_BOOKING": "Hủy đặt phòng này",
+		"DATE_RANGE": "Phạm vi ngày",
 		"DETAIL": "Chi tiết",
 		"EMAIL_ADDRESS": "Địa chỉ email",
+		"END_DATE": "Ngày cuối",
 		"EVENT": "Biến cố",
 		"LINK": "Liên kết",
 		"LOGGING_IN": "Đăng nhập",
@@ -84,7 +86,8 @@
 		"PWD": "mật khẩu",
 		"RESERVATION": "Đặt chỗ",
 		"RESERVATIONS": "Đặt phòng",
-		"RESERVATION_STATUS": "Trạng thái đặt chỗ"
+		"RESERVATION_STATUS": "Trạng thái đặt chỗ",
+		"START_DATE": "Ngày bắt đầu"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Thêm người tham gia",

@@ -71,8 +71,10 @@
 		"AGENDA": "Darbotvarkė",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Atšaukite visas šio įvykio rezervacijas",
 		"CANCEL_BOOKING": "Atšaukti šią rezervaciją",
+		"DATE_RANGE": "Data asortimentas",
 		"DETAIL": "Išsami informacija",
 		"EMAIL_ADDRESS": "Elektroninio pašto adresas",
+		"END_DATE": "Pabaigos data",
 		"EVENT": "Įvykis",
 		"LINK": "Nuoroda",
 		"LOGGING_IN": "Prisijungiama",
@@ -84,7 +86,8 @@
 		"PWD": "Slaptažodis",
 		"RESERVATION": "Rezervavimas",
 		"RESERVATIONS": "Išlygos",
-		"RESERVATION_STATUS": "Rezervacijos būsena"
+		"RESERVATION_STATUS": "Rezervacijos būsena",
+		"START_DATE": "Pradžios data"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Pridėti dalyvį",

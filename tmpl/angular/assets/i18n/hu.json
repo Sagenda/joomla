@@ -71,8 +71,10 @@
 		"AGENDA": "Napirend",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Törölje az esemény összes foglalását",
 		"CANCEL_BOOKING": "Törölje ezt a foglalást",
+		"DATE_RANGE": "Időintervallum",
 		"DETAIL": "Részlet",
 		"EMAIL_ADDRESS": "Email cím",
+		"END_DATE": "Befejezés dátuma",
 		"EVENT": "Esemény",
 		"LINK": "Link",
 		"LOGGING_IN": "Bejelentkezés",
@@ -84,7 +86,8 @@
 		"PWD": "Jelszó",
 		"RESERVATION": "Foglalás",
 		"RESERVATIONS": "Fenntartások",
-		"RESERVATION_STATUS": "Foglalási állapot"
+		"RESERVATION_STATUS": "Foglalási állapot",
+		"START_DATE": "Kezdő dátum"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Résztvevő hozzáadása",

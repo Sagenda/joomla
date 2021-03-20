@@ -71,8 +71,10 @@
 		"AGENDA": "अजेंडा",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "या कार्यक्रमासाठी सर्व आरक्षणे रद्द करा",
 		"CANCEL_BOOKING": "हे आरक्षण रद्द करा",
+		"DATE_RANGE": "तारीख श्रेणी",
 		"DETAIL": "तपशील",
 		"EMAIL_ADDRESS": "ईमेल पत्ताः",
+		"END_DATE": "शेवटची तारीख",
 		"EVENT": "कार्यक्रम",
 		"LINK": "दुवा",
 		"LOGGING_IN": "लॉग इन",
@@ -84,7 +86,8 @@
 		"PWD": "पासवर्ड",
 		"RESERVATION": "आरक्षण",
 		"RESERVATIONS": "आरक्षणे",
-		"RESERVATION_STATUS": "आरक्षणाची स्थिती"
+		"RESERVATION_STATUS": "आरक्षणाची स्थिती",
+		"START_DATE": "प्रारंभ तारीख"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "सहभागी जोडा",

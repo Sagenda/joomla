@@ -71,8 +71,10 @@
 		"AGENDA": "Ajenda",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Ghairi kutoridhishwa kwa tukio hili",
 		"CANCEL_BOOKING": "Ghairi uhifadhi huu",
+		"DATE_RANGE": "Kiwango cha tarehe",
 		"DETAIL": "Maelezo",
 		"EMAIL_ADDRESS": "Barua pepe",
+		"END_DATE": "Tarehe ya mwisho",
 		"EVENT": "Tukio",
 		"LINK": "Unganisha",
 		"LOGGING_IN": "Ingia kwenye",
@@ -84,7 +86,8 @@
 		"PWD": "Nenosiri",
 		"RESERVATION": "Uhifadhi",
 		"RESERVATIONS": "Kutoridhishwa",
-		"RESERVATION_STATUS": "Hali ya kuweka nafasi"
+		"RESERVATION_STATUS": "Hali ya kuweka nafasi",
+		"START_DATE": "Tarehe ya Kuanza"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Ongeza Mshiriki",

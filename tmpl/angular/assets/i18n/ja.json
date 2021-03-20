@@ -71,8 +71,10 @@
 		"AGENDA": "議題",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "このイベントのすべての予約をキャンセル",
 		"CANCEL_BOOKING": "この予約をキャンセル",
+		"DATE_RANGE": "期間",
 		"DETAIL": "詳細",
 		"EMAIL_ADDRESS": "電子メールアドレス",
+		"END_DATE": "終了日",
 		"EVENT": "イベント",
 		"LINK": "リンク",
 		"LOGGING_IN": "ログイン中",
@@ -84,7 +86,8 @@
 		"PWD": "パスワード",
 		"RESERVATION": "予約",
 		"RESERVATIONS": "ご予約",
-		"RESERVATION_STATUS": "予約状況"
+		"RESERVATION_STATUS": "予約状況",
+		"START_DATE": "開始日"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "参加者を追加",

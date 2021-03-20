@@ -71,8 +71,10 @@
 		"AGENDA": "議程",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "取消此活动的所有预订",
 		"CANCEL_BOOKING": "取消此预订",
+		"DATE_RANGE": "日期范围",
 		"DETAIL": "详情",
 		"EMAIL_ADDRESS": "電郵地址",
+		"END_DATE": "结束日期",
 		"EVENT": "事件",
 		"LINK": "連結",
 		"LOGGING_IN": "在登录",
@@ -84,7 +86,8 @@
 		"PWD": "密碼",
 		"RESERVATION": "保留",
 		"RESERVATIONS": "订座",
-		"RESERVATION_STATUS": "预约状态"
+		"RESERVATION_STATUS": "预约状态",
+		"START_DATE": "开始日期"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "添加參與者",

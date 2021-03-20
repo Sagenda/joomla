@@ -71,8 +71,10 @@
 		"AGENDA": "Jadwal acara",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Batalkan semua reservasi untuk acara ini",
 		"CANCEL_BOOKING": "Batalkan pemesanan ini",
+		"DATE_RANGE": "Rentang Tanggal",
 		"DETAIL": "Detail",
 		"EMAIL_ADDRESS": "Alamat email",
+		"END_DATE": "Tanggal Berakhir",
 		"EVENT": "Peristiwa",
 		"LINK": "Tautan",
 		"LOGGING_IN": "Masuk",
@@ -84,7 +86,8 @@
 		"PWD": "Kata sandi",
 		"RESERVATION": "Reservasi",
 		"RESERVATIONS": "Pemesanan",
-		"RESERVATION_STATUS": "Status reservasi"
+		"RESERVATION_STATUS": "Status reservasi",
+		"START_DATE": "Mulai tanggal"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Tambahkan anggota",

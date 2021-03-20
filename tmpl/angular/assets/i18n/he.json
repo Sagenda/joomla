@@ -71,8 +71,10 @@
 		"AGENDA": "אג'נדה",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "בטל את כל ההזמנות לאירוע זה",
 		"CANCEL_BOOKING": "בטל הזמנה זו",
+		"DATE_RANGE": "טווח תאריכים",
 		"DETAIL": "פרט",
 		"EMAIL_ADDRESS": "כתובת דוא\"ל",
+		"END_DATE": "תאריך סיום",
 		"EVENT": "אירוע",
 		"LINK": "קישור",
 		"LOGGING_IN": "מתחבר",
@@ -84,7 +86,8 @@
 		"PWD": "סיסמה",
 		"RESERVATION": "הזמנה",
 		"RESERVATIONS": "הזמנות",
-		"RESERVATION_STATUS": "מצב הזמנה"
+		"RESERVATION_STATUS": "מצב הזמנה",
+		"START_DATE": "תאריך התחלה"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "הוספת משתתף/ת",

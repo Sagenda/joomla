@@ -71,8 +71,10 @@
 		"AGENDA": "Rend dite",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Anuloni të gjitha rezervimet për këtë ngjarje",
 		"CANCEL_BOOKING": "Anuloni këtë rezervim",
+		"DATE_RANGE": "Diapazoni i datës",
 		"DETAIL": "Hollësi",
 		"EMAIL_ADDRESS": "Adresa e postës elektronike",
+		"END_DATE": "Data e përfundimit",
 		"EVENT": "ngjarje",
 		"LINK": "lidhje",
 		"LOGGING_IN": "Hyrja",
@@ -84,7 +86,8 @@
 		"PWD": "Fjalëkalim",
 		"RESERVATION": "Rezervë",
 		"RESERVATIONS": "Rezervimet",
-		"RESERVATION_STATUS": "Statusi i rezervimit"
+		"RESERVATION_STATUS": "Statusi i rezervimit",
+		"START_DATE": "Data e fillimit"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Shto Pjesëmarrësin",

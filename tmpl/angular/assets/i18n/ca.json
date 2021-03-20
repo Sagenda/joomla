@@ -71,8 +71,10 @@
 		"AGENDA": "Agenda",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Cancel·la totes les reserves d’aquest esdeveniment",
 		"CANCEL_BOOKING": "Cancel·la aquesta reserva",
+		"DATE_RANGE": "Interval de dates",
 		"DETAIL": "Detall",
 		"EMAIL_ADDRESS": "correu electrònic",
+		"END_DATE": "Data de finalització",
 		"EVENT": "Esdeveniment",
 		"LINK": "Enllaç",
 		"LOGGING_IN": "Inicia sesió",
@@ -84,7 +86,8 @@
 		"PWD": "contrasenya",
 		"RESERVATION": "Reserva",
 		"RESERVATIONS": "Reserves",
-		"RESERVATION_STATUS": "Estat de la reserva"
+		"RESERVATION_STATUS": "Estat de la reserva",
+		"START_DATE": "Data d'inici"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Afegeix un participant",

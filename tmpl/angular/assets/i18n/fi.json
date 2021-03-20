@@ -71,8 +71,10 @@
 		"AGENDA": "esityslista",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Peruuta kaikki tämän tapahtuman varaukset",
 		"CANCEL_BOOKING": "Peruuta tämä varaus",
+		"DATE_RANGE": "Ajanjakso",
 		"DETAIL": "Yksityiskohta",
 		"EMAIL_ADDRESS": "Sähköpostiosoite",
+		"END_DATE": "Päättymispäivä",
 		"EVENT": "Tapahtuma",
 		"LINK": "Linkki",
 		"LOGGING_IN": "Kirjautua sisään",
@@ -84,7 +86,8 @@
 		"PWD": "salasana",
 		"RESERVATION": "Varaus",
 		"RESERVATIONS": "Varaukset",
-		"RESERVATION_STATUS": "Varauksen tila"
+		"RESERVATION_STATUS": "Varauksen tila",
+		"START_DATE": "Aloituspäivämäärä"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Lisää varaaja",

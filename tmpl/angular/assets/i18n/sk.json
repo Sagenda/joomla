@@ -71,8 +71,10 @@
 		"AGENDA": "program",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Zrušiť všetky rezervácie pre túto udalosť",
 		"CANCEL_BOOKING": "Zrušiť túto rezerváciu",
+		"DATE_RANGE": "Rozsah dátumov",
 		"DETAIL": "Detail",
 		"EMAIL_ADDRESS": "Emailová adresa",
+		"END_DATE": "Dátum ukončenia",
 		"EVENT": "Udalosť",
 		"LINK": "Odkaz",
 		"LOGGING_IN": "Prihlasovanie",
@@ -84,7 +86,8 @@
 		"PWD": "heslo",
 		"RESERVATION": "Výhrada",
 		"RESERVATIONS": "Výhrady",
-		"RESERVATION_STATUS": "Stav rezervácie"
+		"RESERVATION_STATUS": "Stav rezervácie",
+		"START_DATE": "Dátum začiatku"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Pridať účastníka",

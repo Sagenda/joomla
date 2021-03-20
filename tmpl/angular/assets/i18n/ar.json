@@ -71,8 +71,10 @@
 		"AGENDA": "جدول أعمال",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "إلغاء جميع الحجوزات لهذا الحدث",
 		"CANCEL_BOOKING": "إلغاء هذا الحجز",
+		"DATE_RANGE": "نطاق الموعد",
 		"DETAIL": "التفاصيل",
 		"EMAIL_ADDRESS": "عنوان بريد الكتروني",
+		"END_DATE": "تاريخ الانتهاء",
 		"EVENT": "هدف",
 		"LINK": "الرابط",
 		"LOGGING_IN": "تسجيل الدخول",
@@ -84,7 +86,8 @@
 		"PWD": "كلمه السر",
 		"RESERVATION": "حجز",
 		"RESERVATIONS": "الحجز",
-		"RESERVATION_STATUS": "حالة الحجز"
+		"RESERVATION_STATUS": "حالة الحجز",
+		"START_DATE": "تاريخ البدء"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "إضافة عضو",

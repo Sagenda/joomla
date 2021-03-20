@@ -71,8 +71,10 @@
 		"AGENDA": "Terminarz",
 		"CANCEL_ALL_BOOKINGS_FOR_THIS_EVENT": "Anuluj wszystkie rezerwacje na to wydarzenie",
 		"CANCEL_BOOKING": "Anuluj tę rezerwację",
+		"DATE_RANGE": "zakres dat",
 		"DETAIL": "Szczegół",
 		"EMAIL_ADDRESS": "Adres e-mail",
+		"END_DATE": "Data zakonczenia",
 		"EVENT": "Wydarzenie",
 		"LINK": "Łącze",
 		"LOGGING_IN": "Logowanie",
@@ -84,7 +86,8 @@
 		"PWD": "Hasło",
 		"RESERVATION": "Rezerwacja",
 		"RESERVATIONS": "Rezerwacje",
-		"RESERVATION_STATUS": "Status rezerwacji"
+		"RESERVATION_STATUS": "Status rezerwacji",
+		"START_DATE": "data rozpoczęcia"
 	},
 	"SUBSCRIPTION": {
 		"ADD_MEMBER": "Dodaj uczestnika",
